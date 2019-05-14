@@ -13,6 +13,8 @@ export APPDYNAMICS_AGENT_TIER_NAME=TIER_JT1
 
 export JAVA_OPTS=""
 export JAVA_OPTS=$JAVA_OPTS"-Dappdynamics.low.entropy=true "
+export JAVA_OPTS=$JAVA_OPTS"-Dallow.unsigned.sdk.extension.jars=true "
+export JAVA_OPTS=$JAVA_OPTS"-cp /Users/david.ryder/Downloads/AppD-Downloads/AppServerAgent-4.5.4.24355/ver4.5.4.24355/javaagent.jar:."
 
 # Network Visibility
 #export LD_PRELOAD="/home/ddr/agent-net/lib/appd-netlib.so "
