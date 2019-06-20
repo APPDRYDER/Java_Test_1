@@ -1,27 +1,33 @@
+import java.util.Date;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
 import java.util.Queue;
 import java.util.LinkedList;
+import java.util.concurrent.LinkedBlockingQueue;
 import java.util.Random;
 import java.util.UUID;
+//import java.util.logging.*;
+//import java.io.IOException;
+//import org.apache.log4j.Logger;
 
 public class TestQueue1
 {
+	//private static final Logger log1 = Logger.getLogger( TestQueue1.class.getName() );
 	private Random r1 = new Random();
 
 	public class Task {
-		private long effort;
-		private long waitMs;
+		private int effort;
+		private int waitMs;
 		private int errorRate;
-		private long total;
+		private int total;
 		private UUID uuid;
 
 		public Task() {
 				this(1000, 20);
 		}
 
-		public Task(long waitMs, int errorRate) {
+		public Task(int waitMs, int errorRate) {
 			this.effort = 1 + r1.nextInt(10);
 			this.waitMs = waitMs;
 			this.errorRate = errorRate;
@@ -39,12 +45,11 @@ public class TestQueue1
 
 		public void waitMs() {
 			try {
-				//Thread.sleep(this.waitMs);
 				if (r1.nextInt(100) < errorRate) {
-						Thread.sleep(this.waitMs * 3);
+						Thread.sleep(this.waitMs * r1.nextInt(10));
 				}
 			} catch (InterruptedException e ) {
-				System.out.println( e );
+				System.out.println(String.format("Exception: %s",e));
 			}
 		} // waitMs
 
@@ -81,11 +86,11 @@ public class TestQueue1
 
 		public void pauseWhenFull() {
 			try {
-				int pauseSec = r1.nextInt(60); // pause for upto nn seconds
+				int pauseSec = r1.nextInt(20)+10; // pause for upto nn seconds
 				System.out.println(String.format("%s: Pausing for: %d seconds", this.name, pauseSec));
 				Thread.sleep(pauseSec * 1000);
 			} catch (InterruptedException e ) {
-				System.out.println( e );
+				System.out.println(String.format("Exception: %s",e));
 			}
 		} // pauseWhenFull
 
@@ -129,7 +134,7 @@ public class TestQueue1
 					System.out.println(String.format("%s: Completed %s Completed: %d", this.name, t, this.completed));
 				}
 			} else {
-				System.out.println(String.format("%s: Queue Empty, Completed: %d, Queue Size: (%d, %d)", this.name, this.completed, this.q.size()));
+				System.out.println(String.format("%s: Queue Empty, Completed: %d, Queue Size: (%d)", this.name, this.completed, this.q.size()));
 				//this.q.forEach(task -> {
 				//	 System.out.println(task);
 			}
@@ -143,38 +148,62 @@ public class TestQueue1
 
 	// TestQueue1
 	public TestQueue1() {
+		//configureLogging();
 	}
 
-	public void startQueues(long durationSeconds, long waitMs, int errorRate, long consumerThreads, String nodeName) {
-		Queue<Task> queue1 = new LinkedList<>();
+	public void startQueues(int durationSeconds, int waitMs, int errorRate, int consumerThreads, String nodeName) {
+		Queue<Task> queue2 = new LinkedList<>();
+		Queue<Task> queue1 = new LinkedBlockingQueue<>();
 
-		ScheduledExecutorService ses = Executors.newScheduledThreadPool(4);
+		ScheduledExecutorService ses = Executors.newScheduledThreadPool(consumerThreads+1);
 
 		for (int threadN=1; threadN<=consumerThreads; threadN++) {
 			Consumer c = new Consumer(nodeName+Integer.toString(threadN), queue1);
 			//ses.scheduleAtFixedRate(c, r1.nextInt(10), 1, TimeUnit.SECONDS);
-			ses.scheduleWithFixedDelay(c, r1.nextInt(10), 1, TimeUnit.SECONDS);
+			ses.scheduleWithFixedDelay(c, threadN, 1, TimeUnit.SECONDS);
 		}
 
 		Producer p = new Producer("Producer1", queue1, 10);
-		ses.scheduleWithFixedDelay(p, 1, 2, TimeUnit.SECONDS); // new task after the previous task has finished
+		ses.scheduleWithFixedDelay(p, 10, 2, TimeUnit.SECONDS); // new task after the previous task has finished
 
 		// Wait for tasks to complete
-		System.out.println( "Waiting" );
+		System.out.println(String.format("Waiting for thread termination %d seconds",durationSeconds));
 		try {
-			ses.awaitTermination(durationSeconds, TimeUnit.SECONDS);
+			ses.awaitTermination((long)durationSeconds, TimeUnit.SECONDS);
+			System.out.println("Shutdown");
 			ses.shutdownNow();
 		} catch (Exception e ) {
-			System.out.println( e );
+			System.out.println(String.format("Exception: %s",e));
 		}
-		System.out.println( "Complete" );
+		System.out.println("Complete");
 	}
 
+	// public void configureLogging() {
+	// 	try {
+	// 		FileHandler fh = new FileHandler("TestQueue1.log");
+	// 		fh.setFormatter(new SimpleFormatter() {
+	// 					private static final String format = "[%1$tF %1$tT] [%2$-7s] %3$s %n";
+	// 					@Override
+	// 					public synchronized String format(LogRecord lr) {
+	// 							try {
+	// 								return String.format(format,new Date(lr.getMillis()),lr.getLevel().getLocalizedName(),lr.getMessage());
+	// 							} catch (Exception e) {
+	// 								return String.format("SimpleFormatter Failed with Exception %s", e);
+	// 							}
+	// 					}
+	// 			});
+	// 		//fh.setFormatter(new SimpleFormatter());
+	// 		log1.addHandler(fh);
+	// 	} catch (Exception e) {
+	// 		System.out.println("Exception: " + e);
+	// 	}
+	// } // configureLogging
+
 	// Main
-	public static void main(String[] args) {
-		long durationSeconds, waitMs, nodes;
-		int errorRate;
+	public static void main(String[] args)  {
+		int durationSeconds, waitMs, nodes, errorRate;
 		String nodeName;
+
 
 		if (args.length >= 1) {
 			durationSeconds =  Integer.parseInt(args[0]);
@@ -207,6 +236,7 @@ public class TestQueue1
 		}
 
 		TestQueue1 ta1 = new TestQueue1();
+		System.out.println(String.format("Starting %d", durationSeconds));
 		ta1.startQueues(durationSeconds, waitMs, errorRate, nodes, nodeName);
 	} // main
 } // TestQueue1

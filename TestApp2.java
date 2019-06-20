@@ -3,6 +3,12 @@ import java.util.Random;
 import java.util.HashSet;
 import java.util.Set;
 
+//AppDynamics Instrumentation
+import com.appdynamics.apm.appagent.api.AgentDelegate;
+import com.appdynamics.apm.appagent.api.ITransactionDemarcator;
+import com.appdynamics.apm.appagent.api.IMetricAndEventReporter;
+import com.appdynamics.apm.appagent.api.DataScope;
+
 public class TestApp1
 {
 	private int total;
@@ -14,11 +20,6 @@ public class TestApp1
 
 	public void sum(int value) {
 		total += value;
-		try {
-			Thread.sleep(1000);
-		} catch (Exception e ) {
-			System.out.println( e );
-		}
 	}
 
 	public int getTotal() {
@@ -38,6 +39,17 @@ public class TestApp1
 	}
 
 	public void worker1(int value, int waitMs, String nodeName) {
+		String txUUID = ""; // AppDynamics uniqueIdentifierForTransaction
+		ITransactionDemarcator tx = AgentDelegate.getTransactionDemarcator();
+		IMetricAndEventReporter reporter = AgentDelegate.getMetricAndEventPublisher();
+		Set<DataScope> allScopes = new HashSet<DataScope>();
+		allScopes.add(DataScope.ANALYTICS);
+		allScopes.add(DataScope.SNAPSHOTS);
+
+		// Current BT: null if not in a BT
+		txUUID = tx.getUniqueIdentifierForTransaction();
+		System.out.println(String.format("BT: %s", txUUID));
+
 		long startTime = System.currentTimeMillis();
 		sum(value);
 		int total = getTotal();
@@ -45,6 +57,13 @@ public class TestApp1
 		//System.out.println( "Total " + total + " Random " + random);
 		waitMs(waitMs);
 		long durationTime = System.currentTimeMillis();
+
+		// Add duration to snapshot data
+		reporter.addSnapshotData("TEST_DURATION_1", durationTime, allScopes);
+
+		// Add custom getMetricAndEventPublisher
+		AgentDelegate.getMetricAndEventPublisher().reportMetric(String.format("Custom Metrics|JAVA_TEST1|WORKER_TASK|%s|Duration", nodeName),
+		 																												durationTime, "OBSERVATION", "CURRENT", "INDIVIDUAL");
 	}
 
 	public void test1(int count, int waitMs, String nodeName) {

@@ -1,0 +1,1888 @@
+[2019-06-19 17:46:48] [INFO   ] Starting 86400 
+[2019-06-19 17:46:48] [INFO   ] Waiting for thread termination 
+[2019-06-19 17:46:49] [INFO   ] Producer1: Adding Task(f4974e45, 4, 0) Queue Size: 0 
+[2019-06-19 17:46:51] [INFO   ] NODE-2: Working Task(f4974e45, 4, 0), Queue Size: 0 
+[2019-06-19 17:46:51] [INFO   ] Producer1: Adding Task(4df395bb, 5, 0) Queue Size: 1 
+[2019-06-19 17:46:52] [INFO   ] NODE-2: Working Task(f4974e45, 3, 56), Queue Size: 1 
+[2019-06-19 17:46:53] [INFO   ] NODE-1: Working Task(4df395bb, 5, 0), Queue Size: 1 
+[2019-06-19 17:46:53] [INFO   ] NODE-2: Working Task(f4974e45, 2, 155), Queue Size: 0 
+[2019-06-19 17:46:53] [INFO   ] Producer1: Adding Task(f7704f01, 5, 0) Queue Size: 2 
+[2019-06-19 17:46:54] [INFO   ] NODE-3: Working Task(f4974e45, 1, 205), Queue Size: 2 
+[2019-06-19 17:46:54] [INFO   ] NODE-2: Working Task(4df395bb, 4, 6), Queue Size: 1 
+[2019-06-19 17:46:54] [INFO   ] NODE-1: Working Task(f7704f01, 5, 0), Queue Size: 0 
+[2019-06-19 17:46:55] [INFO   ] NODE-1: Working Task(f7704f01, 4, 73), Queue Size: 0 
+[2019-06-19 17:46:55] [INFO   ] NODE-2: Working Task(4df395bb, 3, 79), Queue Size: 1 
+[2019-06-19 17:46:55] [INFO   ] Producer1: Adding Task(028f5716, 5, 0) Queue Size: 1 
+[2019-06-19 17:46:56] [INFO   ] NODE-1: Working Task(f7704f01, 3, 117), Queue Size: 1 
+[2019-06-19 17:46:57] [INFO   ] Producer1: Adding Task(d4ff132f, 7, 0) Queue Size: 1 
+[2019-06-19 17:46:59] [INFO   ] Producer1: Adding Task(2ffa7c7c, 10, 0) Queue Size: 2 
+[2019-06-19 17:47:01] [INFO   ] Producer1: Adding Task(47103cac, 2, 0) Queue Size: 4 
+[2019-06-19 17:47:02] [INFO   ] NODE-1: Working Task(028f5716, 5, 0), Queue Size: 4 
+[2019-06-19 17:47:03] [INFO   ] NODE-3: Completed Task(f4974e45, 0, 218) Completed: 1 
+[2019-06-19 17:47:03] [INFO   ] NODE-1: Working Task(d4ff132f, 7, 0), Queue Size: 4 
+[2019-06-19 17:47:03] [INFO   ] Producer1: Adding Task(e284039e, 9, 0) Queue Size: 5 
+[2019-06-19 17:47:04] [INFO   ] NODE-3: Working Task(2ffa7c7c, 10, 0), Queue Size: 5 
+[2019-06-19 17:47:04] [INFO   ] NODE-1: Working Task(f7704f01, 2, 135), Queue Size: 6 
+[2019-06-19 17:47:05] [INFO   ] NODE-3: Working Task(47103cac, 2, 0), Queue Size: 6 
+[2019-06-19 17:47:05] [INFO   ] NODE-2: Working Task(028f5716, 4, 87), Queue Size: 6 
+[2019-06-19 17:47:05] [INFO   ] NODE-1: Working Task(d4ff132f, 6, 12), Queue Size: 6 
+[2019-06-19 17:47:05] [INFO   ] Producer1: Adding Task(f138d847, 6, 0) Queue Size: 7 
+[2019-06-19 17:47:06] [INFO   ] NODE-3: Working Task(e284039e, 9, 0), Queue Size: 7 
+[2019-06-19 17:47:06] [INFO   ] NODE-2: Working Task(2ffa7c7c, 9, 26), Queue Size: 6 
+[2019-06-19 17:47:06] [INFO   ] NODE-1: Working Task(4df395bb, 2, 168), Queue Size: 6 
+[2019-06-19 17:47:07] [INFO   ] NODE-2: Working Task(f7704f01, 1, 149), Queue Size: 6 
+[2019-06-19 17:47:07] [INFO   ] Producer1: Adding Task(d06b1ba0, 1, 0) Queue Size: 6 
+[2019-06-19 17:47:07] [INFO   ] NODE-1: Working Task(47103cac, 1, 12), Queue Size: 6 
+[2019-06-19 17:47:07] [INFO   ] NODE-1: Completed Task(47103cac, 0, 24) Completed: 1 
+[2019-06-19 17:47:08] [INFO   ] NODE-1: Working Task(028f5716, 3, 126), Queue Size: 5 
+[2019-06-19 17:47:09] [INFO   ] NODE-2: Completed Task(f7704f01, 0, 243) Completed: 1 
+[2019-06-19 17:47:09] [INFO   ] Producer1: Adding Task(21590b25, 8, 0) Queue Size: 6 
+[2019-06-19 17:47:09] [INFO   ] NODE-1: Working Task(d4ff132f, 5, 32), Queue Size: 6 
+[2019-06-19 17:47:10] [INFO   ] NODE-2: Working Task(f138d847, 6, 0), Queue Size: 6 
+[2019-06-19 17:47:10] [INFO   ] NODE-1: Working Task(2ffa7c7c, 8, 58), Queue Size: 5 
+[2019-06-19 17:47:11] [INFO   ] Producer1: Adding Task(7cd9e759, 9, 0) Queue Size: 6 
+[2019-06-19 17:47:11] [INFO   ] NODE-1: Working Task(4df395bb, 1, 232), Queue Size: 6 
+[2019-06-19 17:47:11] [INFO   ] NODE-1: Completed Task(4df395bb, 0, 232) Completed: 2 
+[2019-06-19 17:47:12] [INFO   ] NODE-1: Working Task(d06b1ba0, 1, 0), Queue Size: 5 
+[2019-06-19 17:47:12] [INFO   ] NODE-1: Completed Task(d06b1ba0, 0, 87) Completed: 3 
+[2019-06-19 17:47:13] [INFO   ] Producer1: Adding Task(bb22fd5d, 7, 0) Queue Size: 5 
+[2019-06-19 17:47:13] [INFO   ] NODE-1: Working Task(028f5716, 2, 145), Queue Size: 5 
+[2019-06-19 17:47:15] [INFO   ] NODE-3: Working Task(21590b25, 8, 0), Queue Size: 5 
+[2019-06-19 17:47:15] [INFO   ] Producer1: Adding Task(a8b759c4, 5, 0) Queue Size: 6 
+[2019-06-19 17:47:16] [INFO   ] NODE-3: Working Task(d4ff132f, 4, 109), Queue Size: 6 
+[2019-06-19 17:47:17] [INFO   ] NODE-3: Working Task(2ffa7c7c, 7, 90), Queue Size: 6 
+[2019-06-19 17:47:17] [INFO   ] Producer1: Adding Task(29ff5c53, 1, 0) Queue Size: 7 
+[2019-06-19 17:47:18] [INFO   ] NODE-3: Working Task(7cd9e759, 9, 0), Queue Size: 8 
+[2019-06-19 17:47:19] [INFO   ] NODE-2: Working Task(bb22fd5d, 7, 0), Queue Size: 8 
+[2019-06-19 17:47:19] [INFO   ] NODE-3: Working Task(e284039e, 8, 2), Queue Size: 7 
+[2019-06-19 17:47:19] [INFO   ] Producer1: Adding Task(f4157456, 10, 0) Queue Size: 7 
+[2019-06-19 17:47:20] [INFO   ] NODE-1: Working Task(21590b25, 7, 11), Queue Size: 8 
+[2019-06-19 17:47:21] [INFO   ] Producer1: Queue full 10 
+[2019-06-19 17:47:21] [INFO   ] Producer1: Pausing for: 2 seconds 
+[2019-06-19 17:47:21] [INFO   ] NODE-1: Working Task(a8b759c4, 5, 0), Queue Size: 9 
+[2019-06-19 17:47:22] [INFO   ] NODE-3: Working Task(d4ff132f, 3, 109), Queue Size: 9 
+[2019-06-19 17:47:22] [INFO   ] NODE-1: Working Task(2ffa7c7c, 6, 117), Queue Size: 9 
+[2019-06-19 17:47:23] [INFO   ] NODE-3: Working Task(29ff5c53, 1, 0), Queue Size: 9 
+[2019-06-19 17:47:23] [INFO   ] NODE-3: Completed Task(29ff5c53, 0, 19) Completed: 2 
+[2019-06-19 17:47:23] [INFO   ] NODE-1: Working Task(f138d847, 5, 47), Queue Size: 8 
+[2019-06-19 17:47:24] [INFO   ] NODE-3: Working Task(7cd9e759, 8, 39), Queue Size: 7 
+[2019-06-19 17:47:25] [INFO   ] NODE-3: Working Task(f4157456, 10, 0), Queue Size: 7 
+[2019-06-19 17:47:25] [INFO   ] Producer1: Adding Task(7f0637f0, 5, 0) Queue Size: 8 
+[2019-06-19 17:47:26] [INFO   ] NODE-3: Working Task(028f5716, 1, 174), Queue Size: 8 
+[2019-06-19 17:47:27] [INFO   ] Producer1: Adding Task(e575cca5, 7, 0) Queue Size: 9 
+[2019-06-19 17:47:28] [INFO   ] NODE-2: Working Task(21590b25, 6, 93), Queue Size: 9 
+[2019-06-19 17:47:29] [INFO   ] NODE-2: Working Task(e284039e, 7, 78), Queue Size: 9 
+[2019-06-19 17:47:29] [INFO   ] Producer1: Queue full 10 
+[2019-06-19 17:47:29] [INFO   ] Producer1: Pausing for: 13 seconds 
+[2019-06-19 17:47:30] [INFO   ] NODE-1: Working Task(a8b759c4, 4, 50), Queue Size: 9 
+[2019-06-19 17:47:31] [INFO   ] NODE-1: Working Task(d4ff132f, 2, 179), Queue Size: 9 
+[2019-06-19 17:47:32] [INFO   ] NODE-1: Working Task(2ffa7c7c, 5, 192), Queue Size: 9 
+[2019-06-19 17:47:33] [INFO   ] NODE-1: Working Task(7cd9e759, 7, 43), Queue Size: 9 
+[2019-06-19 17:47:34] [INFO   ] NODE-3: Completed Task(028f5716, 0, 210) Completed: 3 
+[2019-06-19 17:47:34] [INFO   ] NODE-1: Working Task(f4157456, 9, 45), Queue Size: 9 
+[2019-06-19 17:47:35] [INFO   ] NODE-3: Working Task(7f0637f0, 5, 0), Queue Size: 10 
+[2019-06-19 17:47:35] [INFO   ] NODE-1: Working Task(bb22fd5d, 6, 39), Queue Size: 10 
+[2019-06-19 17:47:36] [INFO   ] NODE-2: Working Task(e575cca5, 7, 0), Queue Size: 10 
+[2019-06-19 17:47:36] [INFO   ] NODE-3: Working Task(21590b25, 5, 148), Queue Size: 10 
+[2019-06-19 17:47:36] [INFO   ] NODE-1: Working Task(f138d847, 4, 61), Queue Size: 10 
+[2019-06-19 17:47:37] [INFO   ] NODE-2: Working Task(a8b759c4, 3, 101), Queue Size: 9 
+[2019-06-19 17:47:37] [INFO   ] NODE-3: Working Task(d4ff132f, 1, 277), Queue Size: 9 
+[2019-06-19 17:47:37] [INFO   ] NODE-3: Completed Task(d4ff132f, 0, 312) Completed: 4 
+[2019-06-19 17:47:38] [INFO   ] NODE-2: Working Task(2ffa7c7c, 4, 281), Queue Size: 8 
+[2019-06-19 17:47:38] [INFO   ] NODE-3: Working Task(7cd9e759, 6, 54), Queue Size: 7 
+[2019-06-19 17:47:43] [INFO   ] NODE-3: Working Task(f4157456, 8, 109), Queue Size: 9 
+[2019-06-19 17:47:43] [INFO   ] NODE-1: Working Task(e284039e, 6, 82), Queue Size: 9 
+[2019-06-19 17:47:44] [INFO   ] NODE-2: Working Task(7f0637f0, 4, 77), Queue Size: 9 
+[2019-06-19 17:47:44] [INFO   ] NODE-3: Working Task(bb22fd5d, 5, 114), Queue Size: 9 
+[2019-06-19 17:47:44] [INFO   ] Producer1: Queue full 10 
+[2019-06-19 17:47:44] [INFO   ] Producer1: Pausing for: 15 seconds 
+[2019-06-19 17:47:44] [INFO   ] NODE-1: Working Task(e575cca5, 6, 99), Queue Size: 9 
+[2019-06-19 17:47:45] [INFO   ] NODE-2: Working Task(21590b25, 4, 155), Queue Size: 9 
+[2019-06-19 17:47:45] [INFO   ] NODE-3: Working Task(a8b759c4, 2, 115), Queue Size: 9 
+[2019-06-19 17:47:45] [INFO   ] NODE-1: Working Task(7cd9e759, 5, 132), Queue Size: 9 
+[2019-06-19 17:47:46] [INFO   ] NODE-2: Working Task(f138d847, 3, 86), Queue Size: 9 
+[2019-06-19 17:47:46] [INFO   ] NODE-3: Working Task(2ffa7c7c, 3, 350), Queue Size: 9 
+[2019-06-19 17:47:46] [INFO   ] NODE-1: Working Task(f4157456, 7, 151), Queue Size: 9 
+[2019-06-19 17:47:47] [INFO   ] NODE-2: Working Task(e284039e, 5, 85), Queue Size: 8 
+[2019-06-19 17:47:47] [INFO   ] NODE-3: Working Task(7f0637f0, 3, 104), Queue Size: 8 
+[2019-06-19 17:47:48] [INFO   ] NODE-2: Working Task(bb22fd5d, 4, 166), Queue Size: 7 
+[2019-06-19 17:47:49] [INFO   ] NODE-2: Working Task(e575cca5, 5, 173), Queue Size: 8 
+[2019-06-19 17:47:49] [INFO   ] NODE-1: Working Task(21590b25, 3, 200), Queue Size: 8 
+[2019-06-19 17:47:50] [INFO   ] NODE-2: Working Task(a8b759c4, 1, 159), Queue Size: 8 
+[2019-06-19 17:47:50] [INFO   ] NODE-2: Completed Task(a8b759c4, 0, 207) Completed: 2 
+[2019-06-19 17:47:50] [INFO   ] NODE-1: Working Task(7cd9e759, 4, 212), Queue Size: 7 
+[2019-06-19 17:47:51] [INFO   ] NODE-2: Working Task(f138d847, 2, 144), Queue Size: 7 
+[2019-06-19 17:47:51] [INFO   ] NODE-1: Working Task(2ffa7c7c, 2, 444), Queue Size: 7 
+[2019-06-19 17:47:52] [INFO   ] NODE-2: Working Task(e284039e, 4, 134), Queue Size: 7 
+[2019-06-19 17:47:52] [INFO   ] NODE-1: Working Task(bb22fd5d, 3, 175), Queue Size: 7 
+[2019-06-19 17:47:53] [INFO   ] NODE-2: Working Task(f4157456, 6, 195), Queue Size: 7 
+[2019-06-19 17:47:53] [INFO   ] NODE-1: Working Task(e575cca5, 4, 231), Queue Size: 6 
+[2019-06-19 17:47:55] [INFO   ] NODE-3: Working Task(21590b25, 2, 293), Queue Size: 6 
+[2019-06-19 17:47:56] [INFO   ] NODE-3: Working Task(7cd9e759, 3, 248), Queue Size: 7 
+[2019-06-19 17:47:57] [INFO   ] NODE-2: Working Task(f138d847, 1, 241), Queue Size: 7 
+[2019-06-19 17:47:57] [INFO   ] NODE-2: Completed Task(f138d847, 0, 260) Completed: 3 
+[2019-06-19 17:47:57] [INFO   ] NODE-3: Working Task(2ffa7c7c, 1, 483), Queue Size: 6 
+[2019-06-19 17:47:57] [INFO   ] NODE-3: Completed Task(2ffa7c7c, 0, 581) Completed: 5 
+[2019-06-19 17:47:58] [INFO   ] NODE-2: Working Task(e284039e, 3, 220), Queue Size: 5 
+[2019-06-19 17:47:58] [INFO   ] NODE-3: Working Task(bb22fd5d, 2, 240), Queue Size: 5 
+[2019-06-19 17:47:59] [INFO   ] NODE-2: Working Task(7f0637f0, 2, 186), Queue Size: 6 
+[2019-06-19 17:47:59] [INFO   ] NODE-3: Working Task(21590b25, 1, 391), Queue Size: 6 
+[2019-06-19 17:47:59] [INFO   ] NODE-3: Completed Task(21590b25, 0, 479) Completed: 6 
+[2019-06-19 17:47:59] [INFO   ] NODE-1: Working Task(f4157456, 5, 231), Queue Size: 5 
+[2019-06-19 17:48:00] [INFO   ] NODE-2: Working Task(7cd9e759, 2, 337), Queue Size: 5 
+[2019-06-19 17:48:00] [INFO   ] NODE-3: Working Task(e284039e, 2, 245), Queue Size: 5 
+[2019-06-19 17:48:00] [INFO   ] NODE-1: Working Task(bb22fd5d, 1, 271), Queue Size: 4 
+[2019-06-19 17:48:01] [INFO   ] Producer1: Adding Task(340c7238, 9, 0) Queue Size: 4 
+[2019-06-19 17:48:01] [INFO   ] NODE-2: Working Task(e575cca5, 3, 328), Queue Size: 4 
+[2019-06-19 17:48:02] [INFO   ] NODE-2: Working Task(7f0637f0, 1, 226), Queue Size: 4 
+[2019-06-19 17:48:02] [INFO   ] NODE-2: Completed Task(7f0637f0, 0, 274) Completed: 4 
+[2019-06-19 17:48:03] [INFO   ] Producer1: Adding Task(35ba0b05, 3, 0) Queue Size: 4 
+[2019-06-19 17:48:03] [INFO   ] NODE-2: Working Task(f4157456, 4, 244), Queue Size: 4 
+[2019-06-19 17:48:05] [INFO   ] Producer1: Adding Task(2086c082, 7, 0) Queue Size: 5 
+[2019-06-19 17:48:05] [INFO   ] NODE-3: Working Task(7cd9e759, 1, 350), Queue Size: 5 
+[2019-06-19 17:48:05] [INFO   ] NODE-3: Completed Task(7cd9e759, 0, 435) Completed: 7 
+[2019-06-19 17:48:05] [INFO   ] NODE-1: Completed Task(bb22fd5d, 0, 278) Completed: 4 
+[2019-06-19 17:48:06] [INFO   ] NODE-3: Working Task(340c7238, 9, 0), Queue Size: 4 
+[2019-06-19 17:48:06] [INFO   ] NODE-1: Working Task(e575cca5, 2, 376), Queue Size: 3 
+[2019-06-19 17:48:07] [INFO   ] Producer1: Adding Task(4e7281e1, 5, 0) Queue Size: 4 
+[2019-06-19 17:48:07] [INFO   ] NODE-1: Working Task(35ba0b05, 3, 0), Queue Size: 4 
+[2019-06-19 17:48:08] [INFO   ] NODE-1: Working Task(e284039e, 1, 336), Queue Size: 4 
+[2019-06-19 17:48:08] [INFO   ] NODE-1: Completed Task(e284039e, 0, 365) Completed: 5 
+[2019-06-19 17:48:09] [INFO   ] Producer1: Adding Task(64d68643, 9, 0) Queue Size: 4 
+[2019-06-19 17:48:09] [INFO   ] NODE-1: Working Task(2086c082, 7, 0), Queue Size: 4 
+[2019-06-19 17:48:10] [INFO   ] NODE-1: Working Task(e575cca5, 1, 390), Queue Size: 6 
+[2019-06-19 17:48:10] [INFO   ] NODE-1: Completed Task(e575cca5, 0, 397) Completed: 6 
+[2019-06-19 17:48:11] [INFO   ] NODE-2: Working Task(4e7281e1, 5, 0), Queue Size: 5 
+[2019-06-19 17:48:11] [INFO   ] Producer1: Adding Task(2176f504, 7, 0) Queue Size: 5 
+[2019-06-19 17:48:11] [INFO   ] NODE-3: Working Task(35ba0b05, 2, 82), Queue Size: 6 
+[2019-06-19 17:48:11] [INFO   ] NODE-1: Working Task(64d68643, 9, 0), Queue Size: 5 
+[2019-06-19 17:48:12] [INFO   ] NODE-2: Working Task(2086c082, 6, 23), Queue Size: 5 
+[2019-06-19 17:48:12] [INFO   ] NODE-1: Working Task(f4157456, 3, 312), Queue Size: 5 
+[2019-06-19 17:48:13] [INFO   ] Producer1: Adding Task(e1d07b01, 7, 0) Queue Size: 6 
+[2019-06-19 17:48:13] [INFO   ] NODE-2: Working Task(340c7238, 8, 70), Queue Size: 6 
+[2019-06-19 17:48:13] [INFO   ] NODE-1: Working Task(4e7281e1, 4, 84), Queue Size: 6 
+[2019-06-19 17:48:14] [INFO   ] NODE-2: Working Task(2176f504, 7, 0), Queue Size: 6 
+[2019-06-19 17:48:14] [INFO   ] NODE-1: Working Task(64d68643, 8, 61), Queue Size: 7 
+[2019-06-19 17:48:15] [INFO   ] Producer1: Adding Task(636c291c, 4, 0) Queue Size: 8 
+[2019-06-19 17:48:15] [INFO   ] NODE-2: Working Task(2086c082, 5, 109), Queue Size: 8 
+[2019-06-19 17:48:15] [INFO   ] NODE-3: Working Task(f4157456, 2, 343), Queue Size: 8 
+[2019-06-19 17:48:15] [INFO   ] NODE-1: Working Task(e1d07b01, 7, 0), Queue Size: 8 
+[2019-06-19 17:48:16] [INFO   ] NODE-2: Working Task(340c7238, 7, 169), Queue Size: 8 
+[2019-06-19 17:48:16] [INFO   ] NODE-3: Working Task(4e7281e1, 3, 136), Queue Size: 8 
+[2019-06-19 17:48:16] [INFO   ] NODE-1: Working Task(2176f504, 6, 68), Queue Size: 8 
+[2019-06-19 17:48:17] [INFO   ] Producer1: Adding Task(d1b6ae65, 3, 0) Queue Size: 9 
+[2019-06-19 17:48:17] [INFO   ] NODE-2: Working Task(35ba0b05, 1, 113), Queue Size: 9 
+[2019-06-19 17:48:17] [INFO   ] NODE-2: Completed Task(35ba0b05, 0, 162) Completed: 5 
+[2019-06-19 17:48:17] [INFO   ] NODE-3: Working Task(64d68643, 7, 105), Queue Size: 8 
+[2019-06-19 17:48:17] [INFO   ] NODE-1: Working Task(636c291c, 4, 0), Queue Size: 8 
+[2019-06-19 17:48:18] [INFO   ] NODE-2: Working Task(2086c082, 4, 147), Queue Size: 8 
+[2019-06-19 17:48:18] [INFO   ] NODE-3: Working Task(f4157456, 1, 360), Queue Size: 8 
+[2019-06-19 17:48:18] [INFO   ] NODE-1: Working Task(e1d07b01, 6, 70), Queue Size: 7 
+[2019-06-19 17:48:19] [INFO   ] Producer1: Adding Task(fcda48b3, 3, 0) Queue Size: 8 
+[2019-06-19 17:48:19] [INFO   ] NODE-2: Working Task(340c7238, 6, 205), Queue Size: 8 
+[2019-06-19 17:48:19] [INFO   ] NODE-1: Working Task(4e7281e1, 2, 199), Queue Size: 8 
+[2019-06-19 17:48:20] [INFO   ] NODE-2: Working Task(2176f504, 5, 98), Queue Size: 8 
+[2019-06-19 17:48:20] [INFO   ] NODE-1: Working Task(d1b6ae65, 3, 0), Queue Size: 7 
+[2019-06-19 17:48:21] [INFO   ] Producer1: Adding Task(ab275f89, 3, 0) Queue Size: 8 
+[2019-06-19 17:48:21] [INFO   ] NODE-1: Working Task(64d68643, 6, 133), Queue Size: 8 
+[2019-06-19 17:48:22] [INFO   ] NODE-3: Completed Task(f4157456, 0, 370) Completed: 8 
+[2019-06-19 17:48:22] [INFO   ] NODE-1: Working Task(636c291c, 3, 89), Queue Size: 8 
+[2019-06-19 17:48:23] [INFO   ] Producer1: Adding Task(52e0f06d, 8, 0) Queue Size: 9 
+[2019-06-19 17:48:23] [INFO   ] NODE-3: Working Task(2086c082, 3, 239), Queue Size: 9 
+[2019-06-19 17:48:23] [INFO   ] NODE-1: Working Task(e1d07b01, 5, 139), Queue Size: 8 
+[2019-06-19 17:48:24] [INFO   ] NODE-1: Working Task(fcda48b3, 3, 0), Queue Size: 8 
+[2019-06-19 17:48:25] [INFO   ] Producer1: Adding Task(5976a130, 10, 0) Queue Size: 9 
+[2019-06-19 17:48:25] [INFO   ] NODE-1: Working Task(340c7238, 5, 206), Queue Size: 9 
+[2019-06-19 17:48:26] [INFO   ] NODE-1: Working Task(4e7281e1, 1, 226), Queue Size: 9 
+[2019-06-19 17:48:27] [INFO   ] Producer1: Adding Task(083688bb, 10, 0) Queue Size: 9 
+[2019-06-19 17:48:29] [INFO   ] Producer1: Queue full 12 
+[2019-06-19 17:48:29] [INFO   ] NODE-3: Working Task(d1b6ae65, 2, 26), Queue Size: 11 
+[2019-06-19 17:48:29] [INFO   ] Producer1: Pausing for: 23 seconds 
+[2019-06-19 17:48:30] [INFO   ] NODE-2: Working Task(ab275f89, 3, 0), Queue Size: 11 
+[2019-06-19 17:48:30] [INFO   ] NODE-3: Working Task(64d68643, 5, 144), Queue Size: 11 
+[2019-06-19 17:48:30] [INFO   ] NODE-1: Completed Task(4e7281e1, 0, 260) Completed: 7 
+[2019-06-19 17:48:31] [INFO   ] NODE-2: Working Task(636c291c, 2, 117), Queue Size: 11 
+[2019-06-19 17:48:31] [INFO   ] NODE-3: Working Task(52e0f06d, 8, 0), Queue Size: 11 
+[2019-06-19 17:48:31] [INFO   ] NODE-1: Working Task(e1d07b01, 4, 185), Queue Size: 10 
+[2019-06-19 17:48:32] [INFO   ] NODE-2: Working Task(fcda48b3, 2, 92), Queue Size: 10 
+[2019-06-19 17:48:32] [INFO   ] NODE-1: Working Task(5976a130, 10, 0), Queue Size: 10 
+[2019-06-19 17:48:33] [INFO   ] NODE-2: Working Task(340c7238, 4, 271), Queue Size: 9 
+[2019-06-19 17:48:34] [INFO   ] NODE-2: Working Task(083688bb, 10, 0), Queue Size: 9 
+[2019-06-19 17:48:36] [INFO   ] NODE-3: Working Task(2086c082, 2, 325), Queue Size: 10 
+[2019-06-19 17:48:36] [INFO   ] NODE-1: Working Task(2176f504, 4, 116), Queue Size: 10 
+[2019-06-19 17:48:37] [INFO   ] NODE-3: Working Task(d1b6ae65, 1, 77), Queue Size: 10 
+[2019-06-19 17:48:37] [INFO   ] NODE-3: Completed Task(d1b6ae65, 0, 170) Completed: 9 
+[2019-06-19 17:48:37] [INFO   ] NODE-1: Working Task(ab275f89, 2, 40), Queue Size: 9 
+[2019-06-19 17:48:38] [INFO   ] NODE-3: Working Task(64d68643, 4, 159), Queue Size: 8 
+[2019-06-19 17:48:40] [INFO   ] NODE-3: Working Task(636c291c, 1, 176), Queue Size: 9 
+[2019-06-19 17:48:41] [INFO   ] NODE-2: Working Task(e1d07b01, 3, 187), Queue Size: 9 
+[2019-06-19 17:48:41] [INFO   ] NODE-1: Working Task(fcda48b3, 1, 165), Queue Size: 9 
+[2019-06-19 17:48:41] [INFO   ] NODE-1: Completed Task(fcda48b3, 0, 212) Completed: 8 
+[2019-06-19 17:48:42] [INFO   ] NODE-2: Working Task(340c7238, 3, 292), Queue Size: 8 
+[2019-06-19 17:48:42] [INFO   ] NODE-1: Working Task(52e0f06d, 7, 79), Queue Size: 8 
+[2019-06-19 17:48:43] [INFO   ] NODE-2: Working Task(5976a130, 9, 28), Queue Size: 8 
+[2019-06-19 17:48:43] [INFO   ] NODE-1: Working Task(2086c082, 1, 331), Queue Size: 7 
+[2019-06-19 17:48:44] [INFO   ] NODE-1: Completed Task(2086c082, 0, 341) Completed: 9 
+[2019-06-19 17:48:45] [INFO   ] NODE-1: Working Task(2176f504, 3, 181), Queue Size: 6 
+[2019-06-19 17:48:46] [INFO   ] NODE-1: Working Task(64d68643, 3, 223), Queue Size: 6 
+[2019-06-19 17:48:47] [INFO   ] NODE-1: Working Task(083688bb, 9, 79), Queue Size: 6 
+[2019-06-19 17:48:48] [INFO   ] NODE-1: Working Task(ab275f89, 1, 134), Queue Size: 6 
+[2019-06-19 17:48:48] [INFO   ] NODE-1: Completed Task(ab275f89, 0, 146) Completed: 10 
+[2019-06-19 17:48:49] [INFO   ] NODE-3: Completed Task(636c291c, 0, 230) Completed: 10 
+[2019-06-19 17:48:49] [INFO   ] NODE-1: Working Task(e1d07b01, 2, 278), Queue Size: 5 
+[2019-06-19 17:48:50] [INFO   ] NODE-3: Working Task(340c7238, 2, 325), Queue Size: 5 
+[2019-06-19 17:48:50] [INFO   ] NODE-1: Working Task(52e0f06d, 6, 124), Queue Size: 5 
+[2019-06-19 17:48:51] [INFO   ] NODE-3: Working Task(2176f504, 2, 280), Queue Size: 6 
+[2019-06-19 17:48:51] [INFO   ] NODE-1: Working Task(64d68643, 2, 305), Queue Size: 6 
+[2019-06-19 17:48:52] [INFO   ] NODE-2: Working Task(083688bb, 8, 102), Queue Size: 5 
+[2019-06-19 17:48:52] [INFO   ] NODE-3: Working Task(e1d07b01, 1, 371), Queue Size: 5 
+[2019-06-19 17:48:52] [INFO   ] NODE-3: Completed Task(e1d07b01, 0, 447) Completed: 11 
+[2019-06-19 17:48:53] [INFO   ] NODE-2: Working Task(340c7238, 1, 356), Queue Size: 5 
+[2019-06-19 17:48:53] [INFO   ] NODE-2: Completed Task(340c7238, 0, 426) Completed: 6 
+[2019-06-19 17:48:53] [INFO   ] NODE-3: Working Task(52e0f06d, 5, 126), Queue Size: 4 
+[2019-06-19 17:48:53] [INFO   ] NODE-1: Working Task(5976a130, 8, 80), Queue Size: 3 
+[2019-06-19 17:48:54] [INFO   ] Producer1: Adding Task(365dcef8, 5, 0) Queue Size: 3 
+[2019-06-19 17:48:54] [INFO   ] NODE-2: Working Task(2176f504, 1, 304), Queue Size: 3 
+[2019-06-19 17:48:54] [INFO   ] NODE-2: Completed Task(2176f504, 0, 314) Completed: 7 
+[2019-06-19 17:48:55] [INFO   ] NODE-2: Working Task(083688bb, 7, 194), Queue Size: 3 
+[2019-06-19 17:48:56] [INFO   ] Producer1: Adding Task(d96c4818, 7, 0) Queue Size: 5 
+[2019-06-19 17:48:56] [INFO   ] NODE-3: Working Task(64d68643, 1, 393), Queue Size: 5 
+[2019-06-19 17:48:56] [INFO   ] NODE-2: Working Task(365dcef8, 5, 0), Queue Size: 4 
+[2019-06-19 17:48:56] [INFO   ] NODE-3: Completed Task(64d68643, 0, 423) Completed: 12 
+[2019-06-19 17:48:56] [INFO   ] NODE-1: Working Task(52e0f06d, 4, 184), Queue Size: 4 
+[2019-06-19 17:48:57] [INFO   ] NODE-2: Working Task(083688bb, 6, 225), Queue Size: 4 
+[2019-06-19 17:48:57] [INFO   ] NODE-3: Working Task(5976a130, 7, 105), Queue Size: 3 
+[2019-06-19 17:48:57] [INFO   ] NODE-1: Working Task(d96c4818, 7, 0), Queue Size: 4 
+[2019-06-19 17:48:58] [INFO   ] Producer1: Adding Task(3857fabd, 4, 0) Queue Size: 4 
+[2019-06-19 17:48:58] [INFO   ] NODE-3: Working Task(365dcef8, 4, 93), Queue Size: 4 
+[2019-06-19 17:48:58] [INFO   ] NODE-2: Working Task(52e0f06d, 3, 258), Queue Size: 4 
+[2019-06-19 17:48:59] [INFO   ] NODE-3: Working Task(5976a130, 6, 176), Queue Size: 4 
+[2019-06-19 17:48:59] [INFO   ] NODE-2: Working Task(083688bb, 5, 232), Queue Size: 3 
+[2019-06-19 17:49:00] [INFO   ] Producer1: Adding Task(172cfb30, 4, 0) Queue Size: 6 
+[2019-06-19 17:49:00] [INFO   ] NODE-3: Working Task(365dcef8, 3, 162), Queue Size: 5 
+[2019-06-19 17:49:00] [INFO   ] NODE-2: Working Task(3857fabd, 4, 0), Queue Size: 6 
+[2019-06-19 17:49:00] [INFO   ] NODE-1: Working Task(52e0f06d, 2, 302), Queue Size: 6 
+[2019-06-19 17:49:01] [INFO   ] NODE-3: Working Task(083688bb, 4, 325), Queue Size: 5 
+[2019-06-19 17:49:01] [INFO   ] NODE-2: Working Task(5976a130, 5, 243), Queue Size: 4 
+[2019-06-19 17:49:02] [INFO   ] Producer1: Adding Task(33d60c83, 8, 0) Queue Size: 6 
+[2019-06-19 17:49:02] [INFO   ] NODE-2: Working Task(d96c4818, 6, 13), Queue Size: 6 
+[2019-06-19 17:49:02] [INFO   ] NODE-3: Working Task(172cfb30, 4, 0), Queue Size: 5 
+[2019-06-19 17:49:03] [INFO   ] NODE-3: Working Task(365dcef8, 2, 175), Queue Size: 5 
+[2019-06-19 17:49:04] [INFO   ] Producer1: Adding Task(08378384, 3, 0) Queue Size: 6 
+[2019-06-19 17:49:04] [INFO   ] NODE-3: Working Task(3857fabd, 3, 32), Queue Size: 6 
+[2019-06-19 17:49:05] [INFO   ] NODE-3: Working Task(5976a130, 4, 255), Queue Size: 6 
+[2019-06-19 17:49:06] [INFO   ] Producer1: Adding Task(7ca7c508, 7, 0) Queue Size: 6 
+[2019-06-19 17:49:07] [INFO   ] NODE-1: Working Task(083688bb, 3, 422), Queue Size: 7 
+[2019-06-19 17:49:08] [INFO   ] Producer1: Adding Task(62edacb8, 8, 0) Queue Size: 8 
+[2019-06-19 17:49:08] [INFO   ] NODE-1: Working Task(33d60c83, 8, 0), Queue Size: 8 
+[2019-06-19 17:49:09] [INFO   ] NODE-1: Working Task(172cfb30, 3, 51), Queue Size: 8 
+[2019-06-19 17:49:10] [INFO   ] Producer1: Adding Task(c62d559a, 7, 0) Queue Size: 9 
+[2019-06-19 17:49:10] [INFO   ] NODE-1: Working Task(365dcef8, 1, 216), Queue Size: 10 
+[2019-06-19 17:49:10] [INFO   ] NODE-1: Completed Task(365dcef8, 0, 247) Completed: 11 
+[2019-06-19 17:49:11] [INFO   ] NODE-3: Working Task(08378384, 3, 0), Queue Size: 10 
+[2019-06-19 17:49:11] [INFO   ] NODE-1: Working Task(3857fabd, 2, 102), Queue Size: 10 
+[2019-06-19 17:49:12] [INFO   ] Producer1: Queue full 11 
+[2019-06-19 17:49:12] [INFO   ] Producer1: Pausing for: 22 seconds 
+[2019-06-19 17:49:12] [INFO   ] NODE-2: Working Task(7ca7c508, 7, 0), Queue Size: 10 
+[2019-06-19 17:49:12] [INFO   ] NODE-3: Working Task(52e0f06d, 1, 387), Queue Size: 10 
+[2019-06-19 17:49:12] [INFO   ] NODE-3: Completed Task(52e0f06d, 0, 397) Completed: 13 
+[2019-06-19 17:49:12] [INFO   ] NODE-1: Working Task(083688bb, 2, 494), Queue Size: 9 
+[2019-06-19 17:49:13] [INFO   ] NODE-2: Working Task(62edacb8, 8, 0), Queue Size: 9 
+[2019-06-19 17:49:13] [INFO   ] NODE-3: Working Task(33d60c83, 7, 17), Queue Size: 9 
+[2019-06-19 17:49:13] [INFO   ] NODE-1: Working Task(172cfb30, 2, 121), Queue Size: 9 
+[2019-06-19 17:49:14] [INFO   ] NODE-2: Working Task(c62d559a, 7, 0), Queue Size: 9 
+[2019-06-19 17:49:14] [INFO   ] NODE-3: Working Task(5976a130, 3, 321), Queue Size: 8 
+[2019-06-19 17:49:14] [INFO   ] NODE-1: Working Task(d96c4818, 5, 25), Queue Size: 8 
+[2019-06-19 17:49:15] [INFO   ] NODE-3: Working Task(08378384, 2, 63), Queue Size: 8 
+[2019-06-19 17:49:15] [INFO   ] NODE-1: Working Task(3857fabd, 1, 137), Queue Size: 8 
+[2019-06-19 17:49:15] [INFO   ] NODE-1: Completed Task(3857fabd, 0, 229) Completed: 12 
+[2019-06-19 17:49:16] [INFO   ] NODE-3: Working Task(7ca7c508, 6, 79), Queue Size: 7 
+[2019-06-19 17:49:16] [INFO   ] NODE-1: Working Task(083688bb, 1, 526), Queue Size: 7 
+[2019-06-19 17:49:16] [INFO   ] NODE-1: Completed Task(083688bb, 0, 591) Completed: 13 
+[2019-06-19 17:49:17] [INFO   ] NODE-3: Working Task(62edacb8, 7, 85), Queue Size: 6 
+[2019-06-19 17:49:17] [INFO   ] NODE-1: Working Task(33d60c83, 6, 21), Queue Size: 5 
+[2019-06-19 17:49:18] [INFO   ] NODE-1: Working Task(172cfb30, 1, 169), Queue Size: 6 
+[2019-06-19 17:49:18] [INFO   ] NODE-1: Completed Task(172cfb30, 0, 182) Completed: 14 
+[2019-06-19 17:49:19] [INFO   ] NODE-3: Working Task(5976a130, 2, 374), Queue Size: 5 
+[2019-06-19 17:49:19] [INFO   ] NODE-1: Working Task(d96c4818, 4, 35), Queue Size: 5 
+[2019-06-19 17:49:20] [INFO   ] NODE-3: Working Task(08378384, 1, 68), Queue Size: 5 
+[2019-06-19 17:49:20] [INFO   ] NODE-3: Completed Task(08378384, 0, 153) Completed: 14 
+[2019-06-19 17:49:20] [INFO   ] NODE-1: Working Task(7ca7c508, 5, 150), Queue Size: 4 
+[2019-06-19 17:49:21] [INFO   ] NODE-3: Working Task(33d60c83, 5, 66), Queue Size: 5 
+[2019-06-19 17:49:21] [INFO   ] NODE-1: Working Task(62edacb8, 6, 85), Queue Size: 5 
+[2019-06-19 17:49:22] [INFO   ] NODE-2: Working Task(5976a130, 1, 435), Queue Size: 5 
+[2019-06-19 17:49:22] [INFO   ] NODE-2: Completed Task(5976a130, 0, 534) Completed: 8 
+[2019-06-19 17:49:22] [INFO   ] NODE-3: Working Task(d96c4818, 3, 129), Queue Size: 4 
+[2019-06-19 17:49:22] [INFO   ] NODE-1: Working Task(7ca7c508, 4, 150), Queue Size: 4 
+[2019-06-19 17:49:23] [INFO   ] NODE-2: Working Task(c62d559a, 6, 13), Queue Size: 3 
+[2019-06-19 17:49:23] [INFO   ] NODE-3: Working Task(33d60c83, 4, 139), Queue Size: 3 
+[2019-06-19 17:49:24] [INFO   ] NODE-2: Working Task(62edacb8, 5, 144), Queue Size: 3 
+[2019-06-19 17:49:24] [INFO   ] NODE-3: Working Task(d96c4818, 2, 200), Queue Size: 2 
+[2019-06-19 17:49:26] [INFO   ] NODE-2: Working Task(c62d559a, 5, 39), Queue Size: 2 
+[2019-06-19 17:49:27] [INFO   ] NODE-2: Working Task(33d60c83, 3, 196), Queue Size: 2 
+[2019-06-19 17:49:28] [INFO   ] NODE-2: Working Task(62edacb8, 4, 186), Queue Size: 2 
+[2019-06-19 17:49:29] [INFO   ] NODE-2: Working Task(c62d559a, 4, 77), Queue Size: 3 
+[2019-06-19 17:49:29] [INFO   ] NODE-3: Working Task(33d60c83, 2, 218), Queue Size: 3 
+[2019-06-19 17:49:30] [INFO   ] NODE-2: Working Task(62edacb8, 3, 239), Queue Size: 4 
+[2019-06-19 17:49:30] [INFO   ] NODE-3: Working Task(d96c4818, 1, 206), Queue Size: 4 
+[2019-06-19 17:49:30] [INFO   ] NODE-3: Completed Task(d96c4818, 0, 218) Completed: 15 
+[2019-06-19 17:49:30] [INFO   ] NODE-1: Working Task(c62d559a, 3, 104), Queue Size: 3 
+[2019-06-19 17:49:31] [INFO   ] NODE-2: Working Task(33d60c83, 1, 308), Queue Size: 3 
+[2019-06-19 17:49:31] [INFO   ] NODE-2: Completed Task(33d60c83, 0, 335) Completed: 9 
+[2019-06-19 17:49:31] [INFO   ] NODE-3: Working Task(7ca7c508, 3, 241), Queue Size: 2 
+[2019-06-19 17:49:31] [INFO   ] NODE-1: Working Task(62edacb8, 2, 244), Queue Size: 1 
+[2019-06-19 17:49:32] [INFO   ] NODE-2: Working Task(c62d559a, 2, 170), Queue Size: 1 
+[2019-06-19 17:49:32] [INFO   ] NODE-1: Working Task(62edacb8, 1, 254), Queue Size: 1 
+[2019-06-19 17:49:32] [INFO   ] NODE-1: Completed Task(62edacb8, 0, 297) Completed: 15 
+[2019-06-19 17:49:33] [INFO   ] NODE-2: Working Task(c62d559a, 1, 199), Queue Size: 0 
+[2019-06-19 17:49:33] [INFO   ] NODE-2: Completed Task(c62d559a, 0, 233) Completed: 10 
+[2019-06-19 17:49:33] [INFO   ] NODE-1: Queue Empty, Completed: 15, Queue Size: (0) 
+[2019-06-19 17:49:34] [INFO   ] NODE-2: Queue Empty, Completed: 10, Queue Size: (0) 
+[2019-06-19 17:49:34] [INFO   ] NODE-1: Queue Empty, Completed: 15, Queue Size: (0) 
+[2019-06-19 17:49:35] [INFO   ] NODE-2: Queue Empty, Completed: 10, Queue Size: (0) 
+[2019-06-19 17:49:35] [INFO   ] NODE-1: Working Task(7ca7c508, 2, 313), Queue Size: 0 
+[2019-06-19 17:49:36] [INFO   ] Producer1: Adding Task(e8d97465, 9, 0) Queue Size: 1 
+[2019-06-19 17:49:36] [INFO   ] NODE-2: Working Task(7ca7c508, 1, 407), Queue Size: 1 
+[2019-06-19 17:49:36] [INFO   ] NODE-2: Completed Task(7ca7c508, 0, 461) Completed: 11 
+[2019-06-19 17:49:36] [INFO   ] NODE-3: Working Task(e8d97465, 9, 0), Queue Size: 0 
+[2019-06-19 17:49:36] [INFO   ] NODE-1: Working Task(e8d97465, 8, 41), Queue Size: 0 
+[2019-06-19 17:49:37] [INFO   ] NODE-2: Working Task(e8d97465, 7, 55), Queue Size: 0 
+[2019-06-19 17:49:37] [INFO   ] NODE-3: Working Task(e8d97465, 6, 151), Queue Size: 0 
+[2019-06-19 17:49:37] [INFO   ] NODE-1: Working Task(e8d97465, 5, 232), Queue Size: 0 
+[2019-06-19 17:49:38] [INFO   ] Producer1: Adding Task(4f2bc4ab, 10, 0) Queue Size: 1 
+[2019-06-19 17:49:38] [INFO   ] NODE-2: Working Task(e8d97465, 4, 316), Queue Size: 1 
+[2019-06-19 17:49:38] [INFO   ] NODE-3: Working Task(4f2bc4ab, 10, 0), Queue Size: 1 
+[2019-06-19 17:49:38] [INFO   ] NODE-1: Working Task(e8d97465, 3, 359), Queue Size: 1 
+[2019-06-19 17:49:39] [INFO   ] NODE-2: Working Task(4f2bc4ab, 9, 36), Queue Size: 1 
+[2019-06-19 17:49:39] [INFO   ] NODE-3: Working Task(e8d97465, 2, 451), Queue Size: 1 
+[2019-06-19 17:49:39] [INFO   ] NODE-1: Working Task(4f2bc4ab, 8, 56), Queue Size: 0 
+[2019-06-19 17:49:40] [INFO   ] Producer1: Adding Task(05fdeed9, 8, 0) Queue Size: 1 
+[2019-06-19 17:49:40] [INFO   ] NODE-2: Working Task(4f2bc4ab, 7, 132), Queue Size: 1 
+[2019-06-19 17:49:40] [INFO   ] NODE-1: Working Task(05fdeed9, 8, 0), Queue Size: 0 
+[2019-06-19 17:49:42] [INFO   ] Producer1: Adding Task(a6660c9d, 10, 0) Queue Size: 1 
+[2019-06-19 17:49:42] [INFO   ] NODE-1: Working Task(05fdeed9, 7, 74), Queue Size: 1 
+[2019-06-19 17:49:43] [INFO   ] NODE-1: Working Task(a6660c9d, 10, 0), Queue Size: 1 
+[2019-06-19 17:49:44] [INFO   ] Producer1: Adding Task(d2a823e6, 4, 0) Queue Size: 2 
+[2019-06-19 17:49:44] [INFO   ] NODE-1: Working Task(05fdeed9, 6, 169), Queue Size: 2 
+[2019-06-19 17:49:45] [INFO   ] NODE-1: Working Task(a6660c9d, 9, 56), Queue Size: 3 
+[2019-06-19 17:49:46] [INFO   ] Producer1: Adding Task(6c91d7a1, 5, 0) Queue Size: 4 
+[2019-06-19 17:49:46] [INFO   ] NODE-3: Working Task(d2a823e6, 4, 0), Queue Size: 4 
+[2019-06-19 17:49:46] [INFO   ] NODE-1: Working Task(05fdeed9, 5, 241), Queue Size: 4 
+[2019-06-19 17:49:47] [INFO   ] NODE-3: Working Task(e8d97465, 1, 501), Queue Size: 5 
+[2019-06-19 17:49:47] [INFO   ] NODE-1: Working Task(a6660c9d, 8, 77), Queue Size: 4 
+[2019-06-19 17:49:48] [INFO   ] Producer1: Adding Task(d4ae0fe5, 2, 0) Queue Size: 5 
+[2019-06-19 17:49:48] [INFO   ] NODE-2: Working Task(6c91d7a1, 5, 0), Queue Size: 5 
+[2019-06-19 17:49:48] [INFO   ] NODE-3: Completed Task(e8d97465, 0, 579) Completed: 16 
+[2019-06-19 17:49:48] [INFO   ] NODE-1: Working Task(d2a823e6, 3, 5), Queue Size: 5 
+[2019-06-19 17:49:49] [INFO   ] NODE-2: Working Task(05fdeed9, 4, 297), Queue Size: 5 
+[2019-06-19 17:49:49] [INFO   ] NODE-3: Working Task(4f2bc4ab, 6, 139), Queue Size: 5 
+[2019-06-19 17:49:49] [INFO   ] NODE-1: Working Task(a6660c9d, 7, 133), Queue Size: 5 
+[2019-06-19 17:49:50] [INFO   ] Producer1: Adding Task(30b3cb14, 5, 0) Queue Size: 6 
+[2019-06-19 17:49:50] [INFO   ] NODE-3: Working Task(6c91d7a1, 4, 22), Queue Size: 5 
+[2019-06-19 17:49:50] [INFO   ] NODE-2: Working Task(d4ae0fe5, 2, 0), Queue Size: 6 
+[2019-06-19 17:49:50] [INFO   ] NODE-1: Working Task(d2a823e6, 2, 41), Queue Size: 6 
+[2019-06-19 17:49:51] [INFO   ] NODE-3: Working Task(4f2bc4ab, 5, 230), Queue Size: 5 
+[2019-06-19 17:49:51] [INFO   ] NODE-2: Working Task(05fdeed9, 3, 310), Queue Size: 6 
+[2019-06-19 17:49:51] [INFO   ] NODE-1: Working Task(a6660c9d, 6, 138), Queue Size: 5 
+[2019-06-19 17:49:52] [INFO   ] Producer1: Adding Task(a1bcfe68, 5, 0) Queue Size: 5 
+[2019-06-19 17:49:52] [INFO   ] NODE-2: Working Task(30b3cb14, 5, 0), Queue Size: 5 
+[2019-06-19 17:49:53] [INFO   ] NODE-2: Working Task(d4ae0fe5, 1, 54), Queue Size: 5 
+[2019-06-19 17:49:53] [INFO   ] NODE-2: Completed Task(d4ae0fe5, 0, 55) Completed: 12 
+[2019-06-19 17:49:54] [INFO   ] Producer1: Adding Task(18916207, 5, 0) Queue Size: 5 
+[2019-06-19 17:49:54] [INFO   ] NODE-2: Working Task(6c91d7a1, 3, 44), Queue Size: 5 
+[2019-06-19 17:49:56] [INFO   ] Producer1: Adding Task(7cd5843d, 2, 0) Queue Size: 6 
+[2019-06-19 17:49:56] [INFO   ] NODE-1: Working Task(d2a823e6, 1, 73), Queue Size: 7 
+[2019-06-19 17:49:56] [INFO   ] NODE-1: Completed Task(d2a823e6, 0, 93) Completed: 16 
+[2019-06-19 17:49:57] [INFO   ] NODE-3: Working Task(05fdeed9, 2, 354), Queue Size: 6 
+[2019-06-19 17:49:57] [INFO   ] NODE-1: Working Task(a1bcfe68, 5, 0), Queue Size: 6 
+[2019-06-19 17:49:58] [INFO   ] Producer1: Adding Task(5dbba8fc, 5, 0) Queue Size: 7 
+[2019-06-19 17:49:58] [INFO   ] NODE-3: Working Task(30b3cb14, 4, 55), Queue Size: 7 
+[2019-06-19 17:49:58] [INFO   ] NODE-1: Working Task(18916207, 5, 0), Queue Size: 7 
+[2019-06-19 17:49:59] [INFO   ] NODE-3: Working Task(a6660c9d, 5, 150), Queue Size: 7 
+[2019-06-19 17:49:59] [INFO   ] NODE-1: Working Task(7cd5843d, 2, 0), Queue Size: 7 
+[2019-06-19 17:50:00] [INFO   ] Producer1: Adding Task(a4611c71, 3, 0) Queue Size: 8 
+[2019-06-19 17:50:00] [INFO   ] NODE-3: Working Task(4f2bc4ab, 4, 247), Queue Size: 8 
+[2019-06-19 17:50:00] [INFO   ] NODE-1: Working Task(05fdeed9, 1, 401), Queue Size: 8 
+[2019-06-19 17:50:00] [INFO   ] NODE-1: Completed Task(05fdeed9, 0, 415) Completed: 17 
+[2019-06-19 17:50:01] [INFO   ] NODE-3: Working Task(a1bcfe68, 4, 13), Queue Size: 7 
+[2019-06-19 17:50:01] [INFO   ] NODE-1: Working Task(5dbba8fc, 5, 0), Queue Size: 7 
+[2019-06-19 17:50:02] [INFO   ] Producer1: Adding Task(c399d5bf, 5, 0) Queue Size: 7 
+[2019-06-19 17:50:02] [INFO   ] NODE-3: Working Task(30b3cb14, 3, 144), Queue Size: 7 
+[2019-06-19 17:50:03] [INFO   ] NODE-3: Working Task(18916207, 4, 60), Queue Size: 8 
+[2019-06-19 17:50:04] [INFO   ] Producer1: Adding Task(7ebb5146, 1, 0) Queue Size: 9 
+[2019-06-19 17:50:04] [INFO   ] NODE-2: Working Task(a6660c9d, 4, 175), Queue Size: 9 
+[2019-06-19 17:50:04] [INFO   ] NODE-3: Working Task(7cd5843d, 1, 5), Queue Size: 9 
+[2019-06-19 17:50:04] [INFO   ] NODE-3: Completed Task(7cd5843d, 0, 76) Completed: 17 
+[2019-06-19 17:50:05] [INFO   ] NODE-2: Working Task(a4611c71, 3, 0), Queue Size: 8 
+[2019-06-19 17:50:05] [INFO   ] NODE-3: Working Task(4f2bc4ab, 3, 289), Queue Size: 7 
+[2019-06-19 17:50:06] [INFO   ] Producer1: Adding Task(50d4b72c, 3, 0) Queue Size: 8 
+[2019-06-19 17:50:06] [INFO   ] NODE-3: Working Task(a1bcfe68, 3, 97), Queue Size: 8 
+[2019-06-19 17:50:07] [INFO   ] NODE-3: Working Task(c399d5bf, 5, 0), Queue Size: 8 
+[2019-06-19 17:50:08] [INFO   ] Producer1: Adding Task(c742b133, 2, 0) Queue Size: 8 
+[2019-06-19 17:50:10] [INFO   ] Producer1: Queue full 10 
+[2019-06-19 17:50:10] [INFO   ] Producer1: Pausing for: 4 seconds 
+[2019-06-19 17:50:10] [INFO   ] NODE-3: Working Task(30b3cb14, 2, 154), Queue Size: 9 
+[2019-06-19 17:50:11] [INFO   ] NODE-3: Working Task(6c91d7a1, 2, 119), Queue Size: 10 
+[2019-06-19 17:50:11] [INFO   ] NODE-1: Working Task(18916207, 3, 84), Queue Size: 10 
+[2019-06-19 17:50:12] [INFO   ] NODE-3: Working Task(7ebb5146, 1, 0), Queue Size: 9 
+[2019-06-19 17:50:12] [INFO   ] NODE-3: Completed Task(7ebb5146, 0, 74) Completed: 18 
+[2019-06-19 17:50:13] [INFO   ] NODE-3: Working Task(a6660c9d, 3, 203), Queue Size: 9 
+[2019-06-19 17:50:14] [INFO   ] NODE-2: Working Task(4f2bc4ab, 2, 313), Queue Size: 8 
+[2019-06-19 17:50:15] [INFO   ] NODE-2: Working Task(50d4b72c, 3, 0), Queue Size: 8 
+[2019-06-19 17:50:16] [INFO   ] Producer1: Adding Task(65fff74f, 6, 0) Queue Size: 8 
+[2019-06-19 17:50:18] [INFO   ] Producer1: Adding Task(c19ee659, 5, 0) Queue Size: 9 
+[2019-06-19 17:50:20] [INFO   ] Producer1: Queue full 11 
+[2019-06-19 17:50:20] [INFO   ] Producer1: Pausing for: 19 seconds 
+[2019-06-19 17:50:20] [INFO   ] NODE-1: Working Task(a1bcfe68, 2, 119), Queue Size: 11 
+[2019-06-19 17:50:21] [INFO   ] NODE-2: Working Task(c742b133, 2, 0), Queue Size: 10 
+[2019-06-19 17:50:22] [INFO   ] NODE-2: Working Task(c399d5bf, 4, 92), Queue Size: 10 
+[2019-06-19 17:50:23] [INFO   ] NODE-2: Working Task(30b3cb14, 1, 200), Queue Size: 11 
+[2019-06-19 17:50:23] [INFO   ] NODE-2: Completed Task(30b3cb14, 0, 292) Completed: 13 
+[2019-06-19 17:50:23] [INFO   ] NODE-3: Working Task(5dbba8fc, 4, 51), Queue Size: 10 
+[2019-06-19 17:50:24] [INFO   ] NODE-2: Working Task(6c91d7a1, 1, 199), Queue Size: 10 
+[2019-06-19 17:50:24] [INFO   ] NODE-2: Completed Task(6c91d7a1, 0, 207) Completed: 14 
+[2019-06-19 17:50:24] [INFO   ] NODE-3: Working Task(a4611c71, 2, 1), Queue Size: 9 
+[2019-06-19 17:50:25] [INFO   ] NODE-2: Working Task(4f2bc4ab, 1, 335), Queue Size: 10 
+[2019-06-19 17:50:25] [INFO   ] NODE-2: Completed Task(4f2bc4ab, 0, 352) Completed: 15 
+[2019-06-19 17:50:25] [INFO   ] NODE-3: Working Task(65fff74f, 6, 0), Queue Size: 9 
+[2019-06-19 17:50:25] [INFO   ] NODE-1: Working Task(c19ee659, 5, 0), Queue Size: 9 
+[2019-06-19 17:50:26] [INFO   ] NODE-2: Working Task(18916207, 2, 165), Queue Size: 9 
+[2019-06-19 17:50:26] [INFO   ] NODE-3: Working Task(50d4b72c, 2, 22), Queue Size: 9 
+[2019-06-19 17:50:26] [INFO   ] NODE-1: Working Task(c742b133, 1, 42), Queue Size: 9 
+[2019-06-19 17:50:27] [INFO   ] NODE-2: Working Task(c399d5bf, 3, 157), Queue Size: 8 
+[2019-06-19 17:50:27] [INFO   ] NODE-3: Working Task(a6660c9d, 2, 205), Queue Size: 7 
+[2019-06-19 17:50:28] [INFO   ] NODE-3: Working Task(5dbba8fc, 3, 99), Queue Size: 7 
+[2019-06-19 17:50:29] [INFO   ] NODE-3: Working Task(a4611c71, 1, 44), Queue Size: 7 
+[2019-06-19 17:50:30] [INFO   ] NODE-1: Completed Task(c742b133, 0, 49) Completed: 18 
+[2019-06-19 17:50:31] [INFO   ] NODE-1: Working Task(a1bcfe68, 1, 198), Queue Size: 6 
+[2019-06-19 17:50:37] [INFO   ] NODE-2: Working Task(65fff74f, 5, 85), Queue Size: 6 
+[2019-06-19 17:50:37] [INFO   ] NODE-1: Completed Task(a1bcfe68, 0, 225) Completed: 19 
+[2019-06-19 17:50:38] [INFO   ] NODE-2: Working Task(c19ee659, 4, 60), Queue Size: 6 
+[2019-06-19 17:50:38] [INFO   ] NODE-3: Completed Task(a4611c71, 0, 79) Completed: 19 
+[2019-06-19 17:50:38] [INFO   ] NODE-1: Working Task(18916207, 1, 172), Queue Size: 6 
+[2019-06-19 17:50:38] [INFO   ] NODE-1: Completed Task(18916207, 0, 208) Completed: 20 
+[2019-06-19 17:50:39] [INFO   ] NODE-2: Working Task(50d4b72c, 1, 112), Queue Size: 5 
+[2019-06-19 17:50:39] [INFO   ] NODE-2: Completed Task(50d4b72c, 0, 126) Completed: 16 
+[2019-06-19 17:50:39] [INFO   ] NODE-3: Working Task(a6660c9d, 1, 265), Queue Size: 4 
+[2019-06-19 17:50:39] [INFO   ] NODE-1: Working Task(5dbba8fc, 2, 169), Queue Size: 3 
+[2019-06-19 17:50:40] [INFO   ] NODE-2: Working Task(c399d5bf, 2, 226), Queue Size: 2 
+[2019-06-19 17:50:41] [INFO   ] Producer1: Adding Task(ba8cc099, 4, 0) Queue Size: 3 
+[2019-06-19 17:50:41] [INFO   ] NODE-2: Working Task(65fff74f, 4, 113), Queue Size: 3 
+[2019-06-19 17:50:41] [INFO   ] NODE-3: Completed Task(a6660c9d, 0, 351) Completed: 20 
+[2019-06-19 17:50:42] [INFO   ] NODE-3: Working Task(c19ee659, 3, 114), Queue Size: 2 
+[2019-06-19 17:50:43] [INFO   ] Producer1: Adding Task(af9b1b2d, 7, 0) Queue Size: 3 
+[2019-06-19 17:50:43] [INFO   ] NODE-3: Working Task(c399d5bf, 1, 233), Queue Size: 3 
+[2019-06-19 17:50:45] [INFO   ] Producer1: Adding Task(508586a3, 6, 0) Queue Size: 3 
+[2019-06-19 17:50:47] [INFO   ] Producer1: Adding Task(deb9037a, 9, 0) Queue Size: 6 
+[2019-06-19 17:50:47] [INFO   ] NODE-2: Working Task(ba8cc099, 4, 0), Queue Size: 6 
+[2019-06-19 17:50:47] [INFO   ] NODE-1: Working Task(c19ee659, 2, 174), Queue Size: 5 
+[2019-06-19 17:50:48] [INFO   ] NODE-1: Working Task(af9b1b2d, 7, 0), Queue Size: 5 
+[2019-06-19 17:50:49] [INFO   ] Producer1: Adding Task(cdf24f43, 2, 0) Queue Size: 6 
+[2019-06-19 17:50:49] [INFO   ] NODE-3: Completed Task(c399d5bf, 0, 321) Completed: 21 
+[2019-06-19 17:50:49] [INFO   ] NODE-1: Working Task(508586a3, 6, 0), Queue Size: 6 
+[2019-06-19 17:50:50] [INFO   ] NODE-3: Working Task(65fff74f, 3, 169), Queue Size: 7 
+[2019-06-19 17:50:50] [INFO   ] NODE-1: Working Task(5dbba8fc, 1, 198), Queue Size: 6 
+[2019-06-19 17:50:50] [INFO   ] NODE-1: Completed Task(5dbba8fc, 0, 215) Completed: 21 
+[2019-06-19 17:50:51] [INFO   ] Producer1: Adding Task(498a3038, 9, 0) Queue Size: 6 
+[2019-06-19 17:50:51] [INFO   ] NODE-2: Working Task(deb9037a, 9, 0), Queue Size: 6 
+[2019-06-19 17:50:51] [INFO   ] NODE-1: Working Task(c19ee659, 1, 257), Queue Size: 6 
+[2019-06-19 17:50:51] [INFO   ] NODE-1: Completed Task(c19ee659, 0, 260) Completed: 22 
+[2019-06-19 17:50:52] [INFO   ] NODE-2: Working Task(af9b1b2d, 6, 85), Queue Size: 5 
+[2019-06-19 17:50:52] [INFO   ] NODE-1: Working Task(cdf24f43, 2, 0), Queue Size: 4 
+[2019-06-19 17:50:53] [INFO   ] Producer1: Adding Task(83a198f7, 3, 0) Queue Size: 5 
+[2019-06-19 17:50:53] [INFO   ] NODE-1: Working Task(508586a3, 5, 39), Queue Size: 6 
+[2019-06-19 17:50:54] [INFO   ] NODE-2: Working Task(ba8cc099, 3, 74), Queue Size: 6 
+[2019-06-19 17:50:54] [INFO   ] NODE-1: Working Task(498a3038, 9, 0), Queue Size: 6 
+[2019-06-19 17:50:55] [INFO   ] Producer1: Adding Task(6938a12c, 10, 0) Queue Size: 7 
+[2019-06-19 17:50:55] [INFO   ] NODE-2: Working Task(deb9037a, 8, 91), Queue Size: 7 
+[2019-06-19 17:50:55] [INFO   ] NODE-1: Working Task(cdf24f43, 1, 25), Queue Size: 7 
+[2019-06-19 17:50:55] [INFO   ] NODE-1: Completed Task(cdf24f43, 0, 81) Completed: 23 
+[2019-06-19 17:50:56] [INFO   ] NODE-2: Working Task(83a198f7, 3, 0), Queue Size: 6 
+[2019-06-19 17:50:56] [INFO   ] NODE-1: Working Task(af9b1b2d, 5, 100), Queue Size: 5 
+[2019-06-19 17:50:57] [INFO   ] Producer1: Adding Task(73cce124, 4, 0) Queue Size: 6 
+[2019-06-19 17:50:57] [INFO   ] NODE-1: Working Task(508586a3, 4, 50), Queue Size: 6 
+[2019-06-19 17:50:58] [INFO   ] NODE-1: Working Task(ba8cc099, 2, 86), Queue Size: 7 
+[2019-06-19 17:50:59] [INFO   ] Producer1: Adding Task(502decb8, 4, 0) Queue Size: 8 
+[2019-06-19 17:50:59] [INFO   ] NODE-2: Working Task(498a3038, 8, 30), Queue Size: 9 
+[2019-06-19 17:50:59] [INFO   ] NODE-1: Working Task(6938a12c, 10, 0), Queue Size: 9 
+[2019-06-19 17:51:00] [INFO   ] NODE-3: Working Task(deb9037a, 7, 150), Queue Size: 9 
+[2019-06-19 17:51:00] [INFO   ] NODE-2: Working Task(af9b1b2d, 4, 190), Queue Size: 8 
+[2019-06-19 17:51:00] [INFO   ] NODE-1: Working Task(73cce124, 4, 0), Queue Size: 8 
+[2019-06-19 17:51:01] [INFO   ] Producer1: Adding Task(3d3b0246, 8, 0) Queue Size: 9 
+[2019-06-19 17:51:01] [INFO   ] NODE-3: Working Task(508586a3, 3, 57), Queue Size: 9 
+[2019-06-19 17:51:01] [INFO   ] NODE-1: Working Task(83a198f7, 2, 79), Queue Size: 9 
+[2019-06-19 17:51:02] [INFO   ] NODE-3: Working Task(ba8cc099, 1, 88), Queue Size: 9 
+[2019-06-19 17:51:02] [INFO   ] NODE-1: Working Task(502decb8, 4, 0), Queue Size: 8 
+[2019-06-19 17:51:03] [INFO   ] Producer1: Adding Task(d80e294a, 10, 0) Queue Size: 9 
+[2019-06-19 17:51:03] [INFO   ] NODE-1: Working Task(65fff74f, 2, 213), Queue Size: 9 
+[2019-06-19 17:51:04] [INFO   ] NODE-1: Working Task(498a3038, 7, 123), Queue Size: 9 
+[2019-06-19 17:51:05] [INFO   ] Producer1: Queue full 10 
+[2019-06-19 17:51:05] [INFO   ] Producer1: Pausing for: 2 seconds 
+[2019-06-19 17:51:05] [INFO   ] NODE-3: Completed Task(ba8cc099, 0, 160) Completed: 22 
+[2019-06-19 17:51:05] [INFO   ] NODE-1: Working Task(6938a12c, 9, 2), Queue Size: 10 
+[2019-06-19 17:51:06] [INFO   ] NODE-2: Working Task(deb9037a, 6, 195), Queue Size: 9 
+[2019-06-19 17:51:06] [INFO   ] NODE-3: Working Task(73cce124, 3, 76), Queue Size: 9 
+[2019-06-19 17:51:07] [INFO   ] NODE-2: Working Task(3d3b0246, 8, 0), Queue Size: 8 
+[2019-06-19 17:51:08] [INFO   ] NODE-3: Working Task(508586a3, 2, 71), Queue Size: 8 
+[2019-06-19 17:51:09] [INFO   ] Producer1: Adding Task(96a21834, 10, 0) Queue Size: 9 
+[2019-06-19 17:51:09] [INFO   ] NODE-3: Working Task(83a198f7, 1, 151), Queue Size: 9 
+[2019-06-19 17:51:09] [INFO   ] NODE-3: Completed Task(83a198f7, 0, 237) Completed: 23 
+[2019-06-19 17:51:10] [INFO   ] NODE-3: Working Task(502decb8, 3, 44), Queue Size: 8 
+[2019-06-19 17:51:11] [INFO   ] Producer1: Adding Task(f63fd772, 2, 0) Queue Size: 9 
+[2019-06-19 17:51:11] [INFO   ] NODE-3: Working Task(d80e294a, 10, 0), Queue Size: 9 
+[2019-06-19 17:51:12] [INFO   ] NODE-3: Working Task(65fff74f, 1, 267), Queue Size: 10 
+[2019-06-19 17:51:12] [INFO   ] NODE-3: Completed Task(65fff74f, 0, 293) Completed: 24 
+[2019-06-19 17:51:12] [INFO   ] NODE-1: Working Task(498a3038, 6, 173), Queue Size: 9 
+[2019-06-19 17:51:13] [INFO   ] Producer1: Queue full 10 
+[2019-06-19 17:51:13] [INFO   ] Producer1: Pausing for: 28 seconds 
+[2019-06-19 17:51:13] [INFO   ] NODE-3: Working Task(af9b1b2d, 3, 264), Queue Size: 9 
+[2019-06-19 17:51:13] [INFO   ] NODE-1: Working Task(deb9037a, 5, 253), Queue Size: 9 
+[2019-06-19 17:51:14] [INFO   ] NODE-3: Working Task(73cce124, 2, 104), Queue Size: 8 
+[2019-06-19 17:51:16] [INFO   ] NODE-2: Working Task(508586a3, 1, 83), Queue Size: 9 
+[2019-06-19 17:51:16] [INFO   ] NODE-3: Working Task(96a21834, 10, 0), Queue Size: 8 
+[2019-06-19 17:51:17] [INFO   ] NODE-3: Working Task(502decb8, 2, 106), Queue Size: 8 
+[2019-06-19 17:51:18] [INFO   ] NODE-2: Completed Task(508586a3, 0, 150) Completed: 17 
+[2019-06-19 17:51:18] [INFO   ] NODE-3: Working Task(f63fd772, 2, 0), Queue Size: 8 
+[2019-06-19 17:51:19] [INFO   ] NODE-2: Working Task(d80e294a, 9, 13), Queue Size: 8 
+[2019-06-19 17:51:19] [INFO   ] NODE-3: Working Task(6938a12c, 8, 68), Queue Size: 8 
+[2019-06-19 17:51:20] [INFO   ] NODE-2: Working Task(498a3038, 5, 222), Queue Size: 8 
+[2019-06-19 17:51:20] [INFO   ] NODE-3: Working Task(af9b1b2d, 2, 284), Queue Size: 8 
+[2019-06-19 17:51:21] [INFO   ] NODE-2: Working Task(3d3b0246, 7, 48), Queue Size: 9 
+[2019-06-19 17:51:21] [INFO   ] NODE-3: Working Task(73cce124, 1, 155), Queue Size: 9 
+[2019-06-19 17:51:21] [INFO   ] NODE-3: Completed Task(73cce124, 0, 168) Completed: 25 
+[2019-06-19 17:51:21] [INFO   ] NODE-1: Working Task(96a21834, 9, 88), Queue Size: 8 
+[2019-06-19 17:51:22] [INFO   ] NODE-2: Working Task(502decb8, 1, 155), Queue Size: 8 
+[2019-06-19 17:51:22] [INFO   ] NODE-2: Completed Task(502decb8, 0, 218) Completed: 18 
+[2019-06-19 17:51:22] [INFO   ] NODE-3: Working Task(f63fd772, 1, 17), Queue Size: 7 
+[2019-06-19 17:51:22] [INFO   ] NODE-3: Completed Task(f63fd772, 0, 100) Completed: 26 
+[2019-06-19 17:51:22] [INFO   ] NODE-1: Working Task(d80e294a, 8, 23), Queue Size: 6 
+[2019-06-19 17:51:23] [INFO   ] NODE-2: Working Task(6938a12c, 7, 135), Queue Size: 6 
+[2019-06-19 17:51:23] [INFO   ] NODE-3: Working Task(498a3038, 4, 312), Queue Size: 6 
+[2019-06-19 17:51:23] [INFO   ] NODE-1: Working Task(af9b1b2d, 1, 343), Queue Size: 5 
+[2019-06-19 17:51:24] [INFO   ] NODE-2: Working Task(deb9037a, 4, 323), Queue Size: 4 
+[2019-06-19 17:51:24] [INFO   ] NODE-1: Completed Task(af9b1b2d, 0, 383) Completed: 24 
+[2019-06-19 17:51:25] [INFO   ] NODE-2: Working Task(3d3b0246, 6, 108), Queue Size: 5 
+[2019-06-19 17:51:25] [INFO   ] NODE-3: Working Task(96a21834, 8, 125), Queue Size: 5 
+[2019-06-19 17:51:25] [INFO   ] NODE-1: Working Task(d80e294a, 7, 81), Queue Size: 4 
+[2019-06-19 17:51:26] [INFO   ] NODE-2: Working Task(6938a12c, 6, 137), Queue Size: 3 
+[2019-06-19 17:51:27] [INFO   ] NODE-2: Working Task(deb9037a, 3, 411), Queue Size: 3 
+[2019-06-19 17:51:28] [INFO   ] NODE-2: Working Task(498a3038, 3, 318), Queue Size: 3 
+[2019-06-19 17:51:29] [INFO   ] NODE-2: Working Task(3d3b0246, 5, 170), Queue Size: 4 
+[2019-06-19 17:51:29] [INFO   ] NODE-3: Working Task(6938a12c, 5, 154), Queue Size: 4 
+[2019-06-19 17:51:30] [INFO   ] NODE-2: Working Task(deb9037a, 2, 507), Queue Size: 4 
+[2019-06-19 17:51:30] [INFO   ] NODE-3: Working Task(498a3038, 2, 353), Queue Size: 3 
+[2019-06-19 17:51:31] [INFO   ] NODE-3: Working Task(96a21834, 7, 224), Queue Size: 4 
+[2019-06-19 17:51:31] [INFO   ] NODE-1: Working Task(3d3b0246, 4, 256), Queue Size: 4 
+[2019-06-19 17:51:32] [INFO   ] NODE-3: Working Task(6938a12c, 4, 245), Queue Size: 4 
+[2019-06-19 17:51:32] [INFO   ] NODE-1: Working Task(498a3038, 1, 433), Queue Size: 4 
+[2019-06-19 17:51:33] [INFO   ] NODE-3: Working Task(d80e294a, 6, 166), Queue Size: 3 
+[2019-06-19 17:51:33] [INFO   ] NODE-1: Completed Task(498a3038, 0, 464) Completed: 25 
+[2019-06-19 17:51:34] [INFO   ] NODE-3: Working Task(96a21834, 6, 300), Queue Size: 3 
+[2019-06-19 17:51:34] [INFO   ] NODE-1: Working Task(3d3b0246, 3, 271), Queue Size: 3 
+[2019-06-19 17:51:35] [INFO   ] NODE-3: Working Task(6938a12c, 3, 278), Queue Size: 3 
+[2019-06-19 17:51:35] [INFO   ] NODE-1: Working Task(d80e294a, 5, 245), Queue Size: 3 
+[2019-06-19 17:51:36] [INFO   ] NODE-3: Working Task(96a21834, 5, 306), Queue Size: 3 
+[2019-06-19 17:51:36] [INFO   ] NODE-1: Working Task(3d3b0246, 2, 347), Queue Size: 3 
+[2019-06-19 17:51:37] [INFO   ] NODE-3: Working Task(6938a12c, 2, 341), Queue Size: 3 
+[2019-06-19 17:51:37] [INFO   ] NODE-1: Working Task(d80e294a, 4, 289), Queue Size: 2 
+[2019-06-19 17:51:38] [INFO   ] NODE-1: Working Task(96a21834, 4, 325), Queue Size: 3 
+[2019-06-19 17:51:39] [INFO   ] NODE-2: Working Task(3d3b0246, 1, 387), Queue Size: 3 
+[2019-06-19 17:51:39] [INFO   ] NODE-2: Completed Task(3d3b0246, 0, 467) Completed: 19 
+[2019-06-19 17:51:39] [INFO   ] NODE-1: Working Task(d80e294a, 3, 385), Queue Size: 2 
+[2019-06-19 17:51:40] [INFO   ] NODE-2: Working Task(deb9037a, 1, 520), Queue Size: 2 
+[2019-06-19 17:51:40] [INFO   ] NODE-1: Working Task(96a21834, 3, 383), Queue Size: 1 
+[2019-06-19 17:51:41] [INFO   ] NODE-1: Working Task(d80e294a, 2, 446), Queue Size: 1 
+[2019-06-19 17:51:43] [INFO   ] Producer1: Adding Task(2c7699d8, 5, 0) Queue Size: 1 
+[2019-06-19 17:51:45] [INFO   ] Producer1: Adding Task(c8c35eaf, 2, 0) Queue Size: 4 
+[2019-06-19 17:51:45] [INFO   ] NODE-3: Working Task(96a21834, 2, 456), Queue Size: 4 
+[2019-06-19 17:51:45] [INFO   ] NODE-1: Working Task(2c7699d8, 5, 0), Queue Size: 4 
+[2019-06-19 17:51:46] [INFO   ] NODE-3: Working Task(6938a12c, 1, 374), Queue Size: 4 
+[2019-06-19 17:51:46] [INFO   ] NODE-3: Completed Task(6938a12c, 0, 425) Completed: 27 
+[2019-06-19 17:51:46] [INFO   ] NODE-1: Working Task(d80e294a, 1, 492), Queue Size: 3 
+[2019-06-19 17:51:47] [INFO   ] Producer1: Adding Task(f3452f55, 9, 0) Queue Size: 3 
+[2019-06-19 17:51:47] [INFO   ] NODE-3: Working Task(c8c35eaf, 2, 0), Queue Size: 3 
+[2019-06-19 17:51:48] [INFO   ] NODE-2: Completed Task(deb9037a, 0, 544) Completed: 20 
+[2019-06-19 17:51:48] [INFO   ] NODE-3: Working Task(96a21834, 1, 549), Queue Size: 3 
+[2019-06-19 17:51:49] [INFO   ] Producer1: Adding Task(52c15005, 6, 0) Queue Size: 3 
+[2019-06-19 17:51:49] [INFO   ] NODE-2: Working Task(2c7699d8, 4, 82), Queue Size: 3 
+[2019-06-19 17:51:50] [INFO   ] NODE-2: Working Task(f3452f55, 9, 0), Queue Size: 3 
+[2019-06-19 17:51:50] [INFO   ] NODE-3: Completed Task(96a21834, 0, 621) Completed: 28 
+[2019-06-19 17:51:51] [INFO   ] Producer1: Adding Task(21d431b6, 6, 0) Queue Size: 4 
+[2019-06-19 17:51:51] [INFO   ] NODE-2: Working Task(c8c35eaf, 1, 73), Queue Size: 4 
+[2019-06-19 17:51:51] [INFO   ] NODE-2: Completed Task(c8c35eaf, 0, 74) Completed: 21 
+[2019-06-19 17:51:51] [INFO   ] NODE-3: Working Task(52c15005, 6, 0), Queue Size: 3 
+[2019-06-19 17:51:51] [INFO   ] NODE-1: Completed Task(d80e294a, 0, 518) Completed: 26 
+[2019-06-19 17:51:52] [INFO   ] NODE-2: Working Task(2c7699d8, 3, 105), Queue Size: 2 
+[2019-06-19 17:51:53] [INFO   ] NODE-1: Working Task(f3452f55, 8, 18), Queue Size: 2 
+[2019-06-19 17:51:53] [INFO   ] Producer1: Adding Task(9c6df4d6, 3, 0) Queue Size: 3 
+[2019-06-19 17:51:53] [INFO   ] NODE-2: Working Task(21d431b6, 6, 0), Queue Size: 3 
+[2019-06-19 17:51:54] [INFO   ] NODE-1: Working Task(2c7699d8, 2, 146), Queue Size: 3 
+[2019-06-19 17:51:54] [INFO   ] NODE-2: Working Task(f3452f55, 7, 91), Queue Size: 2 
+[2019-06-19 17:51:55] [INFO   ] Producer1: Adding Task(29e6181b, 10, 0) Queue Size: 3 
+[2019-06-19 17:51:55] [INFO   ] NODE-2: Working Task(9c6df4d6, 3, 0), Queue Size: 3 
+[2019-06-19 17:51:56] [INFO   ] NODE-2: Working Task(21d431b6, 5, 21), Queue Size: 3 
+[2019-06-19 17:51:57] [INFO   ] Producer1: Adding Task(9fb9e418, 2, 0) Queue Size: 4 
+[2019-06-19 17:51:57] [INFO   ] NODE-2: Working Task(f3452f55, 6, 135), Queue Size: 4 
+[2019-06-19 17:51:58] [INFO   ] NODE-2: Working Task(29e6181b, 10, 0), Queue Size: 6 
+[2019-06-19 17:51:58] [INFO   ] NODE-3: Working Task(9c6df4d6, 2, 24), Queue Size: 6 
+[2019-06-19 17:51:59] [INFO   ] NODE-1: Working Task(21d431b6, 4, 64), Queue Size: 6 
+[2019-06-19 17:51:59] [INFO   ] Producer1: Adding Task(4d033578, 3, 0) Queue Size: 6 
+[2019-06-19 17:51:59] [INFO   ] NODE-2: Working Task(9fb9e418, 2, 0), Queue Size: 6 
+[2019-06-19 17:51:59] [INFO   ] NODE-3: Working Task(f3452f55, 5, 211), Queue Size: 6 
+[2019-06-19 17:52:00] [INFO   ] NODE-2: Working Task(52c15005, 5, 90), Queue Size: 6 
+[2019-06-19 17:52:00] [INFO   ] NODE-3: Working Task(2c7699d8, 1, 163), Queue Size: 6 
+[2019-06-19 17:52:00] [INFO   ] NODE-3: Completed Task(2c7699d8, 0, 253) Completed: 29 
+[2019-06-19 17:52:01] [INFO   ] Producer1: Adding Task(d855d5f4, 6, 0) Queue Size: 6 
+[2019-06-19 17:52:01] [INFO   ] NODE-2: Working Task(29e6181b, 9, 46), Queue Size: 6 
+[2019-06-19 17:52:01] [INFO   ] NODE-3: Working Task(9c6df4d6, 1, 99), Queue Size: 6 
+[2019-06-19 17:52:01] [INFO   ] NODE-3: Completed Task(9c6df4d6, 0, 103) Completed: 30 
+[2019-06-19 17:52:02] [INFO   ] NODE-2: Working Task(4d033578, 3, 0), Queue Size: 6 
+[2019-06-19 17:52:02] [INFO   ] NODE-3: Working Task(9fb9e418, 1, 14), Queue Size: 6 
+[2019-06-19 17:52:03] [INFO   ] NODE-1: Working Task(f3452f55, 4, 261), Queue Size: 5 
+[2019-06-19 17:52:03] [INFO   ] Producer1: Adding Task(4b1f8fae, 5, 0) Queue Size: 6 
+[2019-06-19 17:52:03] [INFO   ] NODE-2: Working Task(52c15005, 4, 122), Queue Size: 6 
+[2019-06-19 17:52:04] [INFO   ] NODE-1: Working Task(d855d5f4, 6, 0), Queue Size: 6 
+[2019-06-19 17:52:04] [INFO   ] NODE-2: Working Task(29e6181b, 8, 71), Queue Size: 6 
+[2019-06-19 17:52:05] [INFO   ] NODE-1: Working Task(21d431b6, 3, 90), Queue Size: 6 
+[2019-06-19 17:52:05] [INFO   ] Producer1: Adding Task(1782c4eb, 9, 0) Queue Size: 7 
+[2019-06-19 17:52:05] [INFO   ] NODE-2: Working Task(4d033578, 2, 65), Queue Size: 7 
+[2019-06-19 17:52:06] [INFO   ] NODE-1: Working Task(f3452f55, 3, 359), Queue Size: 7 
+[2019-06-19 17:52:06] [INFO   ] NODE-2: Working Task(4b1f8fae, 5, 0), Queue Size: 7 
+[2019-06-19 17:52:07] [INFO   ] NODE-1: Working Task(52c15005, 3, 218), Queue Size: 6 
+[2019-06-19 17:52:07] [INFO   ] Producer1: Adding Task(6e687a6f, 8, 0) Queue Size: 7 
+[2019-06-19 17:52:08] [INFO   ] NODE-1: Working Task(d855d5f4, 5, 79), Queue Size: 7 
+[2019-06-19 17:52:09] [INFO   ] NODE-1: Working Task(29e6181b, 7, 75), Queue Size: 7 
+[2019-06-19 17:52:09] [INFO   ] Producer1: Adding Task(5acf2806, 9, 0) Queue Size: 7 
+[2019-06-19 17:52:09] [INFO   ] NODE-3: Completed Task(9fb9e418, 0, 60) Completed: 31 
+[2019-06-19 17:52:10] [INFO   ] NODE-3: Working Task(21d431b6, 2, 133), Queue Size: 7 
+[2019-06-19 17:52:11] [INFO   ] Producer1: Adding Task(0926545a, 9, 0) Queue Size: 8 
+[2019-06-19 17:52:11] [INFO   ] NODE-3: Working Task(1782c4eb, 9, 0), Queue Size: 9 
+[2019-06-19 17:52:12] [INFO   ] NODE-2: Working Task(4d033578, 1, 68), Queue Size: 8 
+[2019-06-19 17:52:12] [INFO   ] NODE-2: Completed Task(4d033578, 0, 103) Completed: 22 
+[2019-06-19 17:52:13] [INFO   ] Producer1: Adding Task(005fce57, 7, 0) Queue Size: 8 
+[2019-06-19 17:52:13] [INFO   ] NODE-2: Working Task(f3452f55, 2, 425), Queue Size: 8 
+[2019-06-19 17:52:14] [INFO   ] NODE-2: Working Task(52c15005, 2, 245), Queue Size: 9 
+[2019-06-19 17:52:15] [INFO   ] NODE-1: Working Task(6e687a6f, 8, 0), Queue Size: 9 
+[2019-06-19 17:52:15] [INFO   ] Producer1: Queue full 10 
+[2019-06-19 17:52:15] [INFO   ] Producer1: Pausing for: 10 seconds 
+[2019-06-19 17:52:15] [INFO   ] NODE-2: Working Task(d855d5f4, 4, 151), Queue Size: 9 
+[2019-06-19 17:52:16] [INFO   ] NODE-1: Working Task(5acf2806, 9, 0), Queue Size: 9 
+[2019-06-19 17:52:16] [INFO   ] NODE-2: Working Task(21d431b6, 1, 147), Queue Size: 9 
+[2019-06-19 17:52:16] [INFO   ] NODE-2: Completed Task(21d431b6, 0, 207) Completed: 23 
+[2019-06-19 17:52:17] [INFO   ] NODE-1: Working Task(0926545a, 9, 0), Queue Size: 8 
+[2019-06-19 17:52:17] [INFO   ] NODE-2: Working Task(4b1f8fae, 4, 13), Queue Size: 7 
+[2019-06-19 17:52:18] [INFO   ] NODE-2: Working Task(005fce57, 7, 0), Queue Size: 8 
+[2019-06-19 17:52:19] [INFO   ] NODE-3: Working Task(f3452f55, 1, 459), Queue Size: 8 
+[2019-06-19 17:52:19] [INFO   ] NODE-3: Completed Task(f3452f55, 0, 531) Completed: 32 
+[2019-06-19 17:52:19] [INFO   ] NODE-2: Working Task(29e6181b, 6, 127), Queue Size: 7 
+[2019-06-19 17:52:20] [INFO   ] NODE-3: Working Task(52c15005, 1, 297), Queue Size: 7 
+[2019-06-19 17:52:20] [INFO   ] NODE-2: Working Task(6e687a6f, 7, 64), Queue Size: 6 
+[2019-06-19 17:52:20] [INFO   ] NODE-3: Completed Task(52c15005, 0, 356) Completed: 33 
+[2019-06-19 17:52:21] [INFO   ] NODE-3: Working Task(d855d5f4, 3, 219), Queue Size: 6 
+[2019-06-19 17:52:21] [INFO   ] NODE-2: Working Task(5acf2806, 8, 88), Queue Size: 5 
+[2019-06-19 17:52:22] [INFO   ] NODE-2: Working Task(4b1f8fae, 3, 54), Queue Size: 6 
+[2019-06-19 17:52:22] [INFO   ] NODE-3: Working Task(1782c4eb, 8, 44), Queue Size: 5 
+[2019-06-19 17:52:23] [INFO   ] NODE-2: Working Task(005fce57, 6, 79), Queue Size: 6 
+[2019-06-19 17:52:24] [INFO   ] NODE-1: Working Task(29e6181b, 5, 223), Queue Size: 6 
+[2019-06-19 17:52:24] [INFO   ] NODE-2: Working Task(6e687a6f, 6, 68), Queue Size: 7 
+[2019-06-19 17:52:25] [INFO   ] NODE-1: Working Task(5acf2806, 7, 144), Queue Size: 7 
+[2019-06-19 17:52:25] [INFO   ] NODE-3: Working Task(d855d5f4, 2, 230), Queue Size: 7 
+[2019-06-19 17:52:25] [INFO   ] NODE-2: Working Task(4b1f8fae, 2, 115), Queue Size: 7 
+[2019-06-19 17:52:26] [INFO   ] NODE-1: Working Task(0926545a, 8, 70), Queue Size: 7 
+[2019-06-19 17:52:26] [INFO   ] NODE-3: Working Task(005fce57, 5, 159), Queue Size: 6 
+[2019-06-19 17:52:26] [INFO   ] NODE-2: Working Task(29e6181b, 4, 272), Queue Size: 5 
+[2019-06-19 17:52:27] [INFO   ] Producer1: Adding Task(9db67cc0, 5, 0) Queue Size: 7 
+[2019-06-19 17:52:27] [INFO   ] NODE-3: Working Task(1782c4eb, 7, 47), Queue Size: 7 
+[2019-06-19 17:52:27] [INFO   ] NODE-2: Working Task(6e687a6f, 5, 109), Queue Size: 6 
+[2019-06-19 17:52:28] [INFO   ] NODE-2: Working Task(5acf2806, 6, 179), Queue Size: 7 
+[2019-06-19 17:52:28] [INFO   ] NODE-3: Working Task(d855d5f4, 1, 243), Queue Size: 6 
+[2019-06-19 17:52:28] [INFO   ] NODE-3: Completed Task(d855d5f4, 0, 321) Completed: 34 
+[2019-06-19 17:52:29] [INFO   ] Producer1: Adding Task(e388b898, 2, 0) Queue Size: 7 
+[2019-06-19 17:52:29] [INFO   ] NODE-2: Working Task(4b1f8fae, 1, 175), Queue Size: 7 
+[2019-06-19 17:52:29] [INFO   ] NODE-3: Working Task(005fce57, 4, 247), Queue Size: 6 
+[2019-06-19 17:52:29] [INFO   ] NODE-2: Completed Task(4b1f8fae, 0, 247) Completed: 24 
+[2019-06-19 17:52:30] [INFO   ] NODE-3: Working Task(29e6181b, 3, 285), Queue Size: 6 
+[2019-06-19 17:52:30] [INFO   ] NODE-2: Working Task(9db67cc0, 5, 0), Queue Size: 5 
+[2019-06-19 17:52:31] [INFO   ] Producer1: Adding Task(9031d5b7, 10, 0) Queue Size: 8 
+[2019-06-19 17:52:31] [INFO   ] NODE-2: Working Task(6e687a6f, 4, 161), Queue Size: 8 
+[2019-06-19 17:52:31] [INFO   ] NODE-3: Working Task(1782c4eb, 6, 111), Queue Size: 7 
+[2019-06-19 17:52:32] [INFO   ] NODE-1: Working Task(5acf2806, 5, 184), Queue Size: 8 
+[2019-06-19 17:52:32] [INFO   ] NODE-3: Working Task(e388b898, 2, 0), Queue Size: 8 
+[2019-06-19 17:52:32] [INFO   ] NODE-2: Working Task(005fce57, 3, 306), Queue Size: 7 
+[2019-06-19 17:52:33] [INFO   ] NODE-1: Working Task(29e6181b, 2, 371), Queue Size: 8 
+[2019-06-19 17:52:33] [INFO   ] Producer1: Adding Task(55ca9a53, 8, 0) Queue Size: 9 
+[2019-06-19 17:52:33] [INFO   ] NODE-2: Working Task(9db67cc0, 4, 61), Queue Size: 9 
+[2019-06-19 17:52:33] [INFO   ] NODE-3: Working Task(0926545a, 7, 114), Queue Size: 8 
+[2019-06-19 17:52:34] [INFO   ] NODE-1: Working Task(9031d5b7, 10, 0), Queue Size: 9 
+[2019-06-19 17:52:34] [INFO   ] NODE-3: Working Task(1782c4eb, 5, 143), Queue Size: 9 
+[2019-06-19 17:52:34] [INFO   ] NODE-2: Working Task(6e687a6f, 3, 228), Queue Size: 8 
+[2019-06-19 17:52:35] [INFO   ] NODE-1: Working Task(5acf2806, 4, 274), Queue Size: 9 
+[2019-06-19 17:52:35] [INFO   ] Producer1: Adding Task(7df5447b, 3, 0) Queue Size: 9 
+[2019-06-19 17:52:35] [INFO   ] NODE-3: Working Task(005fce57, 2, 399), Queue Size: 9 
+[2019-06-19 17:52:35] [INFO   ] NODE-2: Working Task(e388b898, 1, 67), Queue Size: 8 
+[2019-06-19 17:52:36] [INFO   ] NODE-3: Working Task(29e6181b, 1, 428), Queue Size: 8 
+[2019-06-19 17:52:36] [INFO   ] NODE-3: Completed Task(29e6181b, 0, 522) Completed: 35 
+[2019-06-19 17:52:37] [INFO   ] Producer1: Adding Task(616bfd2d, 3, 0) Queue Size: 8 
+[2019-06-19 17:52:37] [INFO   ] NODE-3: Working Task(55ca9a53, 8, 0), Queue Size: 8 
+[2019-06-19 17:52:38] [INFO   ] NODE-3: Working Task(0926545a, 6, 203), Queue Size: 8 
+[2019-06-19 17:52:39] [INFO   ] Producer1: Adding Task(9dcdc0ae, 2, 0) Queue Size: 9 
+[2019-06-19 17:52:39] [INFO   ] NODE-3: Working Task(9db67cc0, 3, 145), Queue Size: 9 
+[2019-06-19 17:52:40] [INFO   ] NODE-3: Working Task(9031d5b7, 9, 16), Queue Size: 9 
+[2019-06-19 17:52:41] [INFO   ] Producer1: Queue full 10 
+[2019-06-19 17:52:41] [INFO   ] Producer1: Pausing for: 20 seconds 
+[2019-06-19 17:52:41] [INFO   ] NODE-3: Working Task(1782c4eb, 4, 219), Queue Size: 9 
+[2019-06-19 17:52:42] [INFO   ] NODE-3: Working Task(6e687a6f, 2, 269), Queue Size: 9 
+[2019-06-19 17:52:43] [INFO   ] NODE-2: Completed Task(e388b898, 0, 92) Completed: 25 
+[2019-06-19 17:52:43] [INFO   ] NODE-3: Working Task(7df5447b, 3, 0), Queue Size: 10 
+[2019-06-19 17:52:44] [INFO   ] NODE-1: Working Task(005fce57, 1, 436), Queue Size: 10 
+[2019-06-19 17:52:44] [INFO   ] NODE-1: Completed Task(005fce57, 0, 440) Completed: 27 
+[2019-06-19 17:52:44] [INFO   ] NODE-2: Working Task(616bfd2d, 3, 0), Queue Size: 9 
+[2019-06-19 17:52:44] [INFO   ] NODE-3: Working Task(55ca9a53, 7, 32), Queue Size: 9 
+[2019-06-19 17:52:45] [INFO   ] NODE-1: Working Task(0926545a, 5, 297), Queue Size: 9 
+[2019-06-19 17:52:45] [INFO   ] NODE-2: Working Task(9dcdc0ae, 2, 0), Queue Size: 9 
+[2019-06-19 17:52:46] [INFO   ] NODE-3: Working Task(9db67cc0, 2, 181), Queue Size: 9 
+[2019-06-19 17:52:46] [INFO   ] NODE-1: Working Task(9031d5b7, 8, 26), Queue Size: 9 
+[2019-06-19 17:52:46] [INFO   ] NODE-2: Working Task(1782c4eb, 3, 282), Queue Size: 9 
+[2019-06-19 17:52:47] [INFO   ] NODE-3: Working Task(6e687a6f, 1, 337), Queue Size: 9 
+[2019-06-19 17:52:47] [INFO   ] NODE-1: Working Task(5acf2806, 3, 321), Queue Size: 8 
+[2019-06-19 17:52:47] [INFO   ] NODE-2: Working Task(7df5447b, 2, 36), Queue Size: 8 
+[2019-06-19 17:52:48] [INFO   ] NODE-1: Working Task(616bfd2d, 2, 42), Queue Size: 8 
+[2019-06-19 17:52:48] [INFO   ] NODE-2: Working Task(55ca9a53, 6, 117), Queue Size: 7 
+[2019-06-19 17:52:49] [INFO   ] NODE-2: Working Task(0926545a, 4, 362), Queue Size: 7 
+[2019-06-19 17:52:50] [INFO   ] NODE-2: Working Task(9dcdc0ae, 1, 27), Queue Size: 7 
+[2019-06-19 17:52:50] [INFO   ] NODE-2: Completed Task(9dcdc0ae, 0, 83) Completed: 26 
+[2019-06-19 17:52:51] [INFO   ] NODE-2: Working Task(9db67cc0, 1, 214), Queue Size: 7 
+[2019-06-19 17:52:51] [INFO   ] NODE-2: Completed Task(9db67cc0, 0, 243) Completed: 27 
+[2019-06-19 17:52:52] [INFO   ] NODE-1: Working Task(9031d5b7, 7, 91), Queue Size: 6 
+[2019-06-19 17:52:53] [INFO   ] NODE-2: Working Task(1782c4eb, 2, 347), Queue Size: 6 
+[2019-06-19 17:52:53] [INFO   ] NODE-1: Working Task(5acf2806, 2, 327), Queue Size: 6 
+[2019-06-19 17:52:54] [INFO   ] NODE-2: Working Task(7df5447b, 1, 98), Queue Size: 6 
+[2019-06-19 17:52:54] [INFO   ] NODE-2: Completed Task(7df5447b, 0, 179) Completed: 28 
+[2019-06-19 17:52:54] [INFO   ] NODE-3: Completed Task(6e687a6f, 0, 435) Completed: 36 
+[2019-06-19 17:52:54] [INFO   ] NODE-1: Working Task(55ca9a53, 5, 134), Queue Size: 5 
+[2019-06-19 17:52:55] [INFO   ] NODE-2: Working Task(0926545a, 3, 369), Queue Size: 5 
+[2019-06-19 17:52:55] [INFO   ] NODE-3: Working Task(616bfd2d, 1, 49), Queue Size: 5 
+[2019-06-19 17:52:55] [INFO   ] NODE-1: Working Task(9031d5b7, 6, 111), Queue Size: 4 
+[2019-06-19 17:52:56] [INFO   ] NODE-2: Working Task(1782c4eb, 1, 419), Queue Size: 4 
+[2019-06-19 17:52:56] [INFO   ] NODE-2: Completed Task(1782c4eb, 0, 447) Completed: 29 
+[2019-06-19 17:52:56] [INFO   ] NODE-1: Working Task(5acf2806, 1, 425), Queue Size: 3 
+[2019-06-19 17:52:56] [INFO   ] NODE-1: Completed Task(5acf2806, 0, 429) Completed: 28 
+[2019-06-19 17:52:57] [INFO   ] NODE-2: Working Task(55ca9a53, 4, 193), Queue Size: 2 
+[2019-06-19 17:52:57] [INFO   ] NODE-1: Working Task(0926545a, 2, 463), Queue Size: 1 
+[2019-06-19 17:52:58] [INFO   ] NODE-1: Working Task(9031d5b7, 5, 199), Queue Size: 1 
+[2019-06-19 17:52:59] [INFO   ] NODE-1: Working Task(0926545a, 1, 507), Queue Size: 1 
+[2019-06-19 17:52:59] [INFO   ] NODE-1: Completed Task(0926545a, 0, 574) Completed: 29 
+[2019-06-19 17:53:00] [INFO   ] NODE-1: Working Task(9031d5b7, 4, 233), Queue Size: 0 
+[2019-06-19 17:53:01] [INFO   ] NODE-3: Completed Task(616bfd2d, 0, 60) Completed: 37 
+[2019-06-19 17:53:01] [INFO   ] NODE-1: Working Task(9031d5b7, 3, 309), Queue Size: 0 
+[2019-06-19 17:53:02] [INFO   ] NODE-3: Working Task(9031d5b7, 2, 387), Queue Size: 0 
+[2019-06-19 17:53:02] [INFO   ] NODE-1: Working Task(9031d5b7, 1, 446), Queue Size: 0 
+[2019-06-19 17:53:03] [INFO   ] NODE-3: Queue Empty, Completed: 37, Queue Size: (0) 
+[2019-06-19 17:53:03] [INFO   ] Producer1: Adding Task(c4c96784, 9, 0) Queue Size: 0 
+[2019-06-19 17:53:04] [INFO   ] NODE-3: Working Task(c4c96784, 9, 0), Queue Size: 0 
+[2019-06-19 17:53:05] [INFO   ] NODE-3: Working Task(c4c96784, 8, 57), Queue Size: 1 
+[2019-06-19 17:53:05] [INFO   ] Producer1: Adding Task(c42ba0f5, 9, 0) Queue Size: 1 
+[2019-06-19 17:53:06] [INFO   ] NODE-2: Working Task(55ca9a53, 3, 229), Queue Size: 1 
+[2019-06-19 17:53:07] [INFO   ] NODE-2: Working Task(c42ba0f5, 9, 0), Queue Size: 1 
+[2019-06-19 17:53:07] [INFO   ] NODE-1: Completed Task(9031d5b7, 0, 494) Completed: 30 
+[2019-06-19 17:53:07] [INFO   ] Producer1: Adding Task(e9c9b0f4, 4, 0) Queue Size: 2 
+[2019-06-19 17:53:08] [INFO   ] NODE-2: Working Task(55ca9a53, 2, 311), Queue Size: 3 
+[2019-06-19 17:53:08] [INFO   ] NODE-1: Working Task(c42ba0f5, 8, 46), Queue Size: 3 
+[2019-06-19 17:53:09] [INFO   ] NODE-3: Working Task(e9c9b0f4, 4, 0), Queue Size: 3 
+[2019-06-19 17:53:09] [INFO   ] NODE-2: Working Task(c4c96784, 7, 120), Queue Size: 3 
+[2019-06-19 17:53:09] [INFO   ] NODE-1: Working Task(55ca9a53, 1, 379), Queue Size: 3 
+[2019-06-19 17:53:09] [INFO   ] NODE-1: Completed Task(55ca9a53, 0, 434) Completed: 31 
+[2019-06-19 17:53:09] [INFO   ] Producer1: Adding Task(7248cc3a, 7, 0) Queue Size: 3 
+[2019-06-19 17:53:10] [INFO   ] NODE-3: Working Task(c42ba0f5, 7, 105), Queue Size: 3 
+[2019-06-19 17:53:10] [INFO   ] NODE-2: Working Task(e9c9b0f4, 3, 5), Queue Size: 2 
+[2019-06-19 17:53:10] [INFO   ] NODE-1: Working Task(c4c96784, 6, 197), Queue Size: 2 
+[2019-06-19 17:53:11] [INFO   ] NODE-2: Working Task(7248cc3a, 7, 0), Queue Size: 2 
+[2019-06-19 17:53:11] [INFO   ] NODE-1: Working Task(e9c9b0f4, 2, 78), Queue Size: 2 
+[2019-06-19 17:53:11] [INFO   ] Producer1: Adding Task(0bdf7d5e, 6, 0) Queue Size: 3 
+[2019-06-19 17:53:12] [INFO   ] NODE-2: Working Task(c4c96784, 5, 269), Queue Size: 3 
+[2019-06-19 17:53:12] [INFO   ] NODE-1: Working Task(7248cc3a, 6, 3), Queue Size: 3 
+[2019-06-19 17:53:13] [INFO   ] NODE-2: Working Task(e9c9b0f4, 1, 167), Queue Size: 3 
+[2019-06-19 17:53:13] [INFO   ] NODE-2: Completed Task(e9c9b0f4, 0, 227) Completed: 30 
+[2019-06-19 17:53:13] [INFO   ] NODE-1: Working Task(0bdf7d5e, 6, 0), Queue Size: 2 
+[2019-06-19 17:53:13] [INFO   ] Producer1: Adding Task(572ae7d2, 6, 0) Queue Size: 2 
+[2019-06-19 17:53:14] [INFO   ] NODE-2: Working Task(c4c96784, 4, 289), Queue Size: 2 
+[2019-06-19 17:53:15] [INFO   ] Producer1: Adding Task(82469bf9, 1, 0) Queue Size: 2 
+[2019-06-19 17:53:17] [INFO   ] Producer1: Adding Task(e5cd1df8, 5, 0) Queue Size: 4 
+[2019-06-19 17:53:18] [INFO   ] NODE-1: Working Task(7248cc3a, 5, 94), Queue Size: 5 
+[2019-06-19 17:53:19] [INFO   ] NODE-3: Working Task(572ae7d2, 6, 0), Queue Size: 5 
+[2019-06-19 17:53:19] [INFO   ] NODE-1: Working Task(82469bf9, 1, 0), Queue Size: 5 
+[2019-06-19 17:53:19] [INFO   ] NODE-1: Completed Task(82469bf9, 0, 16) Completed: 32 
+[2019-06-19 17:53:19] [INFO   ] Producer1: Adding Task(fbf0655a, 1, 0) Queue Size: 5 
+[2019-06-19 17:53:20] [INFO   ] NODE-3: Working Task(0bdf7d5e, 5, 61), Queue Size: 5 
+[2019-06-19 17:53:20] [INFO   ] NODE-1: Working Task(e5cd1df8, 5, 0), Queue Size: 6 
+[2019-06-19 17:53:21] [INFO   ] NODE-3: Working Task(c42ba0f5, 6, 124), Queue Size: 6 
+[2019-06-19 17:53:21] [INFO   ] NODE-2: Working Task(7248cc3a, 4, 144), Queue Size: 5 
+[2019-06-19 17:53:21] [INFO   ] NODE-1: Working Task(572ae7d2, 5, 23), Queue Size: 5 
+[2019-06-19 17:53:21] [INFO   ] Producer1: Adding Task(a9220c42, 10, 0) Queue Size: 6 
+[2019-06-19 17:53:22] [INFO   ] NODE-2: Working Task(fbf0655a, 1, 0), Queue Size: 6 
+[2019-06-19 17:53:22] [INFO   ] NODE-2: Completed Task(fbf0655a, 0, 69) Completed: 31 
+[2019-06-19 17:53:22] [INFO   ] NODE-1: Working Task(0bdf7d5e, 4, 154), Queue Size: 5 
+[2019-06-19 17:53:23] [INFO   ] NODE-2: Working Task(c4c96784, 3, 382), Queue Size: 5 
+[2019-06-19 17:53:23] [INFO   ] NODE-1: Working Task(e5cd1df8, 4, 61), Queue Size: 5 
+[2019-06-19 17:53:23] [INFO   ] Producer1: Adding Task(b3477a0a, 6, 0) Queue Size: 6 
+[2019-06-19 17:53:24] [INFO   ] NODE-2: Working Task(7248cc3a, 3, 205), Queue Size: 6 
+[2019-06-19 17:53:24] [INFO   ] NODE-1: Working Task(572ae7d2, 4, 69), Queue Size: 6 
+[2019-06-19 17:53:25] [INFO   ] NODE-2: Working Task(a9220c42, 10, 0), Queue Size: 5 
+[2019-06-19 17:53:25] [INFO   ] Producer1: Adding Task(980722a6, 9, 0) Queue Size: 5 
+[2019-06-19 17:53:27] [INFO   ] NODE-3: Working Task(0bdf7d5e, 3, 247), Queue Size: 7 
+[2019-06-19 17:53:27] [INFO   ] NODE-2: Working Task(c4c96784, 2, 475), Queue Size: 7 
+[2019-06-19 17:53:27] [INFO   ] Producer1: Adding Task(4e2cde10, 6, 0) Queue Size: 9 
+[2019-06-19 17:53:28] [INFO   ] NODE-3: Working Task(e5cd1df8, 3, 142), Queue Size: 9 
+[2019-06-19 17:53:28] [INFO   ] NODE-2: Working Task(b3477a0a, 6, 0), Queue Size: 9 
+[2019-06-19 17:53:28] [INFO   ] NODE-1: Working Task(7248cc3a, 2, 247), Queue Size: 8 
+[2019-06-19 17:53:29] [INFO   ] NODE-3: Working Task(980722a6, 9, 0), Queue Size: 8 
+[2019-06-19 17:53:29] [INFO   ] NODE-1: Working Task(c42ba0f5, 5, 186), Queue Size: 8 
+[2019-06-19 17:53:29] [INFO   ] Producer1: Adding Task(3b35f7f4, 2, 0) Queue Size: 9 
+[2019-06-19 17:53:30] [INFO   ] NODE-3: Working Task(a9220c42, 9, 49), Queue Size: 9 
+[2019-06-19 17:53:30] [INFO   ] NODE-1: Working Task(0bdf7d5e, 2, 345), Queue Size: 9 
+[2019-06-19 17:53:31] [INFO   ] NODE-3: Working Task(c4c96784, 1, 504), Queue Size: 9 
+[2019-06-19 17:53:31] [INFO   ] NODE-3: Completed Task(c4c96784, 0, 582) Completed: 38 
+[2019-06-19 17:53:31] [INFO   ] NODE-1: Working Task(572ae7d2, 3, 89), Queue Size: 9 
+[2019-06-19 17:53:31] [INFO   ] Producer1: Adding Task(808a04a1, 3, 0) Queue Size: 9 
+[2019-06-19 17:53:32] [INFO   ] NODE-3: Working Task(4e2cde10, 6, 0), Queue Size: 9 
+[2019-06-19 17:53:32] [INFO   ] NODE-2: Working Task(e5cd1df8, 2, 220), Queue Size: 8 
+[2019-06-19 17:53:33] [INFO   ] NODE-2: Working Task(7248cc3a, 1, 284), Queue Size: 8 
+[2019-06-19 17:53:33] [INFO   ] NODE-2: Completed Task(7248cc3a, 0, 341) Completed: 32 
+[2019-06-19 17:53:33] [INFO   ] Producer1: Adding Task(43df2f37, 6, 0) Queue Size: 8 
+[2019-06-19 17:53:34] [INFO   ] NODE-2: Working Task(980722a6, 8, 79), Queue Size: 8 
+[2019-06-19 17:53:35] [INFO   ] NODE-2: Working Task(c42ba0f5, 4, 234), Queue Size: 8 
+[2019-06-19 17:53:35] [INFO   ] Producer1: Adding Task(348f5ec8, 8, 0) Queue Size: 9 
+[2019-06-19 17:53:36] [INFO   ] NODE-2: Working Task(3b35f7f4, 2, 0), Queue Size: 9 
+[2019-06-19 17:53:37] [INFO   ] NODE-2: Working Task(a9220c42, 8, 93), Queue Size: 9 
+[2019-06-19 17:53:37] [INFO   ] Producer1: Queue full 10 
+[2019-06-19 17:53:37] [INFO   ] Producer1: Pausing for: 11 seconds 
+[2019-06-19 17:53:38] [INFO   ] NODE-2: Working Task(0bdf7d5e, 1, 417), Queue Size: 9 
+[2019-06-19 17:53:38] [INFO   ] NODE-2: Completed Task(0bdf7d5e, 0, 457) Completed: 33 
+[2019-06-19 17:53:39] [INFO   ] NODE-2: Working Task(b3477a0a, 5, 13), Queue Size: 9 
+[2019-06-19 17:53:39] [INFO   ] NODE-1: Working Task(808a04a1, 3, 0), Queue Size: 9 
+[2019-06-19 17:53:40] [INFO   ] NODE-2: Working Task(e5cd1df8, 1, 241), Queue Size: 8 
+[2019-06-19 17:53:40] [INFO   ] NODE-2: Completed Task(e5cd1df8, 0, 261) Completed: 34 
+[2019-06-19 17:53:41] [INFO   ] NODE-2: Working Task(43df2f37, 6, 0), Queue Size: 8 
+[2019-06-19 17:53:42] [INFO   ] NODE-3: Working Task(980722a6, 7, 109), Queue Size: 9 
+[2019-06-19 17:53:42] [INFO   ] NODE-2: Working Task(c42ba0f5, 3, 322), Queue Size: 9 
+[2019-06-19 17:53:42] [INFO   ] NODE-1: Working Task(348f5ec8, 8, 0), Queue Size: 9 
+[2019-06-19 17:53:43] [INFO   ] NODE-3: Working Task(3b35f7f4, 1, 69), Queue Size: 9 
+[2019-06-19 17:53:43] [INFO   ] NODE-3: Completed Task(3b35f7f4, 0, 132) Completed: 39 
+[2019-06-19 17:53:43] [INFO   ] NODE-2: Working Task(a9220c42, 7, 164), Queue Size: 8 
+[2019-06-19 17:53:43] [INFO   ] NODE-1: Working Task(572ae7d2, 2, 99), Queue Size: 8 
+[2019-06-19 17:53:44] [INFO   ] NODE-3: Working Task(b3477a0a, 4, 45), Queue Size: 7 
+[2019-06-19 17:53:44] [INFO   ] NODE-2: Working Task(4e2cde10, 5, 43), Queue Size: 7 
+[2019-06-19 17:53:45] [INFO   ] NODE-3: Working Task(43df2f37, 5, 64), Queue Size: 6 
+[2019-06-19 17:53:46] [INFO   ] NODE-3: Working Task(808a04a1, 2, 12), Queue Size: 7 
+[2019-06-19 17:53:46] [INFO   ] NODE-1: Working Task(980722a6, 6, 188), Queue Size: 7 
+[2019-06-19 17:53:47] [INFO   ] NODE-3: Working Task(c42ba0f5, 2, 392), Queue Size: 7 
+[2019-06-19 17:53:47] [INFO   ] NODE-1: Working Task(348f5ec8, 7, 27), Queue Size: 7 
+[2019-06-19 17:53:48] [INFO   ] NODE-3: Working Task(a9220c42, 6, 217), Queue Size: 7 
+[2019-06-19 17:53:48] [INFO   ] NODE-1: Working Task(b3477a0a, 3, 133), Queue Size: 7 
+[2019-06-19 17:53:49] [INFO   ] NODE-3: Working Task(43df2f37, 4, 97), Queue Size: 7 
+[2019-06-19 17:53:49] [INFO   ] NODE-1: Working Task(572ae7d2, 1, 182), Queue Size: 7 
+[2019-06-19 17:53:50] [INFO   ] NODE-3: Working Task(808a04a1, 1, 50), Queue Size: 6 
+[2019-06-19 17:53:50] [INFO   ] NODE-3: Completed Task(808a04a1, 0, 135) Completed: 40 
+[2019-06-19 17:53:50] [INFO   ] Producer1: Adding Task(e45c4bbb, 2, 0) Queue Size: 6 
+[2019-06-19 17:53:51] [INFO   ] NODE-3: Working Task(980722a6, 5, 228), Queue Size: 6 
+[2019-06-19 17:53:52] [INFO   ] NODE-3: Working Task(c42ba0f5, 1, 487), Queue Size: 7 
+[2019-06-19 17:53:52] [INFO   ] NODE-3: Completed Task(c42ba0f5, 0, 497) Completed: 41 
+[2019-06-19 17:53:52] [INFO   ] NODE-2: Working Task(348f5ec8, 6, 114), Queue Size: 6 
+[2019-06-19 17:53:52] [INFO   ] Producer1: Adding Task(7a0a21ae, 1, 0) Queue Size: 6 
+[2019-06-19 17:53:53] [INFO   ] NODE-3: Working Task(a9220c42, 5, 312), Queue Size: 6 
+[2019-06-19 17:53:53] [INFO   ] NODE-1: Completed Task(572ae7d2, 0, 247) Completed: 33 
+[2019-06-19 17:53:54] [INFO   ] NODE-3: Working Task(b3477a0a, 2, 189), Queue Size: 6 
+[2019-06-19 17:53:54] [INFO   ] NODE-1: Working Task(43df2f37, 3, 130), Queue Size: 6 
+[2019-06-19 17:53:54] [INFO   ] Producer1: Adding Task(c5473ac9, 3, 0) Queue Size: 7 
+[2019-06-19 17:53:55] [INFO   ] NODE-3: Working Task(e45c4bbb, 2, 0), Queue Size: 7 
+[2019-06-19 17:53:55] [INFO   ] NODE-1: Working Task(980722a6, 4, 271), Queue Size: 7 
+[2019-06-19 17:53:56] [INFO   ] NODE-3: Working Task(4e2cde10, 4, 58), Queue Size: 7 
+[2019-06-19 17:53:56] [INFO   ] NODE-1: Working Task(7a0a21ae, 1, 0), Queue Size: 6 
+[2019-06-19 17:53:56] [INFO   ] NODE-1: Completed Task(7a0a21ae, 0, 36) Completed: 34 
+[2019-06-19 17:53:56] [INFO   ] Producer1: Adding Task(72ab4a57, 10, 0) Queue Size: 6 
+[2019-06-19 17:53:57] [INFO   ] NODE-1: Working Task(a9220c42, 4, 395), Queue Size: 6 
+[2019-06-19 17:53:58] [INFO   ] NODE-1: Working Task(b3477a0a, 1, 279), Queue Size: 7 
+[2019-06-19 17:53:58] [INFO   ] NODE-1: Completed Task(b3477a0a, 0, 353) Completed: 35 
+[2019-06-19 17:53:58] [INFO   ] Producer1: Adding Task(826f80fe, 2, 0) Queue Size: 7 
+[2019-06-19 17:53:59] [INFO   ] NODE-2: Working Task(43df2f37, 2, 190), Queue Size: 7 
+[2019-06-19 17:53:59] [INFO   ] NODE-1: Working Task(c5473ac9, 3, 0), Queue Size: 7 
+[2019-06-19 17:54:00] [INFO   ] NODE-2: Working Task(e45c4bbb, 1, 62), Queue Size: 7 
+[2019-06-19 17:54:00] [INFO   ] NODE-2: Completed Task(e45c4bbb, 0, 89) Completed: 35 
+[2019-06-19 17:54:00] [INFO   ] NODE-1: Working Task(980722a6, 3, 276), Queue Size: 6 
+[2019-06-19 17:54:00] [INFO   ] Producer1: Adding Task(3a9cb3cf, 2, 0) Queue Size: 7 
+[2019-06-19 17:54:01] [INFO   ] NODE-2: Working Task(72ab4a57, 10, 0), Queue Size: 7 
+[2019-06-19 17:54:01] [INFO   ] NODE-1: Working Task(a9220c42, 3, 406), Queue Size: 7 
+[2019-06-19 17:54:02] [INFO   ] NODE-2: Working Task(348f5ec8, 5, 192), Queue Size: 7 
+[2019-06-19 17:54:02] [INFO   ] NODE-1: Working Task(826f80fe, 2, 0), Queue Size: 7 
+[2019-06-19 17:54:02] [INFO   ] Producer1: Adding Task(49716468, 9, 0) Queue Size: 8 
+[2019-06-19 17:54:03] [INFO   ] NODE-2: Working Task(43df2f37, 1, 246), Queue Size: 9 
+[2019-06-19 17:54:03] [INFO   ] NODE-2: Completed Task(43df2f37, 0, 268) Completed: 36 
+[2019-06-19 17:54:03] [INFO   ] NODE-1: Working Task(c5473ac9, 2, 30), Queue Size: 8 
+[2019-06-19 17:54:04] [INFO   ] NODE-3: Working Task(980722a6, 2, 317), Queue Size: 8 
+[2019-06-19 17:54:04] [INFO   ] NODE-2: Working Task(3a9cb3cf, 2, 0), Queue Size: 8 
+[2019-06-19 17:54:04] [INFO   ] NODE-1: Working Task(72ab4a57, 9, 59), Queue Size: 8 
+[2019-06-19 17:54:04] [INFO   ] Producer1: Adding Task(6f254f5d, 6, 0) Queue Size: 9 
+[2019-06-19 17:54:05] [INFO   ] NODE-3: Working Task(a9220c42, 2, 420), Queue Size: 9 
+[2019-06-19 17:54:05] [INFO   ] NODE-2: Working Task(348f5ec8, 4, 239), Queue Size: 9 
+[2019-06-19 17:54:05] [INFO   ] NODE-1: Working Task(826f80fe, 1, 90), Queue Size: 9 
+[2019-06-19 17:54:06] [INFO   ] NODE-3: Working Task(49716468, 9, 0), Queue Size: 8 
+[2019-06-19 17:54:06] [INFO   ] NODE-2: Working Task(4e2cde10, 3, 90), Queue Size: 8 
+[2019-06-19 17:54:06] [INFO   ] Producer1: Adding Task(4a1df07c, 4, 0) Queue Size: 9 
+[2019-06-19 17:54:07] [INFO   ] NODE-3: Working Task(c5473ac9, 1, 33), Queue Size: 9 
+[2019-06-19 17:54:07] [INFO   ] NODE-3: Completed Task(c5473ac9, 0, 89) Completed: 42 
+[2019-06-19 17:54:07] [INFO   ] NODE-2: Working Task(980722a6, 1, 375), Queue Size: 8 
+[2019-06-19 17:54:07] [INFO   ] NODE-2: Completed Task(980722a6, 0, 436) Completed: 37 
+[2019-06-19 17:54:08] [INFO   ] NODE-3: Working Task(3a9cb3cf, 1, 90), Queue Size: 7 
+[2019-06-19 17:54:08] [INFO   ] NODE-3: Completed Task(3a9cb3cf, 0, 93) Completed: 43 
+[2019-06-19 17:54:08] [INFO   ] NODE-2: Working Task(72ab4a57, 8, 65), Queue Size: 6 
+[2019-06-19 17:54:08] [INFO   ] Producer1: Adding Task(b1defe38, 6, 0) Queue Size: 7 
+[2019-06-19 17:54:09] [INFO   ] NODE-3: Working Task(6f254f5d, 6, 0), Queue Size: 7 
+[2019-06-19 17:54:09] [INFO   ] NODE-2: Working Task(a9220c42, 1, 463), Queue Size: 7 
+[2019-06-19 17:54:09] [INFO   ] NODE-2: Completed Task(a9220c42, 0, 469) Completed: 38 
+[2019-06-19 17:54:10] [INFO   ] NODE-3: Working Task(348f5ec8, 3, 329), Queue Size: 6 
+[2019-06-19 17:54:10] [INFO   ] NODE-2: Working Task(49716468, 8, 11), Queue Size: 5 
+[2019-06-19 17:54:10] [INFO   ] Producer1: Adding Task(98508180, 6, 0) Queue Size: 6 
+[2019-06-19 17:54:11] [INFO   ] NODE-2: Working Task(4e2cde10, 2, 91), Queue Size: 6 
+[2019-06-19 17:54:12] [INFO   ] NODE-2: Working Task(4a1df07c, 4, 0), Queue Size: 6 
+[2019-06-19 17:54:12] [INFO   ] Producer1: Adding Task(80797722, 7, 0) Queue Size: 6 
+[2019-06-19 17:54:13] [INFO   ] NODE-1: Completed Task(826f80fe, 0, 183) Completed: 36 
+[2019-06-19 17:54:14] [INFO   ] NODE-3: Working Task(72ab4a57, 7, 100), Queue Size: 7 
+[2019-06-19 17:54:14] [INFO   ] NODE-1: Working Task(b1defe38, 6, 0), Queue Size: 8 
+[2019-06-19 17:54:14] [INFO   ] Producer1: Adding Task(4c7d175d, 8, 0) Queue Size: 9 
+[2019-06-19 17:54:15] [INFO   ] NODE-3: Working Task(6f254f5d, 5, 3), Queue Size: 9 
+[2019-06-19 17:54:15] [INFO   ] NODE-2: Working Task(49716468, 7, 100), Queue Size: 9 
+[2019-06-19 17:54:15] [INFO   ] NODE-1: Working Task(98508180, 6, 0), Queue Size: 9 
+[2019-06-19 17:54:16] [INFO   ] NODE-3: Working Task(4e2cde10, 1, 130), Queue Size: 9 
+[2019-06-19 17:54:16] [INFO   ] NODE-3: Completed Task(4e2cde10, 0, 203) Completed: 44 
+[2019-06-19 17:54:16] [INFO   ] NODE-2: Working Task(80797722, 7, 0), Queue Size: 8 
+[2019-06-19 17:54:16] [INFO   ] NODE-1: Working Task(348f5ec8, 2, 409), Queue Size: 8 
+[2019-06-19 17:54:16] [INFO   ] Producer1: Adding Task(5633668f, 8, 0) Queue Size: 9 
+[2019-06-19 17:54:17] [INFO   ] NODE-3: Working Task(72ab4a57, 6, 108), Queue Size: 9 
+[2019-06-19 17:54:17] [INFO   ] NODE-2: Working Task(4a1df07c, 3, 63), Queue Size: 8 
+[2019-06-19 17:54:17] [INFO   ] NODE-1: Working Task(b1defe38, 5, 38), Queue Size: 8 
+[2019-06-19 17:54:18] [INFO   ] NODE-2: Working Task(4c7d175d, 8, 0), Queue Size: 8 
+[2019-06-19 17:54:18] [INFO   ] NODE-1: Working Task(6f254f5d, 4, 15), Queue Size: 7 
+[2019-06-19 17:54:18] [INFO   ] Producer1: Adding Task(5eb5c0e3, 7, 0) Queue Size: 8 
+[2019-06-19 17:54:19] [INFO   ] NODE-1: Working Task(49716468, 6, 112), Queue Size: 8 
+[2019-06-19 17:54:20] [INFO   ] NODE-1: Working Task(98508180, 5, 93), Queue Size: 9 
+[2019-06-19 17:54:20] [INFO   ] Producer1: Queue full 10 
+[2019-06-19 17:54:20] [INFO   ] Producer1: Pausing for: 3 seconds 
+[2019-06-19 17:54:21] [INFO   ] NODE-2: Working Task(80797722, 6, 96), Queue Size: 9 
+[2019-06-19 17:54:21] [INFO   ] NODE-1: Working Task(348f5ec8, 1, 484), Queue Size: 8 
+[2019-06-19 17:54:21] [INFO   ] NODE-1: Completed Task(348f5ec8, 0, 556) Completed: 37 
+[2019-06-19 17:54:22] [INFO   ] NODE-1: Working Task(5633668f, 8, 0), Queue Size: 7 
+[2019-06-19 17:54:23] [INFO   ] NODE-1: Working Task(4a1df07c, 2, 84), Queue Size: 7 
+[2019-06-19 17:54:24] [INFO   ] NODE-1: Working Task(b1defe38, 4, 102), Queue Size: 7 
+[2019-06-19 17:54:25] [INFO   ] NODE-1: Working Task(6f254f5d, 3, 84), Queue Size: 8 
+[2019-06-19 17:54:25] [INFO   ] Producer1: Adding Task(c8c59775, 6, 0) Queue Size: 9 
+[2019-06-19 17:54:26] [INFO   ] NODE-3: Working Task(5eb5c0e3, 7, 0), Queue Size: 9 
+[2019-06-19 17:54:26] [INFO   ] NODE-1: Working Task(49716468, 5, 211), Queue Size: 9 
+[2019-06-19 17:54:27] [INFO   ] NODE-3: Working Task(4c7d175d, 7, 80), Queue Size: 9 
+[2019-06-19 17:54:27] [INFO   ] NODE-1: Working Task(98508180, 4, 140), Queue Size: 9 
+[2019-06-19 17:54:27] [INFO   ] Producer1: Queue full 10 
+[2019-06-19 17:54:27] [INFO   ] Producer1: Pausing for: 22 seconds 
+[2019-06-19 17:54:28] [INFO   ] NODE-3: Working Task(5633668f, 7, 86), Queue Size: 9 
+[2019-06-19 17:54:28] [INFO   ] NODE-1: Working Task(4a1df07c, 1, 99), Queue Size: 9 
+[2019-06-19 17:54:28] [INFO   ] NODE-1: Completed Task(4a1df07c, 0, 198) Completed: 38 
+[2019-06-19 17:54:29] [INFO   ] NODE-3: Working Task(b1defe38, 3, 161), Queue Size: 8 
+[2019-06-19 17:54:29] [INFO   ] NODE-1: Working Task(72ab4a57, 5, 176), Queue Size: 8 
+[2019-06-19 17:54:30] [INFO   ] NODE-3: Working Task(6f254f5d, 2, 94), Queue Size: 9 
+[2019-06-19 17:54:30] [INFO   ] NODE-1: Working Task(c8c59775, 6, 0), Queue Size: 8 
+[2019-06-19 17:54:31] [INFO   ] NODE-2: Working Task(5eb5c0e3, 6, 86), Queue Size: 8 
+[2019-06-19 17:54:31] [INFO   ] NODE-1: Working Task(49716468, 4, 305), Queue Size: 8 
+[2019-06-19 17:54:32] [INFO   ] NODE-3: Working Task(4c7d175d, 6, 99), Queue Size: 8 
+[2019-06-19 17:54:32] [INFO   ] NODE-1: Working Task(98508180, 3, 229), Queue Size: 8 
+[2019-06-19 17:54:33] [INFO   ] NODE-3: Working Task(5633668f, 6, 180), Queue Size: 9 
+[2019-06-19 17:54:33] [INFO   ] NODE-1: Working Task(b1defe38, 2, 200), Queue Size: 9 
+[2019-06-19 17:54:34] [INFO   ] NODE-2: Working Task(72ab4a57, 4, 235), Queue Size: 9 
+[2019-06-19 17:54:34] [INFO   ] NODE-3: Working Task(80797722, 5, 155), Queue Size: 9 
+[2019-06-19 17:54:34] [INFO   ] NODE-1: Working Task(c8c59775, 5, 36), Queue Size: 9 
+[2019-06-19 17:54:35] [INFO   ] NODE-2: Working Task(6f254f5d, 1, 191), Queue Size: 9 
+[2019-06-19 17:54:35] [INFO   ] NODE-3: Working Task(49716468, 3, 344), Queue Size: 8 
+[2019-06-19 17:54:35] [INFO   ] NODE-1: Working Task(4c7d175d, 5, 149), Queue Size: 8 
+[2019-06-19 17:54:36] [INFO   ] NODE-3: Working Task(98508180, 2, 245), Queue Size: 8 
+[2019-06-19 17:54:36] [INFO   ] NODE-1: Working Task(5eb5c0e3, 5, 133), Queue Size: 8 
+[2019-06-19 17:54:37] [INFO   ] NODE-3: Working Task(5633668f, 5, 257), Queue Size: 8 
+[2019-06-19 17:54:37] [INFO   ] NODE-1: Working Task(b1defe38, 1, 247), Queue Size: 7 
+[2019-06-19 17:54:37] [INFO   ] NODE-1: Completed Task(b1defe38, 0, 342) Completed: 39 
+[2019-06-19 17:54:38] [INFO   ] NODE-2: Completed Task(6f254f5d, 0, 253) Completed: 39 
+[2019-06-19 17:54:38] [INFO   ] NODE-1: Working Task(72ab4a57, 3, 299), Queue Size: 7 
+[2019-06-19 17:54:39] [INFO   ] NODE-2: Working Task(80797722, 4, 238), Queue Size: 7 
+[2019-06-19 17:54:39] [INFO   ] NODE-3: Working Task(c8c59775, 4, 86), Queue Size: 7 
+[2019-06-19 17:54:39] [INFO   ] NODE-1: Working Task(49716468, 2, 356), Queue Size: 7 
+[2019-06-19 17:54:40] [INFO   ] NODE-2: Working Task(4c7d175d, 4, 184), Queue Size: 7 
+[2019-06-19 17:54:40] [INFO   ] NODE-3: Working Task(98508180, 1, 256), Queue Size: 7 
+[2019-06-19 17:54:40] [INFO   ] NODE-1: Working Task(5eb5c0e3, 4, 213), Queue Size: 6 
+[2019-06-19 17:54:41] [INFO   ] NODE-2: Working Task(5633668f, 4, 288), Queue Size: 6 
+[2019-06-19 17:54:41] [INFO   ] NODE-1: Working Task(72ab4a57, 2, 384), Queue Size: 6 
+[2019-06-19 17:54:42] [INFO   ] NODE-2: Working Task(80797722, 3, 290), Queue Size: 6 
+[2019-06-19 17:54:42] [INFO   ] NODE-1: Working Task(c8c59775, 3, 92), Queue Size: 5 
+[2019-06-19 17:54:43] [INFO   ] NODE-3: Completed Task(98508180, 0, 323) Completed: 45 
+[2019-06-19 17:54:43] [INFO   ] NODE-1: Working Task(49716468, 1, 446), Queue Size: 6 
+[2019-06-19 17:54:43] [INFO   ] NODE-1: Completed Task(49716468, 0, 519) Completed: 40 
+[2019-06-19 17:54:44] [INFO   ] NODE-3: Working Task(4c7d175d, 3, 233), Queue Size: 5 
+[2019-06-19 17:54:44] [INFO   ] NODE-2: Working Task(5eb5c0e3, 3, 263), Queue Size: 4 
+[2019-06-19 17:54:44] [INFO   ] NODE-1: Working Task(5633668f, 3, 345), Queue Size: 4 
+[2019-06-19 17:54:45] [INFO   ] NODE-3: Working Task(72ab4a57, 1, 397), Queue Size: 4 
+[2019-06-19 17:54:45] [INFO   ] NODE-3: Completed Task(72ab4a57, 0, 459) Completed: 46 
+[2019-06-19 17:54:45] [INFO   ] NODE-1: Working Task(c8c59775, 2, 134), Queue Size: 3 
+[2019-06-19 17:54:46] [INFO   ] NODE-3: Working Task(80797722, 2, 316), Queue Size: 3 
+[2019-06-19 17:54:46] [INFO   ] NODE-1: Working Task(4c7d175d, 2, 309), Queue Size: 3 
+[2019-06-19 17:54:47] [INFO   ] NODE-3: Working Task(5633668f, 2, 407), Queue Size: 3 
+[2019-06-19 17:54:47] [INFO   ] NODE-1: Working Task(c8c59775, 1, 213), Queue Size: 3 
+[2019-06-19 17:54:47] [INFO   ] NODE-1: Completed Task(c8c59775, 0, 308) Completed: 41 
+[2019-06-19 17:54:48] [INFO   ] NODE-3: Working Task(80797722, 1, 362), Queue Size: 2 
+[2019-06-19 17:54:48] [INFO   ] NODE-3: Completed Task(80797722, 0, 442) Completed: 47 
+[2019-06-19 17:54:48] [INFO   ] NODE-1: Working Task(4c7d175d, 1, 407), Queue Size: 1 
+[2019-06-19 17:54:48] [INFO   ] NODE-1: Completed Task(4c7d175d, 0, 471) Completed: 42 
+[2019-06-19 17:54:49] [INFO   ] NODE-3: Working Task(5633668f, 1, 481), Queue Size: 1 
+[2019-06-19 17:54:49] [INFO   ] NODE-3: Completed Task(5633668f, 0, 492) Completed: 48 
+[2019-06-19 17:54:49] [INFO   ] NODE-1: Working Task(5eb5c0e3, 2, 326), Queue Size: 0 
+[2019-06-19 17:54:50] [INFO   ] NODE-2: Working Task(5eb5c0e3, 1, 403), Queue Size: 0 
+[2019-06-19 17:54:50] [INFO   ] NODE-2: Completed Task(5eb5c0e3, 0, 421) Completed: 40 
+[2019-06-19 17:54:50] [INFO   ] NODE-3: Queue Empty, Completed: 48, Queue Size: (0) 
+[2019-06-19 17:54:50] [INFO   ] NODE-1: Queue Empty, Completed: 42, Queue Size: (0) 
+[2019-06-19 17:54:51] [INFO   ] NODE-2: Queue Empty, Completed: 40, Queue Size: (0) 
+[2019-06-19 17:54:51] [INFO   ] NODE-3: Queue Empty, Completed: 48, Queue Size: (0) 
+[2019-06-19 17:54:51] [INFO   ] NODE-1: Queue Empty, Completed: 42, Queue Size: (0) 
+[2019-06-19 17:54:51] [INFO   ] Producer1: Adding Task(c2bc5d26, 5, 0) Queue Size: 0 
+[2019-06-19 17:54:52] [INFO   ] NODE-2: Working Task(c2bc5d26, 5, 0), Queue Size: 0 
+[2019-06-19 17:54:52] [INFO   ] NODE-3: Queue Empty, Completed: 48, Queue Size: (0) 
+[2019-06-19 17:54:52] [INFO   ] NODE-1: Queue Empty, Completed: 42, Queue Size: (0) 
+[2019-06-19 17:54:53] [INFO   ] NODE-3: Queue Empty, Completed: 48, Queue Size: (0) 
+[2019-06-19 17:54:53] [INFO   ] NODE-1: Queue Empty, Completed: 42, Queue Size: (0) 
+[2019-06-19 17:54:53] [INFO   ] Producer1: Adding Task(7fe6a37b, 3, 0) Queue Size: 0 
+[2019-06-19 17:54:54] [INFO   ] NODE-3: Working Task(7fe6a37b, 3, 0), Queue Size: 1 
+[2019-06-19 17:54:54] [INFO   ] NODE-1: Working Task(c2bc5d26, 4, 88), Queue Size: 0 
+[2019-06-19 17:54:55] [INFO   ] NODE-2: Working Task(c2bc5d26, 3, 172), Queue Size: 0 
+[2019-06-19 17:54:55] [INFO   ] NODE-1: Working Task(c2bc5d26, 2, 247), Queue Size: 0 
+[2019-06-19 17:54:55] [INFO   ] Producer1: Adding Task(5ec3f360, 6, 0) Queue Size: 1 
+[2019-06-19 17:54:56] [INFO   ] NODE-2: Working Task(c2bc5d26, 1, 259), Queue Size: 1 
+[2019-06-19 17:54:56] [INFO   ] NODE-2: Completed Task(c2bc5d26, 0, 341) Completed: 41 
+[2019-06-19 17:54:56] [INFO   ] NODE-1: Working Task(5ec3f360, 6, 0), Queue Size: 0 
+[2019-06-19 17:54:57] [INFO   ] NODE-2: Working Task(5ec3f360, 5, 94), Queue Size: 0 
+[2019-06-19 17:54:57] [INFO   ] NODE-1: Working Task(5ec3f360, 4, 166), Queue Size: 0 
+[2019-06-19 17:54:57] [INFO   ] Producer1: Adding Task(bd6a3c77, 4, 0) Queue Size: 0 
+[2019-06-19 17:54:58] [INFO   ] NODE-2: Working Task(bd6a3c77, 4, 0), Queue Size: 0 
+[2019-06-19 17:54:59] [INFO   ] Producer1: Adding Task(26dc007f, 4, 0) Queue Size: 1 
+[2019-06-19 17:55:00] [INFO   ] NODE-3: Working Task(7fe6a37b, 2, 19), Queue Size: 2 
+[2019-06-19 17:55:01] [INFO   ] NODE-2: Working Task(26dc007f, 4, 0), Queue Size: 2 
+[2019-06-19 17:55:01] [INFO   ] NODE-3: Working Task(bd6a3c77, 3, 3), Queue Size: 1 
+[2019-06-19 17:55:01] [INFO   ] Producer1: Adding Task(c548d64c, 10, 0) Queue Size: 2 
+[2019-06-19 17:55:02] [INFO   ] NODE-2: Working Task(7fe6a37b, 1, 58), Queue Size: 2 
+[2019-06-19 17:55:02] [INFO   ] NODE-2: Completed Task(7fe6a37b, 0, 61) Completed: 42 
+[2019-06-19 17:55:03] [INFO   ] NODE-2: Working Task(26dc007f, 3, 63), Queue Size: 1 
+[2019-06-19 17:55:03] [INFO   ] Producer1: Adding Task(f1edca16, 6, 0) Queue Size: 2 
+[2019-06-19 17:55:04] [INFO   ] NODE-2: Working Task(c548d64c, 10, 0), Queue Size: 2 
+[2019-06-19 17:55:05] [INFO   ] NODE-2: Working Task(26dc007f, 2, 138), Queue Size: 3 
+[2019-06-19 17:55:05] [INFO   ] NODE-1: Working Task(f1edca16, 6, 0), Queue Size: 3 
+[2019-06-19 17:55:05] [INFO   ] Producer1: Adding Task(58d72ef4, 6, 0) Queue Size: 4 
+[2019-06-19 17:55:06] [INFO   ] NODE-2: Working Task(c548d64c, 9, 63), Queue Size: 4 
+[2019-06-19 17:55:06] [INFO   ] NODE-1: Working Task(5ec3f360, 3, 203), Queue Size: 3 
+[2019-06-19 17:55:07] [INFO   ] NODE-1: Working Task(26dc007f, 1, 217), Queue Size: 3 
+[2019-06-19 17:55:07] [INFO   ] NODE-1: Completed Task(26dc007f, 0, 235) Completed: 43 
+[2019-06-19 17:55:07] [INFO   ] Producer1: Adding Task(c4e64777, 4, 0) Queue Size: 3 
+[2019-06-19 17:55:08] [INFO   ] NODE-1: Working Task(f1edca16, 5, 48), Queue Size: 3 
+[2019-06-19 17:55:09] [INFO   ] Producer1: Adding Task(66e5e8cf, 9, 0) Queue Size: 4 
+[2019-06-19 17:55:10] [INFO   ] NODE-1: Working Task(58d72ef4, 6, 0), Queue Size: 5 
+[2019-06-19 17:55:11] [INFO   ] NODE-3: Working Task(5ec3f360, 2, 240), Queue Size: 5 
+[2019-06-19 17:55:11] [INFO   ] NODE-1: Working Task(c4e64777, 4, 0), Queue Size: 5 
+[2019-06-19 17:55:11] [INFO   ] Producer1: Adding Task(96e1b9fc, 5, 0) Queue Size: 6 
+[2019-06-19 17:55:12] [INFO   ] NODE-3: Working Task(f1edca16, 4, 100), Queue Size: 6 
+[2019-06-19 17:55:12] [INFO   ] NODE-1: Working Task(66e5e8cf, 9, 0), Queue Size: 6 
+[2019-06-19 17:55:13] [INFO   ] NODE-3: Working Task(bd6a3c77, 2, 33), Queue Size: 6 
+[2019-06-19 17:55:13] [INFO   ] NODE-1: Working Task(58d72ef4, 5, 99), Queue Size: 7 
+[2019-06-19 17:55:13] [INFO   ] Producer1: Adding Task(3edbbfec, 4, 0) Queue Size: 8 
+[2019-06-19 17:55:14] [INFO   ] NODE-3: Working Task(5ec3f360, 1, 261), Queue Size: 8 
+[2019-06-19 17:55:14] [INFO   ] NODE-3: Completed Task(5ec3f360, 0, 346) Completed: 49 
+[2019-06-19 17:55:14] [INFO   ] NODE-2: Working Task(c4e64777, 3, 99), Queue Size: 7 
+[2019-06-19 17:55:14] [INFO   ] NODE-1: Working Task(96e1b9fc, 5, 0), Queue Size: 7 
+[2019-06-19 17:55:15] [INFO   ] NODE-3: Working Task(f1edca16, 3, 178), Queue Size: 7 
+[2019-06-19 17:55:15] [INFO   ] NODE-2: Working Task(66e5e8cf, 8, 84), Queue Size: 7 
+[2019-06-19 17:55:15] [INFO   ] NODE-1: Working Task(bd6a3c77, 1, 100), Queue Size: 7 
+[2019-06-19 17:55:15] [INFO   ] NODE-1: Completed Task(bd6a3c77, 0, 101) Completed: 44 
+[2019-06-19 17:55:15] [INFO   ] Producer1: Adding Task(48d2677b, 3, 0) Queue Size: 7 
+[2019-06-19 17:55:16] [INFO   ] NODE-3: Working Task(58d72ef4, 4, 101), Queue Size: 6 
+[2019-06-19 17:55:16] [INFO   ] NODE-2: Working Task(c548d64c, 8, 106), Queue Size: 7 
+[2019-06-19 17:55:16] [INFO   ] NODE-1: Working Task(3edbbfec, 4, 0), Queue Size: 7 
+[2019-06-19 17:55:17] [INFO   ] NODE-3: Working Task(96e1b9fc, 4, 43), Queue Size: 6 
+[2019-06-19 17:55:17] [INFO   ] NODE-2: Working Task(c4e64777, 2, 141), Queue Size: 7 
+[2019-06-19 17:55:17] [INFO   ] NODE-1: Working Task(f1edca16, 2, 188), Queue Size: 7 
+[2019-06-19 17:55:17] [INFO   ] Producer1: Adding Task(6c67061d, 3, 0) Queue Size: 8 
+[2019-06-19 17:55:18] [INFO   ] NODE-2: Working Task(48d2677b, 3, 0), Queue Size: 7 
+[2019-06-19 17:55:18] [INFO   ] NODE-3: Working Task(66e5e8cf, 7, 143), Queue Size: 8 
+[2019-06-19 17:55:18] [INFO   ] NODE-1: Working Task(c548d64c, 7, 139), Queue Size: 8 
+[2019-06-19 17:55:19] [INFO   ] NODE-2: Working Task(58d72ef4, 3, 145), Queue Size: 8 
+[2019-06-19 17:55:19] [INFO   ] NODE-3: Working Task(3edbbfec, 3, 6), Queue Size: 7 
+[2019-06-19 17:55:19] [INFO   ] NODE-1: Working Task(96e1b9fc, 3, 71), Queue Size: 8 
+[2019-06-19 17:55:19] [INFO   ] Producer1: Adding Task(7f8f35ca, 1, 0) Queue Size: 9 
+[2019-06-19 17:55:20] [INFO   ] NODE-2: Working Task(c4e64777, 1, 235), Queue Size: 9 
+[2019-06-19 17:55:20] [INFO   ] NODE-3: Working Task(f1edca16, 1, 257), Queue Size: 8 
+[2019-06-19 17:55:20] [INFO   ] NODE-3: Completed Task(f1edca16, 0, 289) Completed: 50 
+[2019-06-19 17:55:20] [INFO   ] NODE-2: Completed Task(c4e64777, 0, 302) Completed: 43 
+[2019-06-19 17:55:20] [INFO   ] NODE-1: Working Task(6c67061d, 3, 0), Queue Size: 7 
+[2019-06-19 17:55:21] [INFO   ] NODE-3: Working Task(48d2677b, 2, 83), Queue Size: 7 
+[2019-06-19 17:55:21] [INFO   ] NODE-2: Working Task(66e5e8cf, 6, 230), Queue Size: 7 
+[2019-06-19 17:55:21] [INFO   ] NODE-1: Working Task(c548d64c, 6, 189), Queue Size: 7 
+[2019-06-19 17:55:21] [INFO   ] Producer1: Adding Task(a43188c9, 5, 0) Queue Size: 8 
+[2019-06-19 17:55:22] [INFO   ] NODE-3: Working Task(58d72ef4, 2, 235), Queue Size: 8 
+[2019-06-19 17:55:22] [INFO   ] NODE-2: Working Task(3edbbfec, 2, 95), Queue Size: 7 
+[2019-06-19 17:55:22] [INFO   ] NODE-1: Working Task(96e1b9fc, 2, 147), Queue Size: 8 
+[2019-06-19 17:55:23] [INFO   ] NODE-3: Working Task(7f8f35ca, 1, 0), Queue Size: 8 
+[2019-06-19 17:55:23] [INFO   ] NODE-2: Working Task(6c67061d, 2, 63), Queue Size: 7 
+[2019-06-19 17:55:23] [INFO   ] NODE-3: Completed Task(7f8f35ca, 0, 24) Completed: 51 
+[2019-06-19 17:55:23] [INFO   ] NODE-1: Working Task(48d2677b, 1, 92), Queue Size: 7 
+[2019-06-19 17:55:23] [INFO   ] NODE-1: Completed Task(48d2677b, 0, 129) Completed: 45 
+[2019-06-19 17:55:23] [INFO   ] Producer1: Adding Task(0d9d117c, 1, 0) Queue Size: 7 
+[2019-06-19 17:55:24] [INFO   ] NODE-2: Working Task(66e5e8cf, 5, 235), Queue Size: 7 
+[2019-06-19 17:55:24] [INFO   ] NODE-3: Working Task(c548d64c, 5, 228), Queue Size: 6 
+[2019-06-19 17:55:24] [INFO   ] NODE-1: Working Task(a43188c9, 5, 0), Queue Size: 7 
+[2019-06-19 17:55:25] [INFO   ] NODE-3: Working Task(58d72ef4, 1, 289), Queue Size: 7 
+[2019-06-19 17:55:25] [INFO   ] NODE-2: Working Task(3edbbfec, 1, 99), Queue Size: 6 
+[2019-06-19 17:55:25] [INFO   ] NODE-3: Completed Task(58d72ef4, 0, 327) Completed: 52 
+[2019-06-19 17:55:25] [INFO   ] NODE-2: Completed Task(3edbbfec, 0, 169) Completed: 44 
+[2019-06-19 17:55:25] [INFO   ] NODE-1: Working Task(96e1b9fc, 1, 193), Queue Size: 5 
+[2019-06-19 17:55:25] [INFO   ] NODE-1: Completed Task(96e1b9fc, 0, 194) Completed: 46 
+[2019-06-19 17:55:25] [INFO   ] Producer1: Adding Task(5f3cc743, 8, 0) Queue Size: 5 
+[2019-06-19 17:55:26] [INFO   ] NODE-3: Working Task(6c67061d, 1, 99), Queue Size: 5 
+[2019-06-19 17:55:26] [INFO   ] NODE-2: Working Task(0d9d117c, 1, 0), Queue Size: 4 
+[2019-06-19 17:55:26] [INFO   ] NODE-2: Completed Task(0d9d117c, 0, 96) Completed: 45 
+[2019-06-19 17:55:26] [INFO   ] NODE-3: Completed Task(6c67061d, 0, 106) Completed: 53 
+[2019-06-19 17:55:26] [INFO   ] NODE-1: Working Task(c548d64c, 4, 327), Queue Size: 3 
+[2019-06-19 17:55:27] [INFO   ] NODE-3: Working Task(66e5e8cf, 4, 310), Queue Size: 3 
+[2019-06-19 17:55:27] [INFO   ] NODE-2: Working Task(a43188c9, 4, 15), Queue Size: 2 
+[2019-06-19 17:55:27] [INFO   ] NODE-1: Working Task(5f3cc743, 8, 0), Queue Size: 2 
+[2019-06-19 17:55:27] [INFO   ] Producer1: Adding Task(6f271888, 4, 0) Queue Size: 2 
+[2019-06-19 17:55:28] [INFO   ] NODE-3: Working Task(c548d64c, 3, 390), Queue Size: 2 
+[2019-06-19 17:55:29] [INFO   ] NODE-3: Working Task(66e5e8cf, 3, 407), Queue Size: 3 
+[2019-06-19 17:55:29] [INFO   ] NODE-1: Working Task(6f271888, 4, 0), Queue Size: 3 
+[2019-06-19 17:55:29] [INFO   ] Producer1: Adding Task(87dd90ce, 4, 0) Queue Size: 3 
+[2019-06-19 17:55:30] [INFO   ] NODE-3: Working Task(c548d64c, 2, 400), Queue Size: 3 
+[2019-06-19 17:55:31] [INFO   ] NODE-3: Working Task(5f3cc743, 7, 83), Queue Size: 3 
+[2019-06-19 17:55:31] [INFO   ] Producer1: Adding Task(7e0a77c5, 4, 0) Queue Size: 5 
+[2019-06-19 17:55:32] [INFO   ] NODE-3: Working Task(66e5e8cf, 2, 408), Queue Size: 5 
+[2019-06-19 17:55:32] [INFO   ] NODE-1: Working Task(87dd90ce, 4, 0), Queue Size: 5 
+[2019-06-19 17:55:33] [INFO   ] NODE-3: Working Task(c548d64c, 1, 413), Queue Size: 5 
+[2019-06-19 17:55:33] [INFO   ] NODE-1: Working Task(5f3cc743, 6, 171), Queue Size: 4 
+[2019-06-19 17:55:33] [INFO   ] Producer1: Adding Task(004560c9, 9, 0) Queue Size: 5 
+[2019-06-19 17:55:34] [INFO   ] NODE-1: Working Task(6f271888, 3, 59), Queue Size: 5 
+[2019-06-19 17:55:35] [INFO   ] NODE-1: Working Task(7e0a77c5, 4, 0), Queue Size: 5 
+[2019-06-19 17:55:35] [INFO   ] Producer1: Adding Task(740f80f8, 9, 0) Queue Size: 5 
+[2019-06-19 17:55:37] [INFO   ] NODE-2: Working Task(66e5e8cf, 1, 505), Queue Size: 6 
+[2019-06-19 17:55:37] [INFO   ] NODE-2: Completed Task(66e5e8cf, 0, 586) Completed: 46 
+[2019-06-19 17:55:37] [INFO   ] Producer1: Adding Task(fded8151, 7, 0) Queue Size: 6 
+[2019-06-19 17:55:38] [INFO   ] NODE-2: Working Task(87dd90ce, 3, 90), Queue Size: 6 
+[2019-06-19 17:55:39] [INFO   ] NODE-2: Working Task(5f3cc743, 5, 268), Queue Size: 6 
+[2019-06-19 17:55:39] [INFO   ] Producer1: Adding Task(24901514, 10, 0) Queue Size: 6 
+[2019-06-19 17:55:41] [INFO   ] NODE-3: Completed Task(c548d64c, 0, 497) Completed: 54 
+[2019-06-19 17:55:41] [INFO   ] Producer1: Adding Task(8581d78a, 3, 0) Queue Size: 8 
+[2019-06-19 17:55:42] [INFO   ] NODE-3: Working Task(004560c9, 9, 0), Queue Size: 9 
+[2019-06-19 17:55:42] [INFO   ] NODE-1: Working Task(6f271888, 2, 108), Queue Size: 8 
+[2019-06-19 17:55:43] [INFO   ] NODE-2: Working Task(740f80f8, 9, 0), Queue Size: 8 
+[2019-06-19 17:55:43] [INFO   ] NODE-1: Working Task(a43188c9, 3, 108), Queue Size: 8 
+[2019-06-19 17:55:43] [INFO   ] Producer1: Adding Task(69092bc0, 8, 0) Queue Size: 9 
+[2019-06-19 17:55:44] [INFO   ] NODE-2: Working Task(fded8151, 7, 0), Queue Size: 9 
+[2019-06-19 17:55:44] [INFO   ] NODE-1: Working Task(87dd90ce, 2, 162), Queue Size: 9 
+[2019-06-19 17:55:45] [INFO   ] NODE-2: Working Task(24901514, 10, 0), Queue Size: 9 
+[2019-06-19 17:55:45] [INFO   ] NODE-1: Working Task(7e0a77c5, 3, 7), Queue Size: 9 
+[2019-06-19 17:55:45] [INFO   ] Producer1: Queue full 10 
+[2019-06-19 17:55:45] [INFO   ] Producer1: Pausing for: 20 seconds 
+[2019-06-19 17:55:46] [INFO   ] NODE-2: Working Task(8581d78a, 3, 0), Queue Size: 9 
+[2019-06-19 17:55:46] [INFO   ] NODE-1: Working Task(5f3cc743, 4, 321), Queue Size: 9 
+[2019-06-19 17:55:47] [INFO   ] NODE-2: Working Task(6f271888, 1, 178), Queue Size: 8 
+[2019-06-19 17:55:47] [INFO   ] NODE-2: Completed Task(6f271888, 0, 201) Completed: 47 
+[2019-06-19 17:55:48] [INFO   ] NODE-2: Working Task(740f80f8, 8, 93), Queue Size: 7 
+[2019-06-19 17:55:49] [INFO   ] NODE-2: Working Task(a43188c9, 2, 183), Queue Size: 7 
+[2019-06-19 17:55:50] [INFO   ] NODE-2: Working Task(69092bc0, 8, 0), Queue Size: 8 
+[2019-06-19 17:55:51] [INFO   ] NODE-3: Working Task(fded8151, 6, 37), Queue Size: 8 
+[2019-06-19 17:55:51] [INFO   ] NODE-2: Working Task(87dd90ce, 1, 255), Queue Size: 8 
+[2019-06-19 17:55:51] [INFO   ] NODE-2: Completed Task(87dd90ce, 0, 291) Completed: 48 
+[2019-06-19 17:55:52] [INFO   ] NODE-3: Working Task(24901514, 9, 85), Queue Size: 7 
+[2019-06-19 17:55:52] [INFO   ] NODE-2: Working Task(7e0a77c5, 2, 83), Queue Size: 7 
+[2019-06-19 17:55:53] [INFO   ] NODE-3: Working Task(8581d78a, 2, 91), Queue Size: 6 
+[2019-06-19 17:55:54] [INFO   ] NODE-3: Working Task(740f80f8, 7, 181), Queue Size: 7 
+[2019-06-19 17:55:54] [INFO   ] NODE-1: Working Task(a43188c9, 1, 228), Queue Size: 7 
+[2019-06-19 17:55:54] [INFO   ] NODE-1: Completed Task(a43188c9, 0, 252) Completed: 47 
+[2019-06-19 17:55:55] [INFO   ] NODE-3: Working Task(004560c9, 8, 96), Queue Size: 6 
+[2019-06-19 17:55:55] [INFO   ] NODE-1: Working Task(69092bc0, 7, 35), Queue Size: 6 
+[2019-06-19 17:55:56] [INFO   ] NODE-3: Working Task(fded8151, 5, 82), Queue Size: 5 
+[2019-06-19 17:55:57] [INFO   ] NODE-3: Working Task(24901514, 8, 116), Queue Size: 5 
+[2019-06-19 17:55:58] [INFO   ] NODE-1: Working Task(8581d78a, 1, 116), Queue Size: 6 
+[2019-06-19 17:55:58] [INFO   ] NODE-1: Completed Task(8581d78a, 0, 121) Completed: 48 
+[2019-06-19 17:55:59] [INFO   ] NODE-2: Working Task(5f3cc743, 3, 417), Queue Size: 5 
+[2019-06-19 17:55:59] [INFO   ] NODE-1: Working Task(740f80f8, 6, 260), Queue Size: 6 
+[2019-06-19 17:56:00] [INFO   ] NODE-2: Working Task(004560c9, 7, 125), Queue Size: 5 
+[2019-06-19 17:56:00] [INFO   ] NODE-3: Working Task(fded8151, 4, 180), Queue Size: 5 
+[2019-06-19 17:56:01] [INFO   ] NODE-2: Working Task(69092bc0, 6, 134), Queue Size: 5 
+[2019-06-19 17:56:01] [INFO   ] NODE-3: Working Task(7e0a77c5, 1, 177), Queue Size: 5 
+[2019-06-19 17:56:01] [INFO   ] NODE-3: Completed Task(7e0a77c5, 0, 206) Completed: 55 
+[2019-06-19 17:56:02] [INFO   ] NODE-2: Working Task(5f3cc743, 2, 428), Queue Size: 4 
+[2019-06-19 17:56:02] [INFO   ] NODE-3: Working Task(24901514, 7, 211), Queue Size: 3 
+[2019-06-19 17:56:03] [INFO   ] NODE-3: Working Task(004560c9, 6, 147), Queue Size: 3 
+[2019-06-19 17:56:04] [INFO   ] NODE-3: Working Task(fded8151, 3, 244), Queue Size: 3 
+[2019-06-19 17:56:05] [INFO   ] NODE-3: Working Task(69092bc0, 5, 183), Queue Size: 3 
+[2019-06-19 17:56:07] [INFO   ] Producer1: Adding Task(0b66b169, 2, 0) Queue Size: 3 
+[2019-06-19 17:56:09] [INFO   ] NODE-2: Working Task(24901514, 6, 229), Queue Size: 6 
+[2019-06-19 17:56:09] [INFO   ] NODE-3: Working Task(004560c9, 5, 205), Queue Size: 6 
+[2019-06-19 17:56:09] [INFO   ] NODE-1: Working Task(fded8151, 2, 301), Queue Size: 6 
+[2019-06-19 17:56:09] [INFO   ] Producer1: Adding Task(cd9ac112, 1, 0) Queue Size: 7 
+[2019-06-19 17:56:10] [INFO   ] NODE-2: Working Task(0b66b169, 2, 0), Queue Size: 7 
+[2019-06-19 17:56:10] [INFO   ] NODE-3: Working Task(5f3cc743, 1, 520), Queue Size: 7 
+[2019-06-19 17:56:10] [INFO   ] NODE-3: Completed Task(5f3cc743, 0, 567) Completed: 56 
+[2019-06-19 17:56:10] [INFO   ] NODE-1: Working Task(69092bc0, 4, 244), Queue Size: 6 
+[2019-06-19 17:56:11] [INFO   ] NODE-2: Working Task(740f80f8, 5, 336), Queue Size: 6 
+[2019-06-19 17:56:11] [INFO   ] NODE-3: Working Task(24901514, 5, 301), Queue Size: 6 
+[2019-06-19 17:56:11] [INFO   ] NODE-1: Working Task(004560c9, 4, 278), Queue Size: 6 
+[2019-06-19 17:56:11] [INFO   ] Producer1: Adding Task(b05ac786, 9, 0) Queue Size: 7 
+[2019-06-19 17:56:12] [INFO   ] NODE-2: Working Task(fded8151, 1, 378), Queue Size: 7 
+[2019-06-19 17:56:12] [INFO   ] NODE-2: Completed Task(fded8151, 0, 397) Completed: 49 
+[2019-06-19 17:56:12] [INFO   ] NODE-3: Working Task(cd9ac112, 1, 0), Queue Size: 6 
+[2019-06-19 17:56:12] [INFO   ] NODE-3: Completed Task(cd9ac112, 0, 92) Completed: 57 
+[2019-06-19 17:56:12] [INFO   ] NODE-1: Working Task(0b66b169, 1, 91), Queue Size: 5 
+[2019-06-19 17:56:12] [INFO   ] NODE-1: Completed Task(0b66b169, 0, 139) Completed: 49 
+[2019-06-19 17:56:13] [INFO   ] NODE-2: Working Task(69092bc0, 3, 316), Queue Size: 4 
+[2019-06-19 17:56:13] [INFO   ] NODE-3: Working Task(740f80f8, 4, 367), Queue Size: 4 
+[2019-06-19 17:56:13] [INFO   ] NODE-1: Working Task(24901514, 4, 313), Queue Size: 4 
+[2019-06-19 17:56:13] [INFO   ] Producer1: Adding Task(1490d963, 9, 0) Queue Size: 5 
+[2019-06-19 17:56:14] [INFO   ] NODE-2: Working Task(004560c9, 3, 301), Queue Size: 5 
+[2019-06-19 17:56:14] [INFO   ] NODE-3: Working Task(b05ac786, 9, 0), Queue Size: 4 
+[2019-06-19 17:56:14] [INFO   ] NODE-1: Working Task(69092bc0, 2, 345), Queue Size: 4 
+[2019-06-19 17:56:15] [INFO   ] NODE-3: Working Task(740f80f8, 3, 455), Queue Size: 4 
+[2019-06-19 17:56:15] [INFO   ] NODE-1: Working Task(24901514, 3, 353), Queue Size: 3 
+[2019-06-19 17:56:16] [INFO   ] Producer1: Adding Task(5b525e1c, 1, 0) Queue Size: 4 
+[2019-06-19 17:56:16] [INFO   ] NODE-1: Working Task(1490d963, 9, 0), Queue Size: 4 
+[2019-06-19 17:56:17] [INFO   ] NODE-1: Working Task(b05ac786, 8, 14), Queue Size: 5 
+[2019-06-19 17:56:18] [INFO   ] Producer1: Adding Task(841b18bf, 5, 0) Queue Size: 6 
+[2019-06-19 17:56:18] [INFO   ] NODE-2: Working Task(69092bc0, 1, 400), Queue Size: 6 
+[2019-06-19 17:56:18] [INFO   ] NODE-2: Completed Task(69092bc0, 0, 453) Completed: 50 
+[2019-06-19 17:56:18] [INFO   ] NODE-1: Working Task(24901514, 2, 394), Queue Size: 5 
+[2019-06-19 17:56:19] [INFO   ] NODE-2: Working Task(5b525e1c, 1, 0), Queue Size: 4 
+[2019-06-19 17:56:19] [INFO   ] NODE-2: Completed Task(5b525e1c, 0, 55) Completed: 51 
+[2019-06-19 17:56:20] [INFO   ] Producer1: Adding Task(43b2db97, 4, 0) Queue Size: 4 
+[2019-06-19 17:56:20] [INFO   ] NODE-2: Working Task(1490d963, 8, 12), Queue Size: 4 
+[2019-06-19 17:56:21] [INFO   ] NODE-2: Working Task(004560c9, 2, 374), Queue Size: 5 
+[2019-06-19 17:56:21] [INFO   ] NODE-1: Working Task(b05ac786, 7, 88), Queue Size: 5 
+[2019-06-19 17:56:22] [INFO   ] Producer1: Adding Task(4bc2c5b0, 1, 0) Queue Size: 5 
+[2019-06-19 17:56:22] [INFO   ] NODE-2: Working Task(841b18bf, 5, 0), Queue Size: 5 
+[2019-06-19 17:56:23] [INFO   ] NODE-2: Working Task(43b2db97, 4, 0), Queue Size: 6 
+[2019-06-19 17:56:24] [INFO   ] Producer1: Adding Task(1109830c, 8, 0) Queue Size: 8 
+[2019-06-19 17:56:24] [INFO   ] NODE-3: Working Task(1490d963, 7, 65), Queue Size: 8 
+[2019-06-19 17:56:24] [INFO   ] NODE-2: Working Task(24901514, 1, 395), Queue Size: 7 
+[2019-06-19 17:56:24] [INFO   ] NODE-2: Completed Task(24901514, 0, 429) Completed: 52 
+[2019-06-19 17:56:24] [INFO   ] NODE-1: Working Task(004560c9, 1, 402), Queue Size: 6 
+[2019-06-19 17:56:24] [INFO   ] NODE-1: Completed Task(004560c9, 0, 451) Completed: 50 
+[2019-06-19 17:56:25] [INFO   ] NODE-2: Working Task(4bc2c5b0, 1, 0), Queue Size: 5 
+[2019-06-19 17:56:25] [INFO   ] NODE-1: Working Task(841b18bf, 4, 26), Queue Size: 4 
+[2019-06-19 17:56:26] [INFO   ] Producer1: Adding Task(5d76ec2f, 9, 0) Queue Size: 5 
+[2019-06-19 17:56:26] [INFO   ] NODE-1: Working Task(740f80f8, 2, 533), Queue Size: 5 
+[2019-06-19 17:56:27] [INFO   ] NODE-1: Working Task(43b2db97, 3, 50), Queue Size: 5 
+[2019-06-19 17:56:28] [INFO   ] Producer1: Adding Task(02d1c316, 2, 0) Queue Size: 6 
+[2019-06-19 17:56:28] [INFO   ] NODE-1: Working Task(b05ac786, 6, 167), Queue Size: 6 
+[2019-06-19 17:56:29] [INFO   ] NODE-1: Working Task(1109830c, 8, 0), Queue Size: 6 
+[2019-06-19 17:56:30] [INFO   ] Producer1: Adding Task(646dd756, 2, 0) Queue Size: 7 
+[2019-06-19 17:56:30] [INFO   ] NODE-1: Working Task(841b18bf, 3, 87), Queue Size: 7 
+[2019-06-19 17:56:31] [INFO   ] NODE-1: Working Task(5d76ec2f, 9, 0), Queue Size: 7 
+[2019-06-19 17:56:32] [INFO   ] Producer1: Adding Task(1e68296b, 8, 0) Queue Size: 8 
+[2019-06-19 17:56:32] [INFO   ] NODE-1: Working Task(740f80f8, 1, 562), Queue Size: 9 
+[2019-06-19 17:56:33] [INFO   ] NODE-3: Working Task(43b2db97, 2, 97), Queue Size: 8 
+[2019-06-19 17:56:34] [INFO   ] Producer1: Adding Task(4232c6bb, 10, 0) Queue Size: 9 
+[2019-06-19 17:56:34] [INFO   ] NODE-3: Working Task(02d1c316, 2, 0), Queue Size: 9 
+[2019-06-19 17:56:34] [INFO   ] NODE-2: Completed Task(4bc2c5b0, 0, 17) Completed: 53 
+[2019-06-19 17:56:35] [INFO   ] NODE-3: Working Task(b05ac786, 5, 243), Queue Size: 9 
+[2019-06-19 17:56:35] [INFO   ] NODE-2: Working Task(1109830c, 7, 33), Queue Size: 9 
+[2019-06-19 17:56:36] [INFO   ] Producer1: Queue full 10 
+[2019-06-19 17:56:36] [INFO   ] Producer1: Pausing for: 28 seconds 
+[2019-06-19 17:56:36] [INFO   ] NODE-3: Working Task(646dd756, 2, 0), Queue Size: 9 
+[2019-06-19 17:56:36] [INFO   ] NODE-2: Working Task(841b18bf, 2, 120), Queue Size: 8 
+[2019-06-19 17:56:37] [INFO   ] NODE-3: Working Task(5d76ec2f, 8, 9), Queue Size: 9 
+[2019-06-19 17:56:37] [INFO   ] NODE-2: Working Task(1e68296b, 8, 0), Queue Size: 8 
+[2019-06-19 17:56:38] [INFO   ] NODE-3: Working Task(43b2db97, 1, 177), Queue Size: 8 
+[2019-06-19 17:56:38] [INFO   ] NODE-2: Working Task(1490d963, 6, 162), Queue Size: 9 
+[2019-06-19 17:56:38] [INFO   ] NODE-3: Completed Task(43b2db97, 0, 217) Completed: 58 
+[2019-06-19 17:56:38] [INFO   ] NODE-1: Completed Task(740f80f8, 0, 577) Completed: 51 
+[2019-06-19 17:56:39] [INFO   ] NODE-3: Working Task(4232c6bb, 10, 0), Queue Size: 7 
+[2019-06-19 17:56:39] [INFO   ] NODE-1: Working Task(02d1c316, 1, 68), Queue Size: 7 
+[2019-06-19 17:56:39] [INFO   ] NODE-1: Completed Task(02d1c316, 0, 160) Completed: 52 
+[2019-06-19 17:56:40] [INFO   ] NODE-3: Working Task(b05ac786, 4, 248), Queue Size: 6 
+[2019-06-19 17:56:40] [INFO   ] NODE-1: Working Task(1109830c, 6, 93), Queue Size: 6 
+[2019-06-19 17:56:41] [INFO   ] NODE-3: Working Task(646dd756, 1, 77), Queue Size: 6 
+[2019-06-19 17:56:41] [INFO   ] NODE-3: Completed Task(646dd756, 0, 147) Completed: 59 
+[2019-06-19 17:56:41] [INFO   ] NODE-1: Working Task(841b18bf, 1, 125), Queue Size: 5 
+[2019-06-19 17:56:41] [INFO   ] NODE-1: Completed Task(841b18bf, 0, 179) Completed: 53 
+[2019-06-19 17:56:42] [INFO   ] NODE-3: Working Task(1e68296b, 7, 53), Queue Size: 4 
+[2019-06-19 17:56:42] [INFO   ] NODE-1: Working Task(5d76ec2f, 7, 99), Queue Size: 4 
+[2019-06-19 17:56:43] [INFO   ] NODE-3: Working Task(4232c6bb, 9, 65), Queue Size: 5 
+[2019-06-19 17:56:43] [INFO   ] NODE-1: Working Task(b05ac786, 3, 249), Queue Size: 5 
+[2019-06-19 17:56:44] [INFO   ] NODE-2: Working Task(1109830c, 5, 110), Queue Size: 5 
+[2019-06-19 17:56:44] [INFO   ] NODE-3: Working Task(1e68296b, 6, 107), Queue Size: 5 
+[2019-06-19 17:56:44] [INFO   ] NODE-1: Working Task(5d76ec2f, 6, 152), Queue Size: 5 
+[2019-06-19 17:56:45] [INFO   ] NODE-2: Working Task(1490d963, 5, 209), Queue Size: 4 
+[2019-06-19 17:56:45] [INFO   ] NODE-3: Working Task(4232c6bb, 8, 161), Queue Size: 4 
+[2019-06-19 17:56:46] [INFO   ] NODE-2: Working Task(b05ac786, 2, 272), Queue Size: 3 
+[2019-06-19 17:56:47] [INFO   ] NODE-2: Working Task(1109830c, 4, 164), Queue Size: 3 
+[2019-06-19 17:56:48] [INFO   ] NODE-2: Working Task(1e68296b, 5, 194), Queue Size: 3 
+[2019-06-19 17:56:49] [INFO   ] NODE-2: Working Task(1490d963, 4, 250), Queue Size: 3 
+[2019-06-19 17:56:50] [INFO   ] NODE-2: Working Task(b05ac786, 1, 347), Queue Size: 5 
+[2019-06-19 17:56:50] [INFO   ] NODE-3: Working Task(1109830c, 3, 257), Queue Size: 4 
+[2019-06-19 17:56:50] [INFO   ] NODE-2: Completed Task(b05ac786, 0, 375) Completed: 54 
+[2019-06-19 17:56:50] [INFO   ] NODE-1: Working Task(1e68296b, 4, 196), Queue Size: 4 
+[2019-06-19 17:56:51] [INFO   ] NODE-3: Working Task(4232c6bb, 7, 211), Queue Size: 2 
+[2019-06-19 17:56:51] [INFO   ] NODE-2: Working Task(1490d963, 3, 303), Queue Size: 3 
+[2019-06-19 17:56:52] [INFO   ] NODE-2: Working Task(5d76ec2f, 5, 195), Queue Size: 3 
+[2019-06-19 17:56:52] [INFO   ] NODE-3: Working Task(1109830c, 2, 328), Queue Size: 2 
+[2019-06-19 17:56:53] [INFO   ] NODE-2: Working Task(1490d963, 2, 325), Queue Size: 3 
+[2019-06-19 17:56:53] [INFO   ] NODE-3: Working Task(4232c6bb, 6, 249), Queue Size: 2 
+[2019-06-19 17:56:54] [INFO   ] NODE-2: Working Task(5d76ec2f, 4, 246), Queue Size: 2 
+[2019-06-19 17:56:55] [INFO   ] NODE-2: Working Task(1109830c, 1, 359), Queue Size: 2 
+[2019-06-19 17:56:55] [INFO   ] NODE-2: Completed Task(1109830c, 0, 420) Completed: 55 
+[2019-06-19 17:56:56] [INFO   ] NODE-2: Working Task(1490d963, 1, 405), Queue Size: 2 
+[2019-06-19 17:56:56] [INFO   ] NODE-2: Completed Task(1490d963, 0, 415) Completed: 56 
+[2019-06-19 17:56:56] [INFO   ] NODE-1: Working Task(5d76ec2f, 3, 295), Queue Size: 1 
+[2019-06-19 17:56:57] [INFO   ] NODE-2: Working Task(1e68296b, 3, 219), Queue Size: 1 
+[2019-06-19 17:56:57] [INFO   ] NODE-1: Working Task(5d76ec2f, 2, 364), Queue Size: 0 
+[2019-06-19 17:56:58] [INFO   ] NODE-1: Working Task(5d76ec2f, 1, 411), Queue Size: 1 
+[2019-06-19 17:56:58] [INFO   ] NODE-1: Completed Task(5d76ec2f, 0, 454) Completed: 54 
+[2019-06-19 17:56:59] [INFO   ] NODE-2: Working Task(1e68296b, 2, 255), Queue Size: 0 
+[2019-06-19 17:56:59] [INFO   ] NODE-1: Working Task(1e68296b, 1, 346), Queue Size: 0 
+[2019-06-19 17:56:59] [INFO   ] NODE-1: Completed Task(1e68296b, 0, 422) Completed: 55 
+[2019-06-19 17:57:00] [INFO   ] NODE-2: Queue Empty, Completed: 56, Queue Size: (0) 
+[2019-06-19 17:57:00] [INFO   ] NODE-1: Queue Empty, Completed: 55, Queue Size: (0) 
+[2019-06-19 17:57:01] [INFO   ] NODE-2: Queue Empty, Completed: 56, Queue Size: (0) 
+[2019-06-19 17:57:01] [INFO   ] NODE-1: Queue Empty, Completed: 55, Queue Size: (0) 
+[2019-06-19 17:57:02] [INFO   ] NODE-2: Working Task(4232c6bb, 5, 322), Queue Size: 0 
+[2019-06-19 17:57:02] [INFO   ] NODE-1: Working Task(4232c6bb, 4, 397), Queue Size: 0 
+[2019-06-19 17:57:03] [INFO   ] NODE-3: Queue Empty, Completed: 59, Queue Size: (0) 
+[2019-06-19 17:57:03] [INFO   ] NODE-2: Queue Empty, Completed: 56, Queue Size: (0) 
+[2019-06-19 17:57:04] [INFO   ] NODE-3: Queue Empty, Completed: 59, Queue Size: (0) 
+[2019-06-19 17:57:04] [INFO   ] NODE-2: Queue Empty, Completed: 56, Queue Size: (0) 
+[2019-06-19 17:57:05] [INFO   ] NODE-3: Queue Empty, Completed: 59, Queue Size: (0) 
+[2019-06-19 17:57:05] [INFO   ] NODE-2: Queue Empty, Completed: 56, Queue Size: (0) 
+[2019-06-19 17:57:06] [INFO   ] Producer1: Adding Task(b334a526, 6, 0) Queue Size: 1 
+[2019-06-19 17:57:06] [INFO   ] NODE-3: Working Task(4232c6bb, 3, 408), Queue Size: 1 
+[2019-06-19 17:57:06] [INFO   ] NODE-2: Working Task(b334a526, 6, 0), Queue Size: 1 
+[2019-06-19 17:57:06] [INFO   ] NODE-1: Working Task(4232c6bb, 2, 467), Queue Size: 1 
+[2019-06-19 17:57:07] [INFO   ] NODE-3: Working Task(b334a526, 5, 99), Queue Size: 1 
+[2019-06-19 17:57:07] [INFO   ] NODE-2: Working Task(4232c6bb, 1, 495), Queue Size: 1 
+[2019-06-19 17:57:07] [INFO   ] NODE-2: Completed Task(4232c6bb, 0, 569) Completed: 57 
+[2019-06-19 17:57:07] [INFO   ] NODE-1: Working Task(b334a526, 4, 136), Queue Size: 0 
+[2019-06-19 17:57:08] [INFO   ] Producer1: Adding Task(c17321c7, 1, 0) Queue Size: 1 
+[2019-06-19 17:57:08] [INFO   ] NODE-3: Working Task(b334a526, 3, 226), Queue Size: 1 
+[2019-06-19 17:57:08] [INFO   ] NODE-2: Working Task(c17321c7, 1, 0), Queue Size: 1 
+[2019-06-19 17:57:08] [INFO   ] NODE-2: Completed Task(c17321c7, 0, 9) Completed: 58 
+[2019-06-19 17:57:08] [INFO   ] NODE-1: Working Task(b334a526, 2, 257), Queue Size: 0 
+[2019-06-19 17:57:09] [INFO   ] NODE-3: Working Task(b334a526, 1, 336), Queue Size: 0 
+[2019-06-19 17:57:09] [INFO   ] NODE-3: Completed Task(b334a526, 0, 374) Completed: 60 
+[2019-06-19 17:57:09] [INFO   ] NODE-2: Queue Empty, Completed: 58, Queue Size: (0) 
+[2019-06-19 17:57:09] [INFO   ] NODE-1: Queue Empty, Completed: 55, Queue Size: (0) 
+[2019-06-19 17:57:10] [INFO   ] Producer1: Adding Task(8ad9ae7f, 7, 0) Queue Size: 0 
+[2019-06-19 17:57:10] [INFO   ] NODE-3: Working Task(8ad9ae7f, 7, 0), Queue Size: 0 
+[2019-06-19 17:57:10] [INFO   ] NODE-2: Working Task(8ad9ae7f, 6, 37), Queue Size: 0 
+[2019-06-19 17:57:10] [INFO   ] NODE-1: Working Task(8ad9ae7f, 5, 125), Queue Size: 0 
+[2019-06-19 17:57:11] [INFO   ] NODE-3: Working Task(8ad9ae7f, 4, 188), Queue Size: 0 
+[2019-06-19 17:57:11] [INFO   ] NODE-2: Working Task(8ad9ae7f, 3, 238), Queue Size: 0 
+[2019-06-19 17:57:11] [INFO   ] NODE-1: Working Task(8ad9ae7f, 2, 287), Queue Size: 0 
+[2019-06-19 17:57:12] [INFO   ] Producer1: Adding Task(a26fc2ed, 7, 0) Queue Size: 1 
+[2019-06-19 17:57:12] [INFO   ] NODE-3: Working Task(8ad9ae7f, 1, 370), Queue Size: 1 
+[2019-06-19 17:57:12] [INFO   ] NODE-3: Completed Task(8ad9ae7f, 0, 442) Completed: 61 
+[2019-06-19 17:57:12] [INFO   ] NODE-2: Working Task(a26fc2ed, 7, 0), Queue Size: 0 
+[2019-06-19 17:57:12] [INFO   ] NODE-1: Working Task(a26fc2ed, 6, 5), Queue Size: 0 
+[2019-06-19 17:57:13] [INFO   ] NODE-3: Working Task(a26fc2ed, 5, 79), Queue Size: 0 
+[2019-06-19 17:57:13] [INFO   ] NODE-2: Working Task(a26fc2ed, 4, 139), Queue Size: 0 
+[2019-06-19 17:57:13] [INFO   ] NODE-1: Working Task(a26fc2ed, 3, 181), Queue Size: 0 
+[2019-06-19 17:57:14] [INFO   ] Producer1: Adding Task(4e01f8fe, 4, 0) Queue Size: 1 
+[2019-06-19 17:57:14] [INFO   ] NODE-3: Working Task(a26fc2ed, 2, 236), Queue Size: 1 
+[2019-06-19 17:57:14] [INFO   ] NODE-2: Working Task(4e01f8fe, 4, 0), Queue Size: 1 
+[2019-06-19 17:57:14] [INFO   ] NODE-1: Working Task(a26fc2ed, 1, 261), Queue Size: 0 
+[2019-06-19 17:57:14] [INFO   ] NODE-1: Completed Task(a26fc2ed, 0, 291) Completed: 56 
+[2019-06-19 17:57:15] [INFO   ] NODE-3: Queue Empty, Completed: 61, Queue Size: (0) 
+[2019-06-19 17:57:15] [INFO   ] NODE-1: Queue Empty, Completed: 56, Queue Size: (0) 
+[2019-06-19 17:57:16] [INFO   ] Producer1: Adding Task(211ab02c, 1, 0) Queue Size: 0 
+[2019-06-19 17:57:16] [INFO   ] NODE-3: Working Task(211ab02c, 1, 0), Queue Size: 0 
+[2019-06-19 17:57:16] [INFO   ] NODE-3: Completed Task(211ab02c, 0, 75) Completed: 62 
+[2019-06-19 17:57:16] [INFO   ] NODE-1: Queue Empty, Completed: 56, Queue Size: (0) 
+[2019-06-19 17:57:17] [INFO   ] NODE-3: Queue Empty, Completed: 62, Queue Size: (0) 
+[2019-06-19 17:57:17] [INFO   ] NODE-1: Queue Empty, Completed: 56, Queue Size: (0) 
+[2019-06-19 17:57:18] [INFO   ] Producer1: Adding Task(dc681973, 6, 0) Queue Size: 0 
+[2019-06-19 17:57:18] [INFO   ] NODE-3: Working Task(dc681973, 6, 0), Queue Size: 0 
+[2019-06-19 17:57:18] [INFO   ] NODE-1: Working Task(dc681973, 5, 13), Queue Size: 0 
+[2019-06-19 17:57:19] [INFO   ] NODE-3: Queue Empty, Completed: 62, Queue Size: (0) 
+[2019-06-19 17:57:20] [INFO   ] Producer1: Adding Task(80b6d712, 2, 0) Queue Size: 0 
+[2019-06-19 17:57:20] [INFO   ] NODE-3: Working Task(80b6d712, 2, 0), Queue Size: 0 
+[2019-06-19 17:57:21] [INFO   ] NODE-3: Working Task(80b6d712, 1, 11), Queue Size: 1 
+[2019-06-19 17:57:21] [INFO   ] NODE-3: Completed Task(80b6d712, 0, 86) Completed: 63 
+[2019-06-19 17:57:21] [INFO   ] NODE-2: Working Task(4e01f8fe, 3, 42), Queue Size: 0 
+[2019-06-19 17:57:22] [INFO   ] Producer1: Adding Task(22e354c7, 6, 0) Queue Size: 1 
+[2019-06-19 17:57:22] [INFO   ] NODE-3: Working Task(4e01f8fe, 2, 122), Queue Size: 1 
+[2019-06-19 17:57:22] [INFO   ] NODE-2: Working Task(22e354c7, 6, 0), Queue Size: 0 
+[2019-06-19 17:57:23] [INFO   ] NODE-3: Working Task(4e01f8fe, 1, 143), Queue Size: 1 
+[2019-06-19 17:57:23] [INFO   ] NODE-2: Working Task(22e354c7, 5, 12), Queue Size: 0 
+[2019-06-19 17:57:24] [INFO   ] Producer1: Adding Task(5c52a3f5, 9, 0) Queue Size: 1 
+[2019-06-19 17:57:24] [INFO   ] NODE-2: Working Task(22e354c7, 4, 96), Queue Size: 1 
+[2019-06-19 17:57:25] [INFO   ] NODE-2: Working Task(5c52a3f5, 9, 0), Queue Size: 1 
+[2019-06-19 17:57:26] [INFO   ] Producer1: Adding Task(0c38ce1c, 9, 0) Queue Size: 3 
+[2019-06-19 17:57:26] [INFO   ] NODE-2: Working Task(22e354c7, 3, 172), Queue Size: 3 
+[2019-06-19 17:57:26] [INFO   ] NODE-1: Working Task(5c52a3f5, 8, 4), Queue Size: 3 
+[2019-06-19 17:57:27] [INFO   ] NODE-2: Working Task(dc681973, 4, 22), Queue Size: 3 
+[2019-06-19 17:57:27] [INFO   ] NODE-1: Working Task(0c38ce1c, 9, 0), Queue Size: 2 
+[2019-06-19 17:57:28] [INFO   ] Producer1: Adding Task(fb2c26df, 4, 0) Queue Size: 2 
+[2019-06-19 17:57:30] [INFO   ] Producer1: Adding Task(b1321b41, 9, 0) Queue Size: 3 
+[2019-06-19 17:57:31] [INFO   ] NODE-3: Completed Task(4e01f8fe, 0, 145) Completed: 64 
+[2019-06-19 17:57:31] [INFO   ] NODE-2: Working Task(22e354c7, 2, 271), Queue Size: 4 
+[2019-06-19 17:57:32] [INFO   ] Producer1: Adding Task(98a6cde8, 5, 0) Queue Size: 5 
+[2019-06-19 17:57:32] [INFO   ] NODE-3: Working Task(5c52a3f5, 7, 28), Queue Size: 5 
+[2019-06-19 17:57:32] [INFO   ] NODE-2: Working Task(fb2c26df, 4, 0), Queue Size: 5 
+[2019-06-19 17:57:33] [INFO   ] NODE-3: Working Task(b1321b41, 9, 0), Queue Size: 5 
+[2019-06-19 17:57:33] [INFO   ] NODE-2: Working Task(dc681973, 3, 31), Queue Size: 5 
+[2019-06-19 17:57:34] [INFO   ] Producer1: Adding Task(33160f28, 9, 0) Queue Size: 6 
+[2019-06-19 17:57:34] [INFO   ] NODE-3: Working Task(22e354c7, 1, 311), Queue Size: 6 
+[2019-06-19 17:57:34] [INFO   ] NODE-3: Completed Task(22e354c7, 0, 315) Completed: 65 
+[2019-06-19 17:57:34] [INFO   ] NODE-2: Working Task(98a6cde8, 5, 0), Queue Size: 5 
+[2019-06-19 17:57:35] [INFO   ] NODE-3: Working Task(5c52a3f5, 6, 124), Queue Size: 5 
+[2019-06-19 17:57:35] [INFO   ] NODE-2: Working Task(fb2c26df, 3, 66), Queue Size: 5 
+[2019-06-19 17:57:36] [INFO   ] Producer1: Adding Task(9162e4c6, 4, 0) Queue Size: 6 
+[2019-06-19 17:57:36] [INFO   ] NODE-3: Working Task(b1321b41, 8, 21), Queue Size: 6 
+[2019-06-19 17:57:36] [INFO   ] NODE-2: Working Task(dc681973, 2, 100), Queue Size: 6 
+[2019-06-19 17:57:37] [INFO   ] NODE-3: Working Task(33160f28, 9, 0), Queue Size: 7 
+[2019-06-19 17:57:37] [INFO   ] NODE-2: Working Task(98a6cde8, 4, 41), Queue Size: 7 
+[2019-06-19 17:57:37] [INFO   ] NODE-1: Working Task(5c52a3f5, 5, 124), Queue Size: 6 
+[2019-06-19 17:57:38] [INFO   ] Producer1: Adding Task(d21c454a, 8, 0) Queue Size: 7 
+[2019-06-19 17:57:38] [INFO   ] NODE-3: Working Task(fb2c26df, 2, 108), Queue Size: 7 
+[2019-06-19 17:57:38] [INFO   ] NODE-1: Working Task(9162e4c6, 4, 0), Queue Size: 6 
+[2019-06-19 17:57:39] [INFO   ] NODE-1: Working Task(b1321b41, 7, 114), Queue Size: 6 
+[2019-06-19 17:57:40] [INFO   ] Producer1: Adding Task(df27af2f, 4, 0) Queue Size: 7 
+[2019-06-19 17:57:40] [INFO   ] NODE-1: Working Task(dc681973, 1, 190), Queue Size: 7 
+[2019-06-19 17:57:40] [INFO   ] NODE-1: Completed Task(dc681973, 0, 250) Completed: 57 
+[2019-06-19 17:57:41] [INFO   ] NODE-1: Working Task(0c38ce1c, 8, 8), Queue Size: 6 
+[2019-06-19 17:57:42] [INFO   ] Producer1: Adding Task(661a0a57, 6, 0) Queue Size: 7 
+[2019-06-19 17:57:42] [INFO   ] NODE-1: Working Task(33160f28, 8, 86), Queue Size: 7 
+[2019-06-19 17:57:43] [INFO   ] NODE-1: Working Task(5c52a3f5, 4, 131), Queue Size: 7 
+[2019-06-19 17:57:44] [INFO   ] Producer1: Adding Task(9815ada5, 4, 0) Queue Size: 8 
+[2019-06-19 17:57:44] [INFO   ] NODE-1: Working Task(d21c454a, 8, 0), Queue Size: 10 
+[2019-06-19 17:57:45] [INFO   ] NODE-3: Working Task(9162e4c6, 3, 34), Queue Size: 10 
+[2019-06-19 17:57:45] [INFO   ] NODE-2: Working Task(b1321b41, 6, 142), Queue Size: 10 
+[2019-06-19 17:57:45] [INFO   ] NODE-1: Working Task(df27af2f, 4, 0), Queue Size: 10 
+[2019-06-19 17:57:46] [INFO   ] Producer1: Queue full 11 
+[2019-06-19 17:57:46] [INFO   ] Producer1: Pausing for: 23 seconds 
+[2019-06-19 17:57:46] [INFO   ] NODE-3: Working Task(0c38ce1c, 7, 60), Queue Size: 10 
+[2019-06-19 17:57:46] [INFO   ] NODE-2: Working Task(661a0a57, 6, 0), Queue Size: 10 
+[2019-06-19 17:57:46] [INFO   ] NODE-1: Working Task(33160f28, 7, 102), Queue Size: 10 
+[2019-06-19 17:57:47] [INFO   ] NODE-3: Working Task(5c52a3f5, 3, 162), Queue Size: 10 
+[2019-06-19 17:57:47] [INFO   ] NODE-2: Working Task(9815ada5, 4, 0), Queue Size: 9 
+[2019-06-19 17:57:47] [INFO   ] NODE-1: Working Task(fb2c26df, 1, 199), Queue Size: 10 
+[2019-06-19 17:57:47] [INFO   ] NODE-1: Completed Task(fb2c26df, 0, 252) Completed: 58 
+[2019-06-19 17:57:48] [INFO   ] NODE-3: Working Task(98a6cde8, 3, 43), Queue Size: 9 
+[2019-06-19 17:57:48] [INFO   ] NODE-2: Working Task(d21c454a, 7, 76), Queue Size: 8 
+[2019-06-19 17:57:48] [INFO   ] NODE-1: Working Task(9162e4c6, 2, 70), Queue Size: 9 
+[2019-06-19 17:57:49] [INFO   ] NODE-3: Working Task(b1321b41, 5, 186), Queue Size: 9 
+[2019-06-19 17:57:49] [INFO   ] NODE-2: Working Task(df27af2f, 3, 21), Queue Size: 8 
+[2019-06-19 17:57:49] [INFO   ] NODE-1: Working Task(0c38ce1c, 6, 136), Queue Size: 8 
+[2019-06-19 17:57:50] [INFO   ] NODE-2: Working Task(661a0a57, 5, 40), Queue Size: 8 
+[2019-06-19 17:57:50] [INFO   ] NODE-1: Working Task(33160f28, 6, 142), Queue Size: 8 
+[2019-06-19 17:57:51] [INFO   ] NODE-2: Working Task(5c52a3f5, 2, 178), Queue Size: 8 
+[2019-06-19 17:57:51] [INFO   ] NODE-1: Working Task(9815ada5, 3, 47), Queue Size: 8 
+[2019-06-19 17:57:52] [INFO   ] NODE-2: Working Task(98a6cde8, 2, 61), Queue Size: 8 
+[2019-06-19 17:57:52] [INFO   ] NODE-1: Working Task(d21c454a, 6, 104), Queue Size: 8 
+[2019-06-19 17:57:53] [INFO   ] NODE-2: Working Task(9162e4c6, 1, 163), Queue Size: 7 
+[2019-06-19 17:57:53] [INFO   ] NODE-2: Completed Task(9162e4c6, 0, 196) Completed: 59 
+[2019-06-19 17:57:54] [INFO   ] NODE-2: Working Task(df27af2f, 2, 50), Queue Size: 6 
+[2019-06-19 17:57:55] [INFO   ] NODE-2: Working Task(0c38ce1c, 5, 215), Queue Size: 6 
+[2019-06-19 17:57:56] [INFO   ] NODE-2: Working Task(661a0a57, 4, 93), Queue Size: 6 
+[2019-06-19 17:57:58] [INFO   ] NODE-3: Working Task(33160f28, 5, 210), Queue Size: 6 
+[2019-06-19 17:57:59] [INFO   ] NODE-3: Working Task(5c52a3f5, 1, 263), Queue Size: 7 
+[2019-06-19 17:57:59] [INFO   ] NODE-3: Completed Task(5c52a3f5, 0, 283) Completed: 66 
+[2019-06-19 17:58:00] [INFO   ] NODE-1: Working Task(9815ada5, 2, 144), Queue Size: 6 
+[2019-06-19 17:58:00] [INFO   ] NODE-3: Working Task(98a6cde8, 1, 105), Queue Size: 6 
+[2019-06-19 17:58:00] [INFO   ] NODE-3: Completed Task(98a6cde8, 0, 158) Completed: 67 
+[2019-06-19 17:58:01] [INFO   ] NODE-1: Working Task(df27af2f, 1, 130), Queue Size: 5 
+[2019-06-19 17:58:01] [INFO   ] NODE-1: Completed Task(df27af2f, 0, 180) Completed: 59 
+[2019-06-19 17:58:01] [INFO   ] NODE-3: Working Task(0c38ce1c, 4, 306), Queue Size: 4 
+[2019-06-19 17:58:02] [INFO   ] NODE-1: Working Task(b1321b41, 4, 217), Queue Size: 4 
+[2019-06-19 17:58:02] [INFO   ] NODE-3: Working Task(33160f28, 4, 252), Queue Size: 4 
+[2019-06-19 17:58:03] [INFO   ] NODE-1: Working Task(d21c454a, 5, 181), Queue Size: 5 
+[2019-06-19 17:58:03] [INFO   ] NODE-3: Working Task(9815ada5, 1, 207), Queue Size: 5 
+[2019-06-19 17:58:03] [INFO   ] NODE-3: Completed Task(9815ada5, 0, 236) Completed: 68 
+[2019-06-19 17:58:03] [INFO   ] NODE-2: Working Task(0c38ce1c, 3, 390), Queue Size: 4 
+[2019-06-19 17:58:04] [INFO   ] NODE-1: Working Task(b1321b41, 3, 249), Queue Size: 4 
+[2019-06-19 17:58:04] [INFO   ] NODE-2: Working Task(661a0a57, 3, 185), Queue Size: 3 
+[2019-06-19 17:58:04] [INFO   ] NODE-3: Working Task(33160f28, 3, 264), Queue Size: 4 
+[2019-06-19 17:58:05] [INFO   ] NODE-1: Working Task(d21c454a, 4, 252), Queue Size: 4 
+[2019-06-19 17:58:05] [INFO   ] NODE-3: Working Task(0c38ce1c, 2, 391), Queue Size: 4 
+[2019-06-19 17:58:05] [INFO   ] NODE-2: Working Task(b1321b41, 2, 347), Queue Size: 3 
+[2019-06-19 17:58:06] [INFO   ] NODE-1: Working Task(33160f28, 2, 337), Queue Size: 4 
+[2019-06-19 17:58:06] [INFO   ] NODE-2: Working Task(661a0a57, 2, 268), Queue Size: 4 
+[2019-06-19 17:58:06] [INFO   ] NODE-3: Working Task(d21c454a, 3, 328), Queue Size: 3 
+[2019-06-19 17:58:07] [INFO   ] NODE-1: Working Task(b1321b41, 1, 369), Queue Size: 4 
+[2019-06-19 17:58:07] [INFO   ] NODE-1: Completed Task(b1321b41, 0, 374) Completed: 60 
+[2019-06-19 17:58:07] [INFO   ] NODE-3: Working Task(33160f28, 1, 395), Queue Size: 2 
+[2019-06-19 17:58:07] [INFO   ] NODE-2: Working Task(0c38ce1c, 1, 432), Queue Size: 3 
+[2019-06-19 17:58:07] [INFO   ] NODE-3: Completed Task(33160f28, 0, 439) Completed: 69 
+[2019-06-19 17:58:07] [INFO   ] NODE-2: Completed Task(0c38ce1c, 0, 453) Completed: 60 
+[2019-06-19 17:58:08] [INFO   ] NODE-1: Working Task(661a0a57, 1, 348), Queue Size: 1 
+[2019-06-19 17:58:08] [INFO   ] NODE-1: Completed Task(661a0a57, 0, 417) Completed: 61 
+[2019-06-19 17:58:08] [INFO   ] NODE-2: Queue Empty, Completed: 60, Queue Size: (0) 
+[2019-06-19 17:58:08] [INFO   ] NODE-3: Working Task(d21c454a, 2, 369), Queue Size: 0 
+[2019-06-19 17:58:09] [INFO   ] NODE-1: Working Task(d21c454a, 1, 451), Queue Size: 0 
+[2019-06-19 17:58:09] [INFO   ] NODE-1: Completed Task(d21c454a, 0, 524) Completed: 62 
+[2019-06-19 17:58:09] [INFO   ] NODE-2: Queue Empty, Completed: 60, Queue Size: (0) 
+[2019-06-19 17:58:09] [INFO   ] NODE-3: Queue Empty, Completed: 69, Queue Size: (0) 
+[2019-06-19 17:58:10] [INFO   ] NODE-1: Queue Empty, Completed: 62, Queue Size: (0) 
+[2019-06-19 17:58:10] [INFO   ] NODE-3: Queue Empty, Completed: 69, Queue Size: (0) 
+[2019-06-19 17:58:10] [INFO   ] NODE-2: Queue Empty, Completed: 60, Queue Size: (0) 
+[2019-06-19 17:58:11] [INFO   ] NODE-1: Queue Empty, Completed: 62, Queue Size: (0) 
+[2019-06-19 17:58:11] [INFO   ] Producer1: Adding Task(d7337820, 10, 0) Queue Size: 0 
+[2019-06-19 17:58:11] [INFO   ] NODE-2: Working Task(d7337820, 10, 0), Queue Size: 0 
+[2019-06-19 17:58:11] [INFO   ] NODE-3: Queue Empty, Completed: 69, Queue Size: (0) 
+[2019-06-19 17:58:12] [INFO   ] NODE-1: Queue Empty, Completed: 62, Queue Size: (0) 
+[2019-06-19 17:58:12] [INFO   ] NODE-3: Queue Empty, Completed: 69, Queue Size: (0) 
+[2019-06-19 17:58:13] [INFO   ] NODE-1: Queue Empty, Completed: 62, Queue Size: (0) 
+[2019-06-19 17:58:13] [INFO   ] Producer1: Adding Task(c0ed1e6e, 10, 0) Queue Size: 0 
+[2019-06-19 17:58:13] [INFO   ] NODE-3: Working Task(c0ed1e6e, 10, 0), Queue Size: 0 
+[2019-06-19 17:58:14] [INFO   ] NODE-1: Queue Empty, Completed: 62, Queue Size: (0) 
+[2019-06-19 17:58:15] [INFO   ] NODE-1: Queue Empty, Completed: 62, Queue Size: (0) 
+[2019-06-19 17:58:15] [INFO   ] Producer1: Adding Task(03c624be, 8, 0) Queue Size: 0 
+[2019-06-19 17:58:16] [INFO   ] NODE-1: Working Task(03c624be, 8, 0), Queue Size: 0 
+[2019-06-19 17:58:17] [INFO   ] NODE-1: Working Task(03c624be, 7, 74), Queue Size: 0 
+[2019-06-19 17:58:17] [INFO   ] Producer1: Adding Task(d806de1e, 3, 0) Queue Size: 0 
+[2019-06-19 17:58:19] [INFO   ] NODE-1: Working Task(d806de1e, 3, 0), Queue Size: 1 
+[2019-06-19 17:58:19] [INFO   ] Producer1: Adding Task(23be1c91, 8, 0) Queue Size: 2 
+[2019-06-19 17:58:20] [INFO   ] NODE-1: Working Task(03c624be, 6, 134), Queue Size: 3 
+[2019-06-19 17:58:20] [INFO   ] NODE-2: Working Task(d806de1e, 2, 56), Queue Size: 3 
+[2019-06-19 17:58:21] [INFO   ] NODE-1: Working Task(23be1c91, 8, 0), Queue Size: 3 
+[2019-06-19 17:58:21] [INFO   ] Producer1: Adding Task(ba184773, 10, 0) Queue Size: 4 
+[2019-06-19 17:58:21] [INFO   ] NODE-2: Working Task(d7337820, 9, 44), Queue Size: 4 
+[2019-06-19 17:58:22] [INFO   ] NODE-1: Working Task(03c624be, 5, 209), Queue Size: 4 
+[2019-06-19 17:58:22] [INFO   ] NODE-2: Working Task(d806de1e, 1, 124), Queue Size: 5 
+[2019-06-19 17:58:22] [INFO   ] NODE-2: Completed Task(d806de1e, 0, 181) Completed: 61 
+[2019-06-19 17:58:23] [INFO   ] NODE-1: Working Task(23be1c91, 7, 21), Queue Size: 4 
+[2019-06-19 17:58:23] [INFO   ] Producer1: Adding Task(958e1b86, 1, 0) Queue Size: 4 
+[2019-06-19 17:58:23] [INFO   ] NODE-3: Working Task(ba184773, 10, 0), Queue Size: 4 
+[2019-06-19 17:58:23] [INFO   ] NODE-2: Working Task(d7337820, 8, 64), Queue Size: 3 
+[2019-06-19 17:58:24] [INFO   ] NODE-3: Working Task(03c624be, 4, 283), Queue Size: 4 
+[2019-06-19 17:58:24] [INFO   ] NODE-2: Working Task(c0ed1e6e, 9, 58), Queue Size: 3 
+[2019-06-19 17:58:25] [INFO   ] Producer1: Adding Task(340d6890, 4, 0) Queue Size: 5 
+[2019-06-19 17:58:25] [INFO   ] NODE-3: Working Task(958e1b86, 1, 0), Queue Size: 5 
+[2019-06-19 17:58:25] [INFO   ] NODE-2: Working Task(ba184773, 9, 6), Queue Size: 4 
+[2019-06-19 17:58:25] [INFO   ] NODE-3: Completed Task(958e1b86, 0, 48) Completed: 70 
+[2019-06-19 17:58:26] [INFO   ] NODE-2: Working Task(d7337820, 7, 69), Queue Size: 4 
+[2019-06-19 17:58:26] [INFO   ] NODE-3: Working Task(03c624be, 3, 360), Queue Size: 3 
+[2019-06-19 17:58:27] [INFO   ] Producer1: Adding Task(88e97c66, 1, 0) Queue Size: 6 
+[2019-06-19 17:58:27] [INFO   ] NODE-3: Working Task(c0ed1e6e, 8, 155), Queue Size: 6 
+[2019-06-19 17:58:27] [INFO   ] NODE-2: Working Task(340d6890, 4, 0), Queue Size: 5 
+[2019-06-19 17:58:28] [INFO   ] NODE-1: Working Task(ba184773, 8, 13), Queue Size: 5 
+[2019-06-19 17:58:28] [INFO   ] NODE-2: Working Task(03c624be, 2, 436), Queue Size: 5 
+[2019-06-19 17:58:29] [INFO   ] NODE-1: Working Task(d7337820, 6, 83), Queue Size: 5 
+[2019-06-19 17:58:29] [INFO   ] Producer1: Adding Task(81c8128a, 7, 0) Queue Size: 6 
+[2019-06-19 17:58:29] [INFO   ] NODE-2: Working Task(23be1c91, 6, 23), Queue Size: 6 
+[2019-06-19 17:58:30] [INFO   ] NODE-1: Working Task(88e97c66, 1, 0), Queue Size: 6 
+[2019-06-19 17:58:30] [INFO   ] NODE-1: Completed Task(88e97c66, 0, 41) Completed: 63 
+[2019-06-19 17:58:30] [INFO   ] NODE-2: Working Task(340d6890, 3, 49), Queue Size: 5 
+[2019-06-19 17:58:31] [INFO   ] NODE-1: Working Task(ba184773, 7, 105), Queue Size: 5 
+[2019-06-19 17:58:31] [INFO   ] Producer1: Adding Task(cb806fc2, 6, 0) Queue Size: 5 
+[2019-06-19 17:58:31] [INFO   ] NODE-2: Working Task(03c624be, 1, 443), Queue Size: 6 
+[2019-06-19 17:58:31] [INFO   ] NODE-2: Completed Task(03c624be, 0, 528) Completed: 62 
+[2019-06-19 17:58:32] [INFO   ] NODE-3: Working Task(d7337820, 5, 140), Queue Size: 5 
+[2019-06-19 17:58:32] [INFO   ] NODE-2: Working Task(81c8128a, 7, 0), Queue Size: 4 
+[2019-06-19 17:58:33] [INFO   ] Producer1: Adding Task(16d89db3, 7, 0) Queue Size: 5 
+[2019-06-19 17:58:33] [INFO   ] NODE-2: Working Task(23be1c91, 5, 61), Queue Size: 5 
+[2019-06-19 17:58:34] [INFO   ] NODE-2: Working Task(340d6890, 2, 87), Queue Size: 6 
+[2019-06-19 17:58:35] [INFO   ] NODE-1: Working Task(cb806fc2, 6, 0), Queue Size: 5 
+[2019-06-19 17:58:35] [INFO   ] Producer1: Adding Task(a1bb8686, 8, 0) Queue Size: 6 
+[2019-06-19 17:58:36] [INFO   ] NODE-1: Working Task(c0ed1e6e, 7, 227), Queue Size: 6 
+[2019-06-19 17:58:37] [INFO   ] NODE-1: Working Task(81c8128a, 6, 95), Queue Size: 6 
+[2019-06-19 17:58:37] [INFO   ] Producer1: Adding Task(376662d0, 9, 0) Queue Size: 7 
+[2019-06-19 17:58:38] [INFO   ] NODE-1: Working Task(16d89db3, 7, 0), Queue Size: 7 
+[2019-06-19 17:58:39] [INFO   ] NODE-1: Working Task(23be1c91, 4, 89), Queue Size: 7 
+[2019-06-19 17:58:39] [INFO   ] Producer1: Adding Task(39adf953, 2, 0) Queue Size: 8 
+[2019-06-19 17:58:40] [INFO   ] NODE-1: Working Task(ba184773, 6, 147), Queue Size: 8 
+[2019-06-19 17:58:41] [INFO   ] Producer1: Adding Task(d5b022f3, 9, 0) Queue Size: 8 
+[2019-06-19 17:58:42] [INFO   ] NODE-3: Working Task(cb806fc2, 5, 36), Queue Size: 10 
+[2019-06-19 17:58:42] [INFO   ] NODE-2: Working Task(a1bb8686, 8, 0), Queue Size: 10 
+[2019-06-19 17:58:43] [INFO   ] Producer1: Queue full 11 
+[2019-06-19 17:58:43] [INFO   ] Producer1: Pausing for: 2 seconds 
+[2019-06-19 17:58:43] [INFO   ] NODE-3: Working Task(c0ed1e6e, 6, 243), Queue Size: 10 
+[2019-06-19 17:58:43] [INFO   ] NODE-2: Working Task(81c8128a, 5, 96), Queue Size: 10 
+[2019-06-19 17:58:44] [INFO   ] NODE-3: Working Task(376662d0, 9, 0), Queue Size: 10 
+[2019-06-19 17:58:44] [INFO   ] NODE-2: Working Task(16d89db3, 6, 27), Queue Size: 10 
+[2019-06-19 17:58:45] [INFO   ] NODE-3: Working Task(23be1c91, 3, 156), Queue Size: 10 
+[2019-06-19 17:58:45] [INFO   ] NODE-2: Working Task(39adf953, 2, 0), Queue Size: 10 
+[2019-06-19 17:58:46] [INFO   ] NODE-3: Working Task(d5b022f3, 9, 0), Queue Size: 10 
+[2019-06-19 17:58:46] [INFO   ] NODE-2: Working Task(d7337820, 4, 142), Queue Size: 10 
+[2019-06-19 17:58:47] [INFO   ] Producer1: Queue full 12 
+[2019-06-19 17:58:47] [INFO   ] Producer1: Pausing for: 0 seconds 
+[2019-06-19 17:58:47] [INFO   ] NODE-3: Working Task(340d6890, 1, 89), Queue Size: 11 
+[2019-06-19 17:58:47] [INFO   ] NODE-3: Completed Task(340d6890, 0, 122) Completed: 71 
+[2019-06-19 17:58:47] [INFO   ] NODE-2: Working Task(cb806fc2, 4, 89), Queue Size: 10 
+[2019-06-19 17:58:48] [INFO   ] NODE-1: Working Task(a1bb8686, 7, 87), Queue Size: 10 
+[2019-06-19 17:58:48] [INFO   ] NODE-3: Working Task(c0ed1e6e, 5, 263), Queue Size: 10 
+[2019-06-19 17:58:48] [INFO   ] NODE-2: Working Task(81c8128a, 4, 115), Queue Size: 10 
+[2019-06-19 17:58:49] [INFO   ] NODE-1: Working Task(376662d0, 8, 87), Queue Size: 10 
+[2019-06-19 17:58:49] [INFO   ] Producer1: Queue full 11 
+[2019-06-19 17:58:49] [INFO   ] Producer1: Pausing for: 4 seconds 
+[2019-06-19 17:58:49] [INFO   ] NODE-3: Working Task(16d89db3, 5, 83), Queue Size: 10 
+[2019-06-19 17:58:49] [INFO   ] NODE-2: Working Task(23be1c91, 2, 243), Queue Size: 10 
+[2019-06-19 17:58:50] [INFO   ] NODE-1: Working Task(39adf953, 1, 60), Queue Size: 10 
+[2019-06-19 17:58:50] [INFO   ] NODE-3: Working Task(d5b022f3, 8, 60), Queue Size: 9 
+[2019-06-19 17:58:50] [INFO   ] NODE-2: Working Task(d7337820, 3, 228), Queue Size: 8 
+[2019-06-19 17:58:51] [INFO   ] NODE-2: Working Task(ba184773, 5, 206), Queue Size: 8 
+[2019-06-19 17:58:53] [INFO   ] NODE-1: Completed Task(39adf953, 0, 94) Completed: 64 
+[2019-06-19 17:58:53] [INFO   ] NODE-3: Working Task(cb806fc2, 3, 97), Queue Size: 8 
+[2019-06-19 17:58:54] [INFO   ] NODE-1: Working Task(a1bb8686, 6, 160), Queue Size: 8 
+[2019-06-19 17:58:54] [INFO   ] NODE-3: Working Task(c0ed1e6e, 4, 287), Queue Size: 8 
+[2019-06-19 17:58:55] [INFO   ] NODE-1: Working Task(81c8128a, 3, 131), Queue Size: 8 
+[2019-06-19 17:58:55] [INFO   ] Producer1: Adding Task(8fae5219, 10, 0) Queue Size: 9 
+[2019-06-19 17:58:55] [INFO   ] NODE-3: Working Task(376662d0, 7, 137), Queue Size: 9 
+[2019-06-19 17:58:56] [INFO   ] NODE-1: Working Task(16d89db3, 4, 104), Queue Size: 10 
+[2019-06-19 17:58:56] [INFO   ] NODE-3: Working Task(23be1c91, 1, 340), Queue Size: 10 
+[2019-06-19 17:58:56] [INFO   ] NODE-3: Completed Task(23be1c91, 0, 355) Completed: 72 
+[2019-06-19 17:58:56] [INFO   ] NODE-2: Working Task(d7337820, 2, 298), Queue Size: 9 
+[2019-06-19 17:58:57] [INFO   ] NODE-1: Working Task(d5b022f3, 7, 116), Queue Size: 9 
+[2019-06-19 17:58:57] [INFO   ] Producer1: Queue full 10 
+[2019-06-19 17:58:57] [INFO   ] Producer1: Pausing for: 0 seconds 
+[2019-06-19 17:58:57] [INFO   ] NODE-3: Working Task(cb806fc2, 2, 144), Queue Size: 9 
+[2019-06-19 17:58:57] [INFO   ] NODE-2: Working Task(a1bb8686, 5, 236), Queue Size: 9 
+[2019-06-19 17:58:58] [INFO   ] NODE-1: Working Task(c0ed1e6e, 3, 373), Queue Size: 9 
+[2019-06-19 17:58:58] [INFO   ] NODE-3: Working Task(81c8128a, 2, 181), Queue Size: 9 
+[2019-06-19 17:58:58] [INFO   ] NODE-2: Working Task(8fae5219, 10, 0), Queue Size: 8 
+[2019-06-19 17:58:59] [INFO   ] NODE-1: Working Task(376662d0, 6, 148), Queue Size: 8 
+[2019-06-19 17:58:59] [INFO   ] Producer1: Adding Task(a3940861, 2, 0) Queue Size: 9 
+[2019-06-19 17:58:59] [INFO   ] NODE-2: Working Task(ba184773, 4, 223), Queue Size: 9 
+[2019-06-19 17:59:00] [INFO   ] NODE-1: Working Task(16d89db3, 3, 113), Queue Size: 9 
+[2019-06-19 17:59:00] [INFO   ] NODE-2: Working Task(d7337820, 1, 379), Queue Size: 10 
+[2019-06-19 17:59:00] [INFO   ] NODE-2: Completed Task(d7337820, 0, 410) Completed: 63 
+[2019-06-19 17:59:01] [INFO   ] NODE-1: Working Task(d5b022f3, 6, 148), Queue Size: 9 
+[2019-06-19 17:59:01] [INFO   ] Producer1: Adding Task(c5a30409, 10, 0) Queue Size: 9 
+[2019-06-19 17:59:01] [INFO   ] NODE-3: Working Task(cb806fc2, 1, 155), Queue Size: 9 
+[2019-06-19 17:59:01] [INFO   ] NODE-3: Completed Task(cb806fc2, 0, 236) Completed: 73 
+[2019-06-19 17:59:01] [INFO   ] NODE-2: Working Task(a1bb8686, 4, 266), Queue Size: 8 
+[2019-06-19 17:59:02] [INFO   ] NODE-3: Working Task(c0ed1e6e, 2, 394), Queue Size: 9 
+[2019-06-19 17:59:02] [INFO   ] NODE-2: Working Task(8fae5219, 9, 83), Queue Size: 8 
+[2019-06-19 17:59:03] [INFO   ] NODE-1: Working Task(376662d0, 5, 195), Queue Size: 8 
+[2019-06-19 17:59:03] [INFO   ] Producer1: Adding Task(7e808bd1, 5, 0) Queue Size: 9 
+[2019-06-19 17:59:03] [INFO   ] NODE-2: Working Task(a3940861, 2, 0), Queue Size: 9 
+[2019-06-19 17:59:04] [INFO   ] NODE-1: Working Task(ba184773, 3, 270), Queue Size: 9 
+[2019-06-19 17:59:04] [INFO   ] NODE-2: Working Task(16d89db3, 2, 172), Queue Size: 9 
+[2019-06-19 17:59:05] [INFO   ] NODE-1: Working Task(81c8128a, 1, 181), Queue Size: 9 
+[2019-06-19 17:59:05] [INFO   ] NODE-1: Completed Task(81c8128a, 0, 243) Completed: 65 
+[2019-06-19 17:59:05] [INFO   ] Producer1: Adding Task(aa8edaf9, 8, 0) Queue Size: 9 
+[2019-06-19 17:59:05] [INFO   ] NODE-2: Working Task(c5a30409, 10, 0), Queue Size: 10 
+[2019-06-19 17:59:06] [INFO   ] NODE-1: Working Task(a1bb8686, 3, 323), Queue Size: 10 
+[2019-06-19 17:59:06] [INFO   ] NODE-3: Working Task(d5b022f3, 5, 223), Queue Size: 10 
+[2019-06-19 17:59:06] [INFO   ] NODE-2: Working Task(8fae5219, 8, 143), Queue Size: 10 
+[2019-06-19 17:59:07] [INFO   ] NODE-1: Working Task(376662d0, 4, 223), Queue Size: 10 
+[2019-06-19 17:59:07] [INFO   ] Producer1: Queue full 11 
+[2019-06-19 17:59:07] [INFO   ] Producer1: Pausing for: 10 seconds 
+[2019-06-19 17:59:07] [INFO   ] NODE-3: Working Task(7e808bd1, 5, 0), Queue Size: 10 
+[2019-06-19 17:59:07] [INFO   ] NODE-2: Working Task(a3940861, 1, 79), Queue Size: 9 
+[2019-06-19 17:59:07] [INFO   ] NODE-2: Completed Task(a3940861, 0, 102) Completed: 64 
+[2019-06-19 17:59:08] [INFO   ] NODE-1: Working Task(ba184773, 2, 296), Queue Size: 8 
+[2019-06-19 17:59:08] [INFO   ] NODE-2: Working Task(16d89db3, 1, 229), Queue Size: 8 
+[2019-06-19 17:59:08] [INFO   ] NODE-2: Completed Task(16d89db3, 0, 282) Completed: 65 
+[2019-06-19 17:59:09] [INFO   ] NODE-1: Working Task(aa8edaf9, 8, 0), Queue Size: 7 
+[2019-06-19 17:59:09] [INFO   ] NODE-2: Working Task(c0ed1e6e, 1, 458), Queue Size: 8 
+[2019-06-19 17:59:09] [INFO   ] NODE-2: Completed Task(c0ed1e6e, 0, 545) Completed: 66 
+[2019-06-19 17:59:10] [INFO   ] NODE-1: Working Task(c5a30409, 9, 1), Queue Size: 7 
+[2019-06-19 17:59:10] [INFO   ] NODE-3: Working Task(a1bb8686, 2, 330), Queue Size: 7 
+[2019-06-19 17:59:10] [INFO   ] NODE-2: Working Task(d5b022f3, 4, 248), Queue Size: 6 
+[2019-06-19 17:59:11] [INFO   ] NODE-1: Working Task(8fae5219, 7, 161), Queue Size: 6 
+[2019-06-19 17:59:11] [INFO   ] NODE-2: Working Task(376662d0, 3, 312), Queue Size: 6 
+[2019-06-19 17:59:12] [INFO   ] NODE-1: Working Task(ba184773, 1, 345), Queue Size: 6 
+[2019-06-19 17:59:12] [INFO   ] NODE-1: Completed Task(ba184773, 0, 443) Completed: 66 
+[2019-06-19 17:59:12] [INFO   ] NODE-2: Working Task(aa8edaf9, 7, 12), Queue Size: 5 
+[2019-06-19 17:59:13] [INFO   ] NODE-1: Working Task(7e808bd1, 4, 60), Queue Size: 5 
+[2019-06-19 17:59:13] [INFO   ] NODE-2: Working Task(c5a30409, 8, 49), Queue Size: 4 
+[2019-06-19 17:59:14] [INFO   ] NODE-2: Working Task(d5b022f3, 3, 263), Queue Size: 4 
+[2019-06-19 17:59:15] [INFO   ] NODE-2: Working Task(8fae5219, 6, 192), Queue Size: 4 
+[2019-06-19 17:59:17] [INFO   ] NODE-1: Working Task(376662d0, 2, 324), Queue Size: 4 
+[2019-06-19 17:59:18] [INFO   ] NODE-1: Working Task(aa8edaf9, 6, 55), Queue Size: 4 
+[2019-06-19 17:59:19] [INFO   ] Producer1: Adding Task(f9ed0a2f, 4, 0) Queue Size: 5 
+[2019-06-19 17:59:19] [INFO   ] NODE-1: Working Task(c5a30409, 7, 131), Queue Size: 5 
+[2019-06-19 17:59:20] [INFO   ] NODE-1: Working Task(d5b022f3, 2, 267), Queue Size: 6 
+[2019-06-19 17:59:20] [INFO   ] NODE-3: Working Task(7e808bd1, 3, 137), Queue Size: 6 
+[2019-06-19 17:59:21] [INFO   ] Producer1: Adding Task(8c253c51, 4, 0) Queue Size: 6 
+[2019-06-19 17:59:21] [INFO   ] NODE-1: Working Task(376662d0, 1, 339), Queue Size: 6 
+[2019-06-19 17:59:21] [INFO   ] NODE-1: Completed Task(376662d0, 0, 388) Completed: 67 
+[2019-06-19 17:59:22] [INFO   ] NODE-1: Working Task(aa8edaf9, 5, 129), Queue Size: 5 
+[2019-06-19 17:59:23] [INFO   ] Producer1: Adding Task(5a5cebe0, 2, 0) Queue Size: 7 
+[2019-06-19 17:59:23] [INFO   ] NODE-3: Working Task(f9ed0a2f, 4, 0), Queue Size: 7 
+[2019-06-19 17:59:23] [INFO   ] NODE-2: Working Task(c5a30409, 6, 217), Queue Size: 7 
+[2019-06-19 17:59:24] [INFO   ] NODE-3: Working Task(a1bb8686, 1, 392), Queue Size: 7 
+[2019-06-19 17:59:24] [INFO   ] NODE-3: Completed Task(a1bb8686, 0, 396) Completed: 74 
+[2019-06-19 17:59:24] [INFO   ] NODE-2: Working Task(d5b022f3, 1, 275), Queue Size: 6 
+[2019-06-19 17:59:25] [INFO   ] Producer1: Adding Task(85d3dbd3, 3, 0) Queue Size: 6 
+[2019-06-19 17:59:25] [INFO   ] NODE-3: Working Task(8c253c51, 4, 0), Queue Size: 6 
+[2019-06-19 17:59:26] [INFO   ] NODE-3: Working Task(7e808bd1, 2, 145), Queue Size: 6 
+[2019-06-19 17:59:27] [INFO   ] Producer1: Adding Task(792128fe, 2, 0) Queue Size: 6 
+[2019-06-19 17:59:29] [INFO   ] Producer1: Adding Task(bb5c5c4f, 9, 0) Queue Size: 7 
+[2019-06-19 17:59:31] [INFO   ] Producer1: Adding Task(7ea096db, 8, 0) Queue Size: 9 
+[2019-06-19 17:59:32] [INFO   ] NODE-1: Working Task(8fae5219, 5, 242), Queue Size: 9 
+[2019-06-19 17:59:33] [INFO   ] Producer1: Queue full 10 
+[2019-06-19 17:59:33] [INFO   ] Producer1: Pausing for: 29 seconds 
+[2019-06-19 17:59:33] [INFO   ] NODE-1: Working Task(5a5cebe0, 2, 0), Queue Size: 9 
+[2019-06-19 17:59:33] [INFO   ] NODE-2: Completed Task(d5b022f3, 0, 296) Completed: 67 
+[2019-06-19 17:59:34] [INFO   ] NODE-1: Working Task(f9ed0a2f, 3, 18), Queue Size: 9 
+[2019-06-19 17:59:34] [INFO   ] NODE-2: Working Task(c5a30409, 5, 316), Queue Size: 9 
+[2019-06-19 17:59:35] [INFO   ] NODE-1: Working Task(85d3dbd3, 3, 0), Queue Size: 8 
+[2019-06-19 17:59:36] [INFO   ] NODE-1: Working Task(8c253c51, 3, 47), Queue Size: 10 
+[2019-06-19 17:59:36] [INFO   ] NODE-3: Working Task(792128fe, 2, 0), Queue Size: 9 
+[2019-06-19 17:59:36] [INFO   ] NODE-2: Working Task(bb5c5c4f, 9, 0), Queue Size: 9 
+[2019-06-19 17:59:37] [INFO   ] NODE-3: Working Task(aa8edaf9, 4, 168), Queue Size: 10 
+[2019-06-19 17:59:37] [INFO   ] NODE-2: Working Task(7ea096db, 8, 0), Queue Size: 10 
+[2019-06-19 17:59:38] [INFO   ] NODE-1: Working Task(8fae5219, 4, 298), Queue Size: 10 
+[2019-06-19 17:59:38] [INFO   ] NODE-3: Working Task(5a5cebe0, 1, 95), Queue Size: 9 
+[2019-06-19 17:59:38] [INFO   ] NODE-3: Completed Task(5a5cebe0, 0, 112) Completed: 75 
+[2019-06-19 17:59:38] [INFO   ] NODE-2: Working Task(f9ed0a2f, 2, 31), Queue Size: 8 
+[2019-06-19 17:59:39] [INFO   ] NODE-3: Working Task(85d3dbd3, 2, 16), Queue Size: 8 
+[2019-06-19 17:59:40] [INFO   ] NODE-2: Working Task(7e808bd1, 1, 162), Queue Size: 8 
+[2019-06-19 17:59:40] [INFO   ] NODE-3: Working Task(c5a30409, 4, 402), Queue Size: 7 
+[2019-06-19 17:59:41] [INFO   ] NODE-3: Working Task(792128fe, 1, 16), Queue Size: 8 
+[2019-06-19 17:59:41] [INFO   ] NODE-3: Completed Task(792128fe, 0, 60) Completed: 76 
+[2019-06-19 17:59:42] [INFO   ] NODE-1: Working Task(bb5c5c4f, 8, 12), Queue Size: 7 
+[2019-06-19 17:59:42] [INFO   ] NODE-3: Working Task(8c253c51, 2, 53), Queue Size: 7 
+[2019-06-19 17:59:43] [INFO   ] NODE-1: Working Task(aa8edaf9, 3, 205), Queue Size: 7 
+[2019-06-19 17:59:43] [INFO   ] NODE-3: Working Task(7ea096db, 7, 90), Queue Size: 6 
+[2019-06-19 17:59:44] [INFO   ] NODE-2: Completed Task(7e808bd1, 0, 240) Completed: 68 
+[2019-06-19 17:59:45] [INFO   ] NODE-2: Working Task(f9ed0a2f, 1, 80), Queue Size: 5 
+[2019-06-19 17:59:50] [INFO   ] NODE-1: Working Task(85d3dbd3, 1, 34), Queue Size: 5 
+[2019-06-19 17:59:50] [INFO   ] NODE-1: Completed Task(85d3dbd3, 0, 55) Completed: 68 
+[2019-06-19 17:59:51] [INFO   ] NODE-1: Working Task(c5a30409, 3, 437), Queue Size: 4 
+[2019-06-19 17:59:52] [INFO   ] NODE-1: Working Task(8fae5219, 3, 324), Queue Size: 5 
+[2019-06-19 17:59:52] [INFO   ] NODE-3: Working Task(bb5c5c4f, 7, 71), Queue Size: 5 
+[2019-06-19 17:59:53] [INFO   ] NODE-1: Working Task(8c253c51, 1, 89), Queue Size: 5 
+[2019-06-19 17:59:53] [INFO   ] NODE-1: Completed Task(8c253c51, 0, 156) Completed: 69 
+[2019-06-19 17:59:53] [INFO   ] NODE-3: Working Task(aa8edaf9, 2, 302), Queue Size: 4 
+[2019-06-19 17:59:54] [INFO   ] NODE-2: Completed Task(f9ed0a2f, 0, 166) Completed: 69 
+[2019-06-19 17:59:54] [INFO   ] NODE-1: Working Task(c5a30409, 2, 475), Queue Size: 4 
+[2019-06-19 17:59:54] [INFO   ] NODE-3: Working Task(7ea096db, 6, 166), Queue Size: 4 
+[2019-06-19 17:59:55] [INFO   ] NODE-2: Working Task(8fae5219, 2, 357), Queue Size: 4 
+[2019-06-19 17:59:55] [INFO   ] NODE-1: Working Task(bb5c5c4f, 6, 133), Queue Size: 3 
+[2019-06-19 17:59:55] [INFO   ] NODE-3: Working Task(aa8edaf9, 1, 365), Queue Size: 3 
+[2019-06-19 17:59:55] [INFO   ] NODE-3: Completed Task(aa8edaf9, 0, 442) Completed: 77 
+[2019-06-19 17:59:56] [INFO   ] NODE-1: Working Task(c5a30409, 1, 535), Queue Size: 2 
+[2019-06-19 17:59:56] [INFO   ] NODE-1: Completed Task(c5a30409, 0, 625) Completed: 70 
+[2019-06-19 17:59:56] [INFO   ] NODE-3: Working Task(7ea096db, 5, 256), Queue Size: 1 
+[2019-06-19 17:59:57] [INFO   ] NODE-1: Working Task(bb5c5c4f, 5, 222), Queue Size: 1 
+[2019-06-19 17:59:58] [INFO   ] NODE-3: Working Task(7ea096db, 4, 355), Queue Size: 0 
+[2019-06-19 17:59:59] [INFO   ] NODE-3: Working Task(7ea096db, 3, 434), Queue Size: 0 
+[2019-06-19 18:00:00] [INFO   ] NODE-3: Working Task(7ea096db, 2, 456), Queue Size: 0 
+[2019-06-19 18:00:01] [INFO   ] NODE-3: Working Task(7ea096db, 1, 482), Queue Size: 0 
+[2019-06-19 18:00:01] [INFO   ] NODE-3: Completed Task(7ea096db, 0, 571) Completed: 78 
+[2019-06-19 18:00:02] [INFO   ] NODE-3: Queue Empty, Completed: 78, Queue Size: (0) 
+[2019-06-19 18:00:03] [INFO   ] NODE-3: Working Task(8fae5219, 1, 406), Queue Size: 0 
+[2019-06-19 18:00:03] [INFO   ] NODE-3: Completed Task(8fae5219, 0, 484) Completed: 79 
+[2019-06-19 18:00:03] [INFO   ] NODE-2: Queue Empty, Completed: 69, Queue Size: (0) 
+[2019-06-19 18:00:04] [INFO   ] NODE-2: Queue Empty, Completed: 69, Queue Size: (0) 
+[2019-06-19 18:00:04] [INFO   ] NODE-3: Queue Empty, Completed: 79, Queue Size: (0) 
+[2019-06-19 18:00:04] [INFO   ] Producer1: Adding Task(b24e7565, 2, 0) Queue Size: 0 
+[2019-06-19 18:00:05] [INFO   ] NODE-2: Working Task(b24e7565, 2, 0), Queue Size: 1 
+[2019-06-19 18:00:05] [INFO   ] NODE-3: Working Task(bb5c5c4f, 4, 225), Queue Size: 0 
+[2019-06-19 18:00:05] [INFO   ] NODE-1: Working Task(bb5c5c4f, 3, 247), Queue Size: 1 
+[2019-06-19 18:00:06] [INFO   ] NODE-3: Working Task(b24e7565, 1, 31), Queue Size: 1 
+[2019-06-19 18:00:06] [INFO   ] NODE-2: Working Task(bb5c5c4f, 2, 333), Queue Size: 0 
+[2019-06-19 18:00:06] [INFO   ] NODE-3: Completed Task(b24e7565, 0, 89) Completed: 80 
+[2019-06-19 18:00:06] [INFO   ] Producer1: Adding Task(059a015d, 6, 0) Queue Size: 1 
+[2019-06-19 18:00:06] [INFO   ] NODE-1: Working Task(bb5c5c4f, 1, 365), Queue Size: 1 
+[2019-06-19 18:00:06] [INFO   ] NODE-1: Completed Task(bb5c5c4f, 0, 434) Completed: 71 
+[2019-06-19 18:00:07] [INFO   ] NODE-2: Working Task(059a015d, 6, 0), Queue Size: 0 
+[2019-06-19 18:00:07] [INFO   ] NODE-3: Queue Empty, Completed: 80, Queue Size: (0) 
+[2019-06-19 18:00:07] [INFO   ] NODE-1: Working Task(059a015d, 5, 2), Queue Size: 0 
+[2019-06-19 18:00:08] [INFO   ] NODE-3: Working Task(059a015d, 4, 13), Queue Size: 0 
+[2019-06-19 18:00:08] [INFO   ] NODE-2: Queue Empty, Completed: 69, Queue Size: (0) 
+[2019-06-19 18:00:08] [INFO   ] Producer1: Adding Task(4314eb64, 9, 0) Queue Size: 1 
+[2019-06-19 18:00:08] [INFO   ] NODE-1: Working Task(059a015d, 3, 93), Queue Size: 1 
+[2019-06-19 18:00:09] [INFO   ] NODE-3: Working Task(4314eb64, 9, 0), Queue Size: 1 
+[2019-06-19 18:00:09] [INFO   ] NODE-2: Working Task(059a015d, 2, 141), Queue Size: 0 
+[2019-06-19 18:00:09] [INFO   ] NODE-1: Working Task(4314eb64, 8, 77), Queue Size: 1 
+[2019-06-19 18:00:10] [INFO   ] NODE-3: Working Task(059a015d, 1, 226), Queue Size: 1 
+[2019-06-19 18:00:10] [INFO   ] NODE-2: Working Task(4314eb64, 7, 86), Queue Size: 0 
+[2019-06-19 18:00:10] [INFO   ] NODE-3: Completed Task(059a015d, 0, 282) Completed: 81 
+[2019-06-19 18:00:10] [INFO   ] Producer1: Adding Task(98150b8a, 8, 0) Queue Size: 1 
+[2019-06-19 18:00:10] [INFO   ] NODE-1: Working Task(4314eb64, 6, 140), Queue Size: 1 
+[2019-06-19 18:00:11] [INFO   ] NODE-2: Working Task(98150b8a, 8, 0), Queue Size: 1 
+[2019-06-19 18:00:11] [INFO   ] NODE-3: Working Task(4314eb64, 5, 151), Queue Size: 0 
+[2019-06-19 18:00:11] [INFO   ] NODE-1: Working Task(98150b8a, 7, 57), Queue Size: 1 
+[2019-06-19 18:00:12] [INFO   ] NODE-2: Working Task(4314eb64, 4, 185), Queue Size: 1 
+[2019-06-19 18:00:12] [INFO   ] NODE-3: Working Task(98150b8a, 6, 57), Queue Size: 0 
+[2019-06-19 18:00:12] [INFO   ] Producer1: Adding Task(c44d981b, 7, 0) Queue Size: 2 
+[2019-06-19 18:00:12] [INFO   ] NODE-1: Working Task(98150b8a, 5, 126), Queue Size: 2 
+[2019-06-19 18:00:13] [INFO   ] NODE-3: Working Task(4314eb64, 3, 274), Queue Size: 2 
+[2019-06-19 18:00:13] [INFO   ] NODE-2: Working Task(c44d981b, 7, 0), Queue Size: 1 
+[2019-06-19 18:00:13] [INFO   ] NODE-1: Working Task(98150b8a, 4, 209), Queue Size: 2 
+[2019-06-19 18:00:14] [INFO   ] NODE-2: Working Task(c44d981b, 6, 46), Queue Size: 2 
+[2019-06-19 18:00:14] [INFO   ] NODE-3: Working Task(4314eb64, 2, 280), Queue Size: 1 
+[2019-06-19 18:00:14] [INFO   ] Producer1: Adding Task(e8daae3b, 9, 0) Queue Size: 3 
+[2019-06-19 18:00:14] [INFO   ] NODE-1: Working Task(98150b8a, 3, 256), Queue Size: 3 
+[2019-06-19 18:00:15] [INFO   ] NODE-2: Working Task(c44d981b, 5, 60), Queue Size: 2 
+[2019-06-19 18:00:15] [INFO   ] NODE-3: Working Task(4314eb64, 1, 341), Queue Size: 1 
+[2019-06-19 18:00:15] [INFO   ] NODE-3: Completed Task(4314eb64, 0, 420) Completed: 82 
+[2019-06-19 18:00:16] [INFO   ] NODE-2: Working Task(e8daae3b, 9, 0), Queue Size: 2 
+[2019-06-19 18:00:16] [INFO   ] NODE-3: Working Task(c44d981b, 4, 101), Queue Size: 1 
+[2019-06-19 18:00:16] [INFO   ] Producer1: Adding Task(93ab1b8e, 2, 0) Queue Size: 3 
+[2019-06-19 18:00:16] [INFO   ] NODE-1: Working Task(98150b8a, 2, 291), Queue Size: 3 
+[2019-06-19 18:00:17] [INFO   ] NODE-3: Working Task(c44d981b, 3, 200), Queue Size: 2 
+[2019-06-19 18:00:17] [INFO   ] NODE-2: Working Task(e8daae3b, 8, 53), Queue Size: 3 
+[2019-06-19 18:00:17] [INFO   ] NODE-1: Working Task(93ab1b8e, 2, 0), Queue Size: 2 
+[2019-06-19 18:00:18] [INFO   ] NODE-2: Working Task(98150b8a, 1, 346), Queue Size: 2 
+[2019-06-19 18:00:18] [INFO   ] NODE-2: Completed Task(98150b8a, 0, 408) Completed: 70 
+[2019-06-19 18:00:18] [INFO   ] Producer1: Adding Task(f2f3c967, 4, 0) Queue Size: 2 
+[2019-06-19 18:00:18] [INFO   ] NODE-1: Working Task(e8daae3b, 7, 133), Queue Size: 2 
+[2019-06-19 18:00:19] [INFO   ] NODE-2: Working Task(93ab1b8e, 1, 91), Queue Size: 2 
+[2019-06-19 18:00:19] [INFO   ] NODE-2: Completed Task(93ab1b8e, 0, 152) Completed: 71 
+[2019-06-19 18:00:19] [INFO   ] NODE-1: Working Task(f2f3c967, 4, 0), Queue Size: 1 
+[2019-06-19 18:00:20] [INFO   ] NODE-2: Working Task(e8daae3b, 6, 178), Queue Size: 1 
+[2019-06-19 18:00:20] [INFO   ] Producer1: Adding Task(5b6ffc22, 7, 0) Queue Size: 2 
+[2019-06-19 18:00:20] [INFO   ] NODE-1: Working Task(f2f3c967, 3, 96), Queue Size: 2 
+[2019-06-19 18:00:21] [INFO   ] NODE-2: Working Task(e8daae3b, 5, 259), Queue Size: 2 
+[2019-06-19 18:00:21] [INFO   ] NODE-1: Working Task(5b6ffc22, 7, 0), Queue Size: 2 
+[2019-06-19 18:00:22] [INFO   ] NODE-2: Working Task(f2f3c967, 2, 169), Queue Size: 2 
+[2019-06-19 18:00:22] [INFO   ] Producer1: Adding Task(4eb4bc56, 2, 0) Queue Size: 3 
+[2019-06-19 18:00:23] [INFO   ] NODE-3: Working Task(e8daae3b, 4, 331), Queue Size: 3 
+[2019-06-19 18:00:23] [INFO   ] NODE-2: Working Task(c44d981b, 2, 260), Queue Size: 3 
+[2019-06-19 18:00:24] [INFO   ] NODE-3: Working Task(f2f3c967, 1, 172), Queue Size: 2 
+[2019-06-19 18:00:24] [INFO   ] NODE-3: Completed Task(f2f3c967, 0, 181) Completed: 83 
+[2019-06-19 18:00:24] [INFO   ] Producer1: Adding Task(dad96d05, 1, 0) Queue Size: 2 
+[2019-06-19 18:00:25] [INFO   ] NODE-3: Working Task(4eb4bc56, 2, 0), Queue Size: 2 
+[2019-06-19 18:00:26] [INFO   ] NODE-3: Working Task(e8daae3b, 3, 409), Queue Size: 2 
+[2019-06-19 18:00:26] [INFO   ] Producer1: Adding Task(5ae0d63b, 9, 0) Queue Size: 3 
+[2019-06-19 18:00:27] [INFO   ] NODE-3: Working Task(dad96d05, 1, 0), Queue Size: 4 
+[2019-06-19 18:00:27] [INFO   ] NODE-3: Completed Task(dad96d05, 0, 99) Completed: 84 
+[2019-06-19 18:00:27] [INFO   ] NODE-1: Working Task(4eb4bc56, 1, 89), Queue Size: 3 
+[2019-06-19 18:00:27] [INFO   ] NODE-1: Completed Task(4eb4bc56, 0, 116) Completed: 72 
+[2019-06-19 18:00:28] [INFO   ] NODE-3: Working Task(e8daae3b, 2, 479), Queue Size: 2 
+[2019-06-19 18:00:28] [INFO   ] Producer1: Adding Task(d117e210, 4, 0) Queue Size: 3 
+[2019-06-19 18:00:28] [INFO   ] NODE-1: Working Task(5ae0d63b, 9, 0), Queue Size: 3 
+[2019-06-19 18:00:29] [INFO   ] NODE-3: Working Task(5b6ffc22, 6, 58), Queue Size: 3 
+[2019-06-19 18:00:29] [INFO   ] NODE-1: Working Task(e8daae3b, 1, 530), Queue Size: 3 
+[2019-06-19 18:00:29] [INFO   ] NODE-1: Completed Task(e8daae3b, 0, 609) Completed: 73 
+[2019-06-19 18:00:30] [INFO   ] NODE-3: Working Task(d117e210, 4, 0), Queue Size: 3 
+[2019-06-19 18:00:30] [INFO   ] Producer1: Adding Task(a4527212, 8, 0) Queue Size: 4 
+[2019-06-19 18:00:30] [INFO   ] NODE-1: Working Task(5ae0d63b, 8, 86), Queue Size: 4 
+[2019-06-19 18:00:31] [INFO   ] NODE-2: Working Task(5b6ffc22, 5, 86), Queue Size: 4 
+[2019-06-19 18:00:31] [INFO   ] NODE-3: Working Task(c44d981b, 1, 280), Queue Size: 4 
+[2019-06-19 18:00:31] [INFO   ] NODE-1: Working Task(d117e210, 3, 41), Queue Size: 3 
+[2019-06-19 18:00:32] [INFO   ] NODE-2: Working Task(a4527212, 8, 0), Queue Size: 3 
+[2019-06-19 18:00:32] [INFO   ] Producer1: Adding Task(eafad571, 6, 0) Queue Size: 4 
+[2019-06-19 18:00:32] [INFO   ] NODE-1: Working Task(5ae0d63b, 7, 147), Queue Size: 4 
+[2019-06-19 18:00:33] [INFO   ] NODE-2: Working Task(5b6ffc22, 4, 126), Queue Size: 4 
+[2019-06-19 18:00:33] [INFO   ] NODE-1: Working Task(d117e210, 2, 73), Queue Size: 3 
+[2019-06-19 18:00:34] [INFO   ] Producer1: Adding Task(5a695e79, 8, 0) Queue Size: 4 
+[2019-06-19 18:00:34] [INFO   ] NODE-1: Working Task(a4527212, 7, 69), Queue Size: 4 
+[2019-06-19 18:00:35] [INFO   ] NODE-1: Working Task(eafad571, 6, 0), Queue Size: 4 
+[2019-06-19 18:00:36] [INFO   ] Producer1: Adding Task(b3abfff8, 4, 0) Queue Size: 5 
+[2019-06-19 18:00:37] [INFO   ] NODE-2: Working Task(5ae0d63b, 6, 211), Queue Size: 5 
+[2019-06-19 18:00:38] [INFO   ] NODE-2: Working Task(d117e210, 1, 79), Queue Size: 6 
+[2019-06-19 18:00:38] [INFO   ] NODE-2: Completed Task(d117e210, 0, 83) Completed: 72 
+[2019-06-19 18:00:38] [INFO   ] Producer1: Adding Task(1fb507e5, 2, 0) Queue Size: 6 
+[2019-06-19 18:00:38] [INFO   ] NODE-1: Working Task(5a695e79, 8, 0), Queue Size: 6 
+[2019-06-19 18:00:39] [INFO   ] NODE-2: Working Task(a4527212, 6, 125), Queue Size: 6 
+[2019-06-19 18:00:39] [INFO   ] NODE-1: Working Task(5b6ffc22, 3, 153), Queue Size: 6 
+[2019-06-19 18:00:40] [INFO   ] NODE-3: Completed Task(c44d981b, 0, 347) Completed: 85 
+[2019-06-19 18:00:40] [INFO   ] NODE-2: Working Task(b3abfff8, 4, 0), Queue Size: 6 
+[2019-06-19 18:00:40] [INFO   ] Producer1: Adding Task(c44b44a2, 10, 0) Queue Size: 7 
+[2019-06-19 18:00:40] [INFO   ] NODE-1: Working Task(5ae0d63b, 5, 296), Queue Size: 7 
+[2019-06-19 18:00:41] [INFO   ] NODE-3: Working Task(eafad571, 5, 45), Queue Size: 7 
+[2019-06-19 18:00:41] [INFO   ] NODE-2: Working Task(1fb507e5, 2, 0), Queue Size: 6 
+[2019-06-19 18:00:41] [INFO   ] NODE-1: Working Task(5a695e79, 7, 29), Queue Size: 6 
+[2019-06-19 18:00:42] [INFO   ] NODE-2: Working Task(a4527212, 5, 145), Queue Size: 6 
+[2019-06-19 18:00:42] [INFO   ] Producer1: Adding Task(ad6841ad, 1, 0) Queue Size: 6 
+[2019-06-19 18:00:42] [INFO   ] NODE-1: Working Task(5b6ffc22, 2, 162), Queue Size: 6 
+[2019-06-19 18:00:43] [INFO   ] NODE-1: Working Task(b3abfff8, 3, 87), Queue Size: 6 
