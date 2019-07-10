@@ -105,16 +105,20 @@ public class TestQueue1
 			}
 		} // pauseWhenFull
 
+		public void produce() {
+			if (this.q.size() < this.queueSizeMax) {
+				Task t = new Task();
+				log(String.format("%s: Adding %s Queue Size: %d", this.name, t, this.q.size()));
+				this.q.add(t);
+			} else {
+				log(String.format("%s: Queue full %d", this.name, this.q.size()));
+				pauseWhenFull();
+			}
+		} // produce
+
 		@Override
 		public void run() {
-				if (this.q.size() < this.queueSizeMax) {
-					Task t = new Task();
-					log(String.format("%s: Adding %s Queue Size: %d", this.name, t, this.q.size()));
-					this.q.add(t);
-				} else {
-					log(String.format("%s: Queue full %d", this.name, this.q.size()));
-					pauseWhenFull();
-				}
+				produce();
 		} //run
 	} // Producer
 
@@ -217,7 +221,6 @@ public class TestQueue1
 	public static void main(String[] args)  {
 		int durationSeconds, waitMs, nodes, errorRate;
 		String nodeName;
-
 
 		if (args.length >= 1) {
 			durationSeconds =  Integer.parseInt(args[0]);
