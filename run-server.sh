@@ -7,6 +7,7 @@ DURATION_SEC=${1:-"$SECONDS_DAY"}
 WAIT_MS=${2:-"5000"}
 NODE_SEQ=`echo ${3:-"1"} | sed 's/\,/ /g'` # Expects n or n,n,... with no spaces
 JAVA_APPLICATION_NAME=${4:-"TestQueue1"}
+ITERATIONS=1
 
 _validateEnvironmentVars() {
   echo "Validating environment variables for $1"
@@ -26,32 +27,42 @@ _validateEnvironmentVars "Run Server" \
   "APPDYNAMICS_AGENT_APPLICATION_NAME" "APPDYNAMICS_AGENT_TIER_NAME" "APPDYNAMICS_AGENT_NODE_NAME" \
   "APPDYNAMICS_APP_AGENT_JAR_FILE"
 
+#  java -javaagent:/home/ddr/agents/app/ver4.5.7.25056/javaagent.jar -Dappdynamics.low.entropy=true -Dallow.unsigned.sdk.extension.jars=true -Dappdynamics.analytics.agent.url=http://localhost:9090/v2/sinks/bt -classpath $APPDYNAMICS_APP_AGENT_JAR_FILE:. TestQueue1
+#  java -javaagent:/home/ddr/agents/app/ver4.5.7.25056/javaagent.jar -Dappdynamics.low.entropy=true -Dallow.unsigned.sdk.extension.jars=true –Dappdynamics.analytics.agent.url=http://localhost:9090/v2/sinks/bt -classpath /home/ddr/agents/app/ver4.5.7.25056/javaagent.jar:. TestQueue1
+
 export JAVA_OPTS=""
+if [ -e "$APPDYNAMICS_APP_AGENT_JAR_FILE" ]; then
+  export JAVA_OPTS="$JAVA_OPTS -javaagent:$APPDYNAMICS_APP_AGENT_JAR_FILE "
+else
+  echo "AppDynamics Java Agent not found (APPDYNAMICS_APP_AGENT_JAR_FILE): $APPDYNAMICS_APP_AGENT_JAR_FILE"
+  exit 0
+fi
+#                             appdynamics.analytics.agent.url
 export JAVA_OPTS=$JAVA_OPTS"-Dappdynamics.low.entropy=true "
 export JAVA_OPTS=$JAVA_OPTS"-Dallow.unsigned.sdk.extension.jars=true "
-export JAVA_OPTS=$JAVA_OPTS"-cp $APPDYNAMICS_APP_AGENT_JAR_FILE:. "
+export JAVA_OPTS=$JAVA_OPTS"-Dappdynamics.analytics.agent.url=$APPDYNAMICS_ANALYTICS_AGENT_URL "
+export JAVA_OPTS=$JAVA_OPTS"-classpath $APPDYNAMICS_APP_AGENT_JAR_FILE:. "
 
+echo "JAVA_OPS [$JAVA_OPTS]"
 # Requires: Java(TM) SE Runtime Environment 18.9 (build 11.0.3+12-LTS)
-export JAVA_OPTS=$JAVA_OPTS"-XX:+UnlockCommercialFeatures -XX:+FlightRecorder "
+#export JAVA_OPTS=$JAVA_OPTS"-XX:+UnlockCommercialFeatures -XX:+FlightRecorder "
 
 # Network Visibility
 #export LD_PRELOAD="/home/ddr/agent-net/lib/appd-netlib.so "
 #export JAVA_OPTS=$JAVA_OPTS"-Dappdynamics.socket.collection.bci.enable=true "
 
-if [ -e "$APPDYNAMICS_APP_AGENT_JAR_FILE" ]; then
-  export JAVA_OPTS="$JAVA_OPTS -javaagent:$APPDYNAMICS_APP_AGENT_JAR_FILE"
-else
-  echo "AppDynamics Java Agent not found: $APPDYNAMICS_APP_AGENT_JAR_FILE"
-  exit 0
-fi
+
 
 _startServer1() {
   NAME=$1
   ERROR_RATE=$2
   THREADS=3
   export APPDYNAMICS_AGENT_NODE_NAME=$NAME
-  echo "Starting: $APPDYNAMICS_AGENT_NODE_NAME $JAVA_APPLICATION_NAME $JAVA_OPTS"
+  echo "Starting: [$JAVA_OPTS] $JAVA_APPLICATION_NAME $APPDYNAMICS_AGENT_NODE_NAME "
   nohup java $JAVA_OPTS $JAVA_APPLICATION_NAME $DURATION_SEC $WAIT_MS $ERROR_RATE $THREADS $NAME &
+
+  #echo java -javaagent:/home/ddr/agents/app/ver4.5.7.25056/javaagent.jar -Dappdynamics.low.entropy=true -Dallow.unsigned.sdk.extension.jars=true -Dappdynamics.analytics.agent.url=http://localhost:9090/v2/sinks/bt -classpath /home/ddr/agents/app/ver4.5.7.25056/javaagent.jar:. TestQueue1 > b
+
 }
 
 # Kill existing processes
@@ -64,17 +75,18 @@ echo "Starting: Iterations: $ITERATIONS Wait: $WAIT_MS Nodes: $NODE_SEQ"
 
 # Start N nodes
 rm -rf nohup.out
-sleep 5
+sleep 1
 BASE_NODE_NAME=$APPDYNAMICS_AGENT_NODE_NAME
 ERRROR_RATE="20"
 for NODE_ID in $NODE_SEQ; do
   _startServer1 $BASE_NODE_NAME"_$NODE_ID" "$ERRROR_RATE"
 done
 sleep 2
-echo "Tailing nohup.out for 30 seconds"
+echo "Tailing nohup.out for 30 seconds: tail -f nohup.out"
 tail -f nohup.out &
 TAIL_PID=$!
 echo "PID $TAIL_PID"
-#(sleep 3600; echo "Stopping $TAIL_PID"; kill -9 $TAIL_PID; ) &
+(sleep 30; echo "Stopping $TAIL_PID"; kill -9 $TAIL_PID; echo "tail -f nohup.out # Stopped" ) &
 
+echo ""
 echo "Complete"
