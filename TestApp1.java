@@ -59,7 +59,7 @@ public class TestApp1
 		if (args.length >= 1) {
 			iterations =  Integer.parseInt(args[0]);
 		} else {
-			iterations = 10;
+			iterations = 123456;
 		}
 
 		if (args.length >= 2) {
