@@ -4,8 +4,11 @@
  * THIS IS UNPUBLISHED PROPRIETARY CODE OF APPDYNAMICS, INC.
  * The copyright notice above does not evidence any actual or intended publication of such source code
  *
+<<<<<<< HEAD
  * Maintainer: David Ryder, David.Ryder@AppDynamics.com
  *
+=======
+>>>>>>> 8e99d2f0690a3e497a67c05053d43b2def142949
  * Example AppDynamics Java SDK interceptor to track a method's execution time and report the value
  * in a field of the Transaction snapshot data
  */
@@ -29,7 +32,7 @@ public class TestApp1Interceptor1 extends AGenericInterceptor {
 	@Override
 	public List<Rule> initializeRules() {
 		List<Rule> rules = new ArrayList<Rule>();
-		rules.add(new Rule.Builder("TestApp1").classMatchType(SDKClassMatchType.MATCHES_CLASS).methodMatchString("sum")
+		rules.add(new Rule.Builder("TestApp1.Task").classMatchType(SDKClassMatchType.MATCHES_CLASS).methodMatchString("work")
 				.methodStringMatchType(SDKStringMatchType.EQUALS).build());
 
 		return rules;
